@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>林童的个人博客</title>
+  <subtitle>记录，生活。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-06-03T12:17:24.203Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Lin Tong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win10教程</title>
+    <link href="http://yoursite.com/2017/06/03/Win10%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/03/Win10教程/</id>
+    <published>2017-06-03T10:59:41.000Z</published>
+    <updated>2017-06-03T12:17:24.203Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><p>浏览器快捷键：<br>Alt + D ：浏览器中快速定位到地址栏  </p>
+<p>贴靠窗口：Win +左/右&gt; Win +上/下&gt;窗口可以变为1/4大小放置在屏幕4个角落<br>切换窗口：Alt + Tab(不是新的，但任务切换界面改进)<br>任务视图：Win + Tab(松开键盘界面不会消失)<br>创建新的虚拟桌面：Win + Ctrl + D<br>关闭当前虚拟桌面：Win + Ctrl + F4<br>切换虚拟桌面：Win + Ctrl +左/右   </p>
+<h2 id="《Win10常用Win快捷键》"><a href="#《Win10常用Win快捷键》" class="headerlink" title="《Win10常用Win快捷键》"></a>《Win10常用Win快捷键》</h2><p>Win + 数字键 快速打开任务栏上的软件<br>Win + R 打开运行对话框<br>Win + Q 快速打开搜索<br>Win + I 快速打开Win10设置栏<br>Ctrl+Alt+Del 快速打开任务管理器<br>Alt+F4 关机快捷键  </p>
+<h2 id="《Win键组合快捷键大全》"><a href="#《Win键组合快捷键大全》" class="headerlink" title="《Win键组合快捷键大全》"></a>《Win键组合快捷键大全》</h2><p>Win + ←：最大化窗口到左侧的屏幕上（与开始屏幕应用无关）<br>Win + →：最大化窗口到右侧的屏幕上（与开始屏幕应用无关）<br>Win+ ↑：最大化窗口（与开始屏幕应用无关）<br>Win+ ↓：最小化窗口（与开始屏幕应用无关）<br>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）<br>Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）<br>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）<br>Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）<br>Win+ P：演示设置<br>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）<br>Win+ 数字键：打开或切换位于任务栏指定位置的程序<br>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例<br>Win+B：光标移至通知区域<br>Win+Break：显示“系统属性”对话框<br>Win+D：显示桌面，第二次键击恢复桌面 （不恢复开始屏幕应用）<br>Win+E：打开我的电脑<br>Win+Ctrl+F：搜索计算机（如果你在网络上）<br>Win+G：循环切换侧边栏小工具<br>Win+L：锁住电脑或切换用户<br>Win+M：最小化所有窗口<br>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）<br>Win+T：切换任务栏上的程序<br>Win+Alt+回车：打开Windows媒体中心<br>Win+U：打开轻松访问中心<br>Win+F1：打开Windows帮助和支持<br>Win+N：插件新笔记（OneNote）<br>Win+S：打开屏幕截图工具（OneNote）<br>Win+A：接受所有来电 （在microsoft Lync中）<br>Win+X：拒绝来电（在microsoft Lync中），如果Windows移动中心存在，该快捷键不起作用<br>Win+减号：缩小（放大镜）<br>Win+加号：放大（放大镜）<br>Win+Esc：关闭放大镜<br>Win+空格键：切换输入语言和键盘布局<br>Win+O：禁用屏幕翻转<br>Win+，：临时查看桌面<br>Win+V：切换系统通知信息<br>Win+Shift+V：反向切换系统通知信息<br>Win+回车：打开“讲述人”<br>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器<br>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器<br>Win+Shift+.：将应用移至左侧<br>Win+.：将应用移至右侧<br>Win+C：打开Charms栏（提供设置、设备、共享和搜索等选项）<br>Win+K：打开连接显示屏<br>Win+H：打开共享栏<br>Win+W：打开“设置搜索”应用<br>Win+Tab：循环切换应用<br>Win+Shift+Tab：反向循环切换应用<br>Win+Ctrl+Tab：循环切换应用，切换时手动选择应用<br>Win+Z：打开“应用栏”<br>Win+/：恢复默认输入法<br>Win+J：显示之前操作的应用<br>Win+X：快捷菜单  </p>
+<h2 id="《Win10快捷键大全》"><a href="#《Win10快捷键大全》" class="headerlink" title="《Win10快捷键大全》"></a>《Win10快捷键大全》</h2><p>Win键 + C 打开“超级按钮”<br>Win键 + 空格键 切换语言或输入法(如果启用了多种语言或输入法)<br>Win键 + Z 右键菜单(开始屏幕)<br>Win键 + T 循环切换任务栏上的程序(传统桌面)<br>Win键 + X 打开 Windows8 左下角快捷菜单  </p>
+<h2 id="《其他Win键相关快捷键》"><a href="#《其他Win键相关快捷键》" class="headerlink" title="《其他Win键相关快捷键》"></a>《其他Win键相关快捷键》</h2><p>Win键 + U 打开轻松访问中心<br>Win键 + Pause 显示“系统属性”对话框<br>Win键 + Shift + V 反向切换系统通知信息<br>Win键 + Shift + 加号(+) 打开放大镜并放大桌面<br>Win键 + Shift + 减号(-) 打开放大镜并缩小桌面<br>Win键 + O 开启或关闭屏幕方向锁定(如果您的电脑支持屏幕方向自动感应)<br>Win键 + V 在屏幕上的通知中循环切换<br>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器<br>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器<br>Win键 + Enter 打开“讲述人”<br>Win键 + W 打开所选设置的“搜索”个性分类<br>Win键 + H 打开“共享”个性分类<br>Win键 + K 打开“设备”个性分类<br>Win键 + Shift + M 将最小化的窗口还原到桌面<br>Win键 + Shift + 向上键 将窗口拉伸到屏幕的顶部和底部<br>Win键 + Shift + 向左键或向右键 将窗口从一个监视器移动到另一个监视器<br>Win键 + ‘ 当您将应用程序向一侧对齐时，此热键将切换屏幕上应用程序的中心<br>Win键 + . 当您将应用程序向一侧对齐时，此热键会将拆分栏移动至右侧<br>Win键 + Shift + . 当您将应用程序向一侧对齐时，此热键会将拆分栏移动至左侧<br>Ctrl + Win键 + F 搜索计算机(如果已连接到网络)<br>Shift + Win键 + 数字 启动锁定到任务栏中的由该数字所表示位置处的程序的新实例<br>Ctrl + Win键 + 数字 切换到锁定到任务栏中的由该数字所表示位置处的程序的最后一个活动窗口<br>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的跳转列表 (Jump List)<br>Ctrl + Win键 + Tab 通过 Aero Flip 3-D 使用箭头键循环切换任务栏上的程序<br>Ctrl + Win键 + B 切换到在通知区域中显示消息的程序  </p>
+<h2 id="《常规的键盘快捷方式》"><a href="#《常规的键盘快捷方式》" class="headerlink" title="《常规的键盘快捷方式》"></a>《常规的键盘快捷方式》</h2><p>F1 显示帮助<br>Ctrl+Shift+Esc 打开任务管理器<br>Ctrl+Y 重新执行某项操作<br>Delete(或 Ctrl+D) 删除所选项目并将其移动到“回收站”<br>Shift+Delete 不先将所选项目移动到“回收站”而直接将其删除<br>F2 重命名选定项目<br>Ctrl+向右键 将光标移动到下一个字词的起始处<br>Ctrl+向左键 将光标移动到上一个字词的起始处<br>Ctrl+向下键 将光标移动到下一个段落的起始处<br>Ctrl+向上键 将光标移动到上一个段落的起始处<br>Ctrl+Shift 加某个箭头键 选择一块文本<br>Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本<br>Ctrl 加任意箭头键+空格键 选择窗口中或桌面上的多个单个项目<br>Ctrl+A 选择文档或窗口中的所有项目<br>F3 搜索文件或文件夹<br>Alt+Enter 显示所选项的属性<br>Alt+F4 关闭活动项目或者退出活动程序<br>Alt+空格键 为活动窗口打开快捷方式菜单<br>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)<br>Ctrl+Alt+Tab 使用箭头键在打开的项目之间切换<br>Ctrl+鼠标滚轮 更改桌面上的图标大小<br>Alt+Esc 以项目打开的顺序循环切换项目<br>F6 在窗口中或桌面上循环切换屏幕元素<br>F4 在 Win资源管理器中显示地址栏列表<br>Shift+F10 显示选定项目的快捷菜单<br>Ctrl+Esc 打开“开始”菜单<br>Alt+加下划线的字母 显示相应的菜单<br>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)<br>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧的下一个菜单或者关闭子菜单<br>F5(或 Ctrl+R) 刷新活动窗口<br>Alt+向上键 在 Win资源管理器中查看上一级文件夹<br>Esc 取消当前任务<br>插入 CD 时按住 Shift 阻止 CD 自动播放<br>左 Alt+Shift 在启用多种输入语言时切换输入语言<br>Ctrl+Shift 在启用多个键盘布局时切换键盘布局<br>右或左 Ctrl+Shift 更改从右到左阅读语言的文本阅读方向  </p>
+<h2 id="《Win资源管理器中的快捷键》"><a href="#《Win资源管理器中的快捷键》" class="headerlink" title="《Win资源管理器中的快捷键》"></a>《Win资源管理器中的快捷键》</h2><p>Ctrl+N 打开新窗口<br>Ctrl+W 关闭当前窗口<br>Ctrl+Shift+N 新建文件夹<br>F11 最大化或最小化活动窗口<br>Ctrl+句点 顺时针旋转图片<br>Ctrl+逗号 逆时针旋转图片<br>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹<br>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容<br>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹<br>Alt+P 显示预览窗格<br>Alt+向左键 查看上一个文件夹<br>Backspace (退格键) 向上，返回父文件夹 向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹<br>Alt+向右键 查看下一个文件夹<br>Alt+向上键 查看父文件夹<br>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹<br>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观<br>Alt+D 选择地址栏<br>Ctrl+E 选择搜索框<br>Ctrl+F 选择搜索框 在对话框中使用的快捷键<br>Ctrl+Tab 在选项卡上向前移动<br>Ctrl+Shift+Tab 在选项卡上向后移动<br>Tab 在选项上向前移动<br>Shift+Tab 在选项上向后移动<br>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)<br>Enter 对于许多选定命令代替单击鼠标<br>空格键 如果活动选项是复选框，则选中或清除该复选框<br>箭头键 如果活动选项是一组选项按钮，则选择某个按钮<br>F4 显示活动列表中的项目  </p>
+<h2 id="《在任务栏项目中的快捷键》"><a href="#《在任务栏项目中的快捷键》" class="headerlink" title="《在任务栏项目中的快捷键》"></a>《在任务栏项目中的快捷键》</h2><p>按住 Shift 并单击某个任务栏按钮 打开程序，或快速打开程序的另一个实例<br>按住 Ctrl+Shift 并单击某个任务栏按钮 以管理员身份打开程序<br>按住 Shift 并右键单击某个任务栏按钮 显示该程序的窗口菜单<br>按住 Shift 并右键单击某个分组的任务栏按钮 显示该组的窗口菜单<br>按住 Ctrl 并单击某个分组的任务栏按钮 循环切换该组的窗口  </p>
+<h2 id="《在放大镜中的快捷键》"><a href="#《在放大镜中的快捷键》" class="headerlink" title="《在放大镜中的快捷键》"></a>《在放大镜中的快捷键》</h2><p>Win徽标键 + 加号 (+) 或减号 (-) 放大或缩小<br>Ctrl+Alt+空格键 以全屏模式预览桌面<br>Ctrl+Alt+F 切换到全屏模式<br>Ctrl+Alt+L 切换到镜头模式<br>Ctrl+Alt+D 切换到停靠模式<br>Ctrl+Alt+I 反色<br>Ctrl+Alt+箭头键 按箭头键的方向平移<br>Ctrl+Alt+R 调整镜头的大小<br>Win徽标键 + Esc 退出放大镜  </p>
+<h2 id="《在远程桌面连接中的快捷键》"><a href="#《在远程桌面连接中的快捷键》" class="headerlink" title="《在远程桌面连接中的快捷键》"></a>《在远程桌面连接中的快捷键》</h2><p>Alt+Page Up 将程序从左侧移动到右侧<br>Alt+Page Down 将程序从右侧移动到左侧<br>Alt+Insert 按照程序启动的顺序循环切换程序<br>Alt+Home 显示“开始”菜单<br>Ctrl+Alt+Break 在窗口和全屏之间切换<br>Ctrl+Alt+End 显示“Win安全”对话框<br>Alt+Delete 显示系统菜单<br>Ctrl+Alt+数字键盘上的减号 (-) 将客户端当前活动窗口的副本放在终端服务器的剪贴板上(提供的功能与在本地计算机上按Alt+PrtScn 相同)<br>Ctrl+Alt+数字键盘上的加号 (+) 将整个客户端窗口区域的副本放在终端服务器的剪贴板上(提供的功能与在本地计算机上按 PrtScn 相同)<br>Ctrl+Alt+向右键 从远程桌面控件“跳转”到主机程序中的控件(如按钮或文本框)将远程桌面控件嵌入到其他(主机)程序后，此功能非常有用<br>Ctrl+Alt+向左键 从远程桌面控件“跳转”到主机程序中的控件(如按钮或文本框)将远程桌面控件嵌入到其他(主机)程序后，此功能非常有用在  </p>
+<h2 id="《Win10画图中的快捷键》"><a href="#《Win10画图中的快捷键》" class="headerlink" title="《Win10画图中的快捷键》"></a>《Win10画图中的快捷键》</h2><p>Ctrl+N 创建新的图片<br>Ctrl+O 打开现有图片<br>Ctrl+S 将更改保存到图片<br>F12 将此图片另存为新文件<br>Ctrl+P 打印图片<br>Alt+F4 关闭图片及其画图窗口<br>Ctrl+Z 撤消更改<br>Ctrl+Y 恢复更改<br>Ctrl+A 选择整个图片<br>Ctrl+X 剪切选择内容<br>Ctrl+C 将选择内容复制到剪贴板<br>Ctrl+V 从剪贴板粘贴选择内容  </p>
+<p>向右键 将选择内容或活动图形向右移动一个像素<br>向左键 将选择内容或活动图形向左移动一个像素<br>向下键 将选择内容或活动图形向下移动一个像素<br>向上键 将选择内容或活动图形向上移动一个像素<br>Esc 取消某个选择<br>Delete 删除某个选择<br>Ctrl+B 粗体选择文本<br>Ctrl++ 将画笔、直线或形状轮廓的宽度增加一个像素<br>Ctrl+- 将画笔、直线或形状轮廓的宽度减少一个像素<br>Ctrl+I 将所选文本改为斜体<br>Ctrl+U 为所选文本添加下划线<br>Ctrl+E 打开“属性”对话框<br>Ctrl+W 打开“调整大小和扭曲”对话框<br>Ctrl+Page Up 放大<br>Ctrl+Page Down 缩小<br>F11 以全屏模式查看图片<br>Ctrl+R 显示或隐藏标尺<br>Ctrl+G 显示或隐藏网格线<br>F10 或 Alt 显示快捷键提示<br>Shift+F10 显示当前快捷菜单<br>F1 打开“画图”帮助在写字板中的快捷键<br>F12 将此文档另存为新文件<br>Ctrl+P 打印文档<br>Alt+F4 关闭“写字板”<br>Ctrl+Y 恢复更改<br>Ctrl+B 将所选文本改为粗体<br>Ctrl+I 将所选文本改为斜体<br>Ctrl+U 为所选文本添加下划线<br>Ctrl+= 使选择的文本成为下标<br>Ctrl+Shift+= 使选择的文本成为上标<br>Ctrl+L 向左对齐文本<br>Ctrl+E 向中心对齐文本<br>Ctrl+R 向右对齐文本<br>Ctrl+J 对齐文本<br>Ctrl+1 设置单倍行距<br>Ctrl+2 设置双倍行距<br>Ctrl+5 将行距设置为 1.5<br>Ctrl+Shift+&gt; 增加字体大小<br>Ctrl+Shift+&lt; 减小字体大小<br>Ctrl+Shift+A 将字符更改为全部使用大写字母<br>Ctrl+Shift+L 更改项目符号样式<br>Ctrl+D 插入 Microsoft 画图图片<br>Ctrl+F 在文档中查找文本F3 在“查找”对话框中查找文本的下一个实例<br>Ctrl+H 在文档中替换文本<br>Ctrl+向左键 将光标向左移动一个字<br>Ctrl+向右键 将光标向右移动一个字<br>Ctrl+向上键 将光标移动到上一行<br>Ctrl+向下键 将光标移动到下一行<br>Ctrl+Home 移动到文档的开头<br>Ctrl+End 移动到文档的结尾<br>Ctrl+Page Up 向上移动一个页面<br>Ctrl+Page Down 向下移动一个页面<br>Ctrl+Delete 删除下一个字<br>F10 显示快捷键提示<br>Shift+F10 显示当前快捷菜单  </p>
+<p>F5 在程序员模式下选择 Hex<br>F6 在程序员模式下选择 Dec<br>F7 在程序员模式下选择 Oct<br>F8 在程序员模式下选择 Bin<br>F12 在程序员模式下选择 Qword<br>F2 在程序员模式下选择 Dword<br>F3 在程序员模式下选择 Word<br>F4 在程序员模式下选择 Byte<br>K 在程序员模式下按 RoR 按钮<br>J 在程序员模式下按 RoL 按钮<br>&lt; 在程序员模式下按 Lsh 按钮  </p>
+<blockquote>
+<p>在程序员模式下按 Rsh 按钮<br>% 在程序员模式下按 Mod 按钮<br>( 在程序员模式下按 ( 按钮<br>) 在程序员模式下按 ) 按钮<br>| 在程序员模式下按 Or 按钮<br>^ 在程序员模式下按 Xor 按钮<br>~ 在程序员模式下按 Not 按钮<br>&amp; 在程序员模式下按 And 按钮<br>A-F 在程序员模式下按 A-F 按钮<br>空格键 在程序员模式下切换位值<br>A 在统计信息模式下按 Average 按钮<br>Ctrl+A 在统计信息模式下按 Average Sq 按钮<br>S 在统计信息模式下按 Sum 按钮<br>Ctrl+S 在统计信息模式下按 Sum Sq 按钮<br>T 在统计信息模式下按 S.D. 按钮<br>Ctrl+T 在统计信息模式下按 Inv S.D. 按钮<br>D 在统计信息模式下按 CAD 按钮  </p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      win10快捷键。
+    
+    </summary>
+    
+      <category term="生产力" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/"/>
+    
+      <category term="windows" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/windows/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="win10" scheme="http://yoursite.com/tags/win10/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VS教程</title>
+    <link href="http://yoursite.com/2017/06/03/VS%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/03/VS教程/</id>
+    <published>2017-06-03T10:56:54.000Z</published>
+    <updated>2017-06-03T12:16:58.537Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><p>F10：逐过程调试<br>F11：逐语句调试（一句一句执行）<br>F12：转到定义，到变量或函数定义的地方，与Ctrl+-配合使用非常方便<br>Ctrl+]：匹配选中的括号（大括号、小括号都行），在多层循环+判断语句时非常方便Ctrl+Space：代码补全<br>Ctrl+tab：在VS中切换打开的窗口，即切换各个文件<br>Ctrl+I：递增搜索，与Ctrl+F不同的是搜索期间不显示搜索对话框，且Ctrl+F搜索下一个直接按Enter即  可，而Ctrl+I搜索下一个按Ctrl+I或F3，Escape退出，连续按两次Ctrl+I重复上次搜索<br>Ctrl+Shift+F：旧式的文件搜索对话框（与记事本中的搜索替换框差不多，可以替换）Ctrl+F3：为当前选中的部分进行搜索（不需要再输入要搜索的内容）<br>Shift+Alt+Enter：最大化代码编写区域（代码全屏模式），即去掉所有其它辅助窗口只留下代码编写窗口，再按一次返回到原来界面<br>Ctrl+K+C：注释一段代码块（好用）<br>Ctrl+K+U：取消注释一段代码块（好用）<br>Ctrl+K+D：代码整理（好用）<br>Ctrl+K+F：只整理你选中的部分<br>Ctrl+L：删除当前行<br>Ctrl+M,：展开或折叠当前的代码（展开或收缩方法，类等）  </p>
+<pre><code>1. 编译的时候出现error:1038，无法打开预编译头
+2. 此时一般可以到：项目属性-&gt;C/C++-&gt;预编译头 中设置。
+3. boost库是一个C++拓展库，大部分库功能值需要包含头文件即可，少数需要连接。
+4. gsl库主要用于科学计算，由gnu软件发布。三大库支持科学计算，它们是GNU的gsl，blitz++以及MTL。
+5. 无法加载sqlite3.dll：找不到指定模块，在VS的安装目录bin下添加相应的dll即可。
+6. 函数在头文件.h和源文件.cpp都要进行构造和析构。
+7. 关于libgslcblas.lib、和libgslcblas-0.lib的问题？
+8. 导出dll转为exe，修改主函数void main(){}；连接器-&gt;系统-&gt;子系统为控制台CONSOLE。如若不行，还可修改C/C++预处理器定义项。
+</code></pre><h2 id="VS中添加lib库和头文件（外部依赖项）"><a href="#VS中添加lib库和头文件（外部依赖项）" class="headerlink" title="VS中添加lib库和头文件（外部依赖项）"></a>VS中添加lib库和头文件（外部依赖项）</h2><p>步骤：  </p>
+<pre><code>1. 添加工程的头文件目录：工程--&gt;属性--&gt;属性配置--&gt;C/C++--&gt;常规--&gt;附加包含目录：加上头文件存放目录。  
+2. 添加文件引用的lib静态库路径：工程--&gt;属性--&gt;配置属性--&gt;链接器--&gt;常规--&gt;附加库目录：加上lib文件存放目录；然后添加工程引用的lib文件名：工程--&gt;属性--&gt;配置属性--&gt;链接器--&gt;输入--&gt;附加依赖项：加上lib文件名。  
+3. 添加工程引用的dll动态库：把引用的dll放到工程的可执行文件所在的目录下。  
+</code></pre><p>解决方案–&gt;属性–&gt;通用属性–&gt;项目依赖项，用以决定生成具体解决方案时项目的编译顺序。</p>
+<h2 id="编程技巧"><a href="#编程技巧" class="headerlink" title="编程技巧"></a>编程技巧</h2><p>1 .h文件中，一般不使用using namespace std;，容易造成名称污染。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      VS常用快捷键。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="VS" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/VS/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="visual studio" scheme="http://yoursite.com/tags/visual-studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>正则表达式</title>
+    <link href="http://yoursite.com/2017/06/03/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    <id>http://yoursite.com/2017/06/03/正则表达式/</id>
+    <published>2017-06-03T10:54:05.000Z</published>
+    <updated>2017-06-03T12:14:36.163Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="常用正则表达式"><a href="#常用正则表达式" class="headerlink" title="常用正则表达式"></a>常用正则表达式</h1><h2 id="一、校验数字的表达式"><a href="#一、校验数字的表达式" class="headerlink" title="一、校验数字的表达式"></a>一、校验数字的表达式</h2><p>1 数字：<br>^[0-9]*$</p>
+<p>2 n位的数字：<br>^d{n}$</p>
+<p>3 至少n位的数字：<br>^d{n,}$</p>
+<p>4 m-n位的数字：<br>^d{m,n}$</p>
+<p>5 零和非零开头的数字：<br>^(0|[1-9][0-9]*)$</p>
+<p>6 非零开头的最多带两位小数的数字：<br>^([1-9][0-9]*)+(.[0-9]{1,2})?$</p>
+<p>7 带1-2位小数的正数或负数：<br>^(-)?d+(.d{1,2})?$</p>
+<p>8 正数、负数、和小数：<br>^(-|+)?d+(.d+)?$</p>
+<p>9 有两位小数的正实数：<br>^[0-9]+(.[0-9]{2})?$</p>
+<p>10 有1~3位小数的正实数：<br>^[0-9]+(.[0-9]{1,3})?$</p>
+<p>11 非零的正整数：<br>^[1-9]d<em>$<br>或<br>^([1-9][0-9]</em>){1,3}$<br>或<br>^+?[1-9][0-9]*$</p>
+<p>12 非零的负整数：<br>^-[1-9][]0-9”<em>$<br>或<br>^-[1-9]d</em>$</p>
+<p>13 非负整数：<br>^d+$<br>或<br>^[1-9]d*|0$</p>
+<p>14 非正整数：<br>^-[1-9]d*|0$<br>或<br>^((-d+)|(0+))$</p>
+<p>15 非负浮点数：<br>^d+(.d+)?$<br>或<br>^[1-9]d<em>.d</em>|0.d<em>[1-9]d</em>|0?.0+|0$</p>
+<p>16 非正浮点数：<br>^((-d+(.d+)?)|(0+(.0+)?))$<br>或<br>^(-([1-9]d<em>.d</em>|0.d<em>[1-9]d</em>))|0?.0+|0$</p>
+<p>17 正浮点数：<br>^[1-9]d<em>.d</em>|0.d<em>[1-9]d</em>$<br>或<br>^(([0-9]+.[0-9]<em>[1-9][0-9]</em>)|([0-9]<em>[1-9][0-9]</em>.[0-9]+)|([0-9]<em>[1-9][0-9]</em>))$</p>
+<p>18 负浮点数：<br>^-([1-9]d<em>.d</em>|0.d<em>[1-9]d</em>)$<br>或<br>^(-(([0-9]+.[0-9]<em>[1-9][0-9]</em>)|([0-9]<em>[1-9][0-9]</em>.[0-9]+)|([0-9]<em>[1-9][0-9]</em>)))$</p>
+<p>19 浮点数：<br>^(-?d+)(.d+)?$<br>或<br>^-?([1-9]d<em>.d</em>|0.d<em>[1-9]d</em>|0?.0+|0)$</p>
+<h2 id="二、校验字符的表达式"><a href="#二、校验字符的表达式" class="headerlink" title="二、校验字符的表达式"></a>二、校验字符的表达式</h2><p>1 汉字：<br>^[一-龥]{0,}$</p>
+<p>2 英文和数字：<br>^[A-Za-z0-9]+$<br>或<br>^[A-Za-z0-9]{4,40}$</p>
+<p>3 长度为3-20的所有字符：<br>^.{3,20}$</p>
+<p>4 由26个英文字母组成的字符串：<br>^[A-Za-z]+$</p>
+<p>5 由26个大写英文字母组成的字符串：<br>^[A-Z]+$</p>
+<p>6 由26个小写英文字母组成的字符串：<br>^[a-z]+$</p>
+<p>7 由数字和26个英文字母组成的字符串：<br>^[A-Za-z0-9]+$</p>
+<p>8 由数字、26个英文字母或者下划线组成的字符串：<br>^w+$<br>或<br>^w{3,20}$</p>
+<p>9 中文、英文、数字包括下划线：<br>^[一-龥A-Za-z0-9_]+$</p>
+<p>10 中文、英文、数字但不包括下划线等符号：<br>^[一-龥A-Za-z0-9]+$<br>或<br>^[一-龥A-Za-z0-9]{2,20}$</p>
+<p>11 可以输入含有^%&amp;’,;=?$”等字符：<br>[^%&amp;’,;=?$”]+</p>
+<p>12 禁止输入含有~的字符：<br>[^~”]+</p>
+<h2 id="三、特殊需求表达式"><a href="#三、特殊需求表达式" class="headerlink" title="三、特殊需求表达式"></a>三、特殊需求表达式</h2><p>1 Email地址：<br>^w+([-+.]w+)<em>@w+([-.]w+)</em>.w+([-.]w+)*$</p>
+<p>2 域名：<br>[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(/.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+/.?</p>
+<p>3 InternetURL：<br>[a-zA-z]+://[^s]<em><br>或<br>^<a href="http://([w-]+.)+[w-]+(/[w-./?%&amp;=" target="_blank" rel="external">http://([w-]+.)+[w-]+(/[w-./?%&amp;=</a>]</em>)?$</p>
+<p>4 手机号码：<br>^(13[0-9]|14[5|7]|15[0|1|2|3|5|6|7|8|9]|18[0|1|2|3|5|6|7|8|9])d{8}$</p>
+<p>5 电话号码(“XXX-XXXXXXX”、”XXXX-XXXXXXXX”、”XXX-XXXXXXX”、”XXX-XXXXXXXX”、”XXXXXXX”和”XXXXXXXX)：<br>^((d{3,4}-)|d{3.4}-)?d{7,8}$</p>
+<p>6 国内电话号码(0511-4405222、021-87888822)：<br>d{3}-d{8}|d{4}-d{7}</p>
+<p>7 身份证号(15位、18位数字)：<br>^d{15}|d{18}$</p>
+<p>8 短身份证号码(数字、字母x结尾)：<br>^([0-9]){7,18}(x|X)?$<br>或<br>^d{8,18}|[0-9x]{8,18}|[0-9X]{8,18}?$</p>
+<p>9 帐号是否合法(字母开头，允许5-16字节，允许字母数字下划线)：<br>^[a-zA-Z][a-zA-Z0-9_]{4,15}$</p>
+<p>10 密码(以字母开头，长度在6~18之间，只能包含字母、数字和下划线)：<br>^[a-zA-Z]w{5,17}$</p>
+<p>11 强密码(必须包含大小写字母和数字的组合，不能使用特殊字符，长度在8-10<br>之间)：<br>^(?=.<em>d)(?=.</em>[a-z])(?=.*[A-Z]).{8,10}$</p>
+<p>12 日期格式：<br>^d{4}-d{1,2}-d{1,2}</p>
+<p>13 一年的12个月(01～09和1～12)：<br>^(0?[1-9]|1[0-2])$</p>
+<p>14 一个月的31天(01～09和1～31)：<br>^((0?[1-9])|((1|2)[0-9])|30|31)$</p>
+<p>15 xml文件：<br>^([a-zA-Z]+-?)+[a-zA-Z0-9]+.[x|X][m|M][l|L]$</p>
+<p>16 中文字符的正则表达式：<br>[一-龥]</p>
+<p>17 双字节字符：<br>[^-ÿ] (包括汉字在内，可以用来计算字符串的长度(一个双字节字符长度计2，ASCII字符计1))</p>
+<p>18 空白行的正则表达式：<br>s* (可以用来删除空白行)</p>
+<p>19 HTML标记的正则表达式：<br>&lt;(S<em>?)[^&gt;]</em>&gt;.<em>?&lt;/&gt;|&lt;.</em>? /&gt; (网上流传的版本太糟糕，上面这个也仅仅能部分，对于复杂的嵌套标记依旧无能为力)</p>
+<p>20 首尾空白字符的正则表达式：<br>^s<em>|s</em>$或(^s<em>)|(s</em>$) (可以用来删除行首行尾的空白字符(包括空格、制表符、换页符等等)，非常有用的表达式)</p>
+<p>21 腾讯QQ号：<br>[1-9][0-9]{4,} (腾讯QQ号从10000开始)</p>
+<p>22 中国邮政编码：<br>[1-9]d{5}(?!d) (中国邮政编码为6位数字)</p>
+<p>23 IP地址：<br>d+.d+.d+.d+ (提取IP地址时有用)</p>
+<p>24 IP地址：<br>((?:(?:25[0-5]|2[0-4]\d|[01]?\d?\d).){3}(?:25[0-5]|2[0-4]\d|[01]?\d?\d))</p>
+<p>25 钱的输入格式：</p>
+<p>1）.有四种钱的表示形式我们可以接受:”10000.00” 和 “10,000.00”, 和没有 “分” 的 “10000” 和 “10,000”：<br>^[1-9][0-9]*$</p>
+<p>2）.这表示任意一个不以0开头的数字,但是,这也意味着一个字符”0”不通过,所以我们采用下面的形式：<br>^(0|[1-9][0-9]*)$</p>
+<p>3）.一个0或者一个不以0开头的数字.我们还可以允许开头有一个负号：<br>^(0|-?[1-9][0-9]*)$</p>
+<p>4）.这表示一个0或者一个可能为负的开头不为0的数字.让用户以0开头好了.把负号的也去掉,因为钱总不能是负的吧.下面我们要加的是说明可能的小数部分：<br>^[0-9]+(.[0-9]+)?$</p>
+<p>5）.必须说明的是,小数点后面至少应该有1位数,所以”10.”是不通过的,但是 “10” 和 “10.2” 是通过的：<br>^[0-9]+(.[0-9]{2})?$</p>
+<p>6）.这样我们规定小数点后面必须有两位,如果你认为太苛刻了,可以这样：<br>^[0-9]+(.[0-9]{1,2})?$</p>
+<p>7）.这样就允许用户只写一位小数.下面我们该考虑数字中的逗号了,我们可以这样：<br>^[0-9]{1,3}(,[0-9]{3})*(.[0-9]{1,2})?$</p>
+<p>8）.1到3个数字,后面跟着任意个 逗号+3个数字,逗号成为可选,而不是必须：<br>^([0-9]+|[0-9]{1,3}(,[0-9]{3})*)(.[0-9]{1,2})?$</p>
+<p>备注：这就是最终结果了,别忘了”+”可以用”*”替代如果你觉得空字符串也可以接受的话(奇怪,为什么?)最后,别忘了在用函数时去掉去掉那个反斜杠,一般的错误都在这里</p>
+]]></content>
+    
+    <summary type="html">
+    
+      常用正则表达式。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="知识" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="正则表达式" scheme="http://yoursite.com/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git教程</title>
+    <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/03/Git教程/</id>
+    <published>2017-06-03T10:48:04.000Z</published>
+    <updated>2017-06-03T12:17:29.090Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
+<li>git config –global user.name “Your name”</li>
+<li>git config –global user.email “Your email”<br>  注意git config命令的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址<h2 id="2、远程仓库"><a href="#2、远程仓库" class="headerlink" title="2、远程仓库"></a>2、远程仓库</h2></li>
+<li>ssh-keygen -t rsa -C “youremail@example.com”<br>  在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥</li>
+<li>git remote add origin git@github.com:lintongtale/test.git 将本地仓库与远程仓库关联</li>
+<li>git push -u origin master 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  git push origin master</li>
+<li>git clone git@github.com:lintongtale/test.git 从远程克隆一个本地库<br>  ls 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="./Git使用/git-status.png" alt="git状态转移"></h2></li>
+<li>mkdir <file> 创建一个空目录<br>  cd <file><br>  pwd </file></file></li>
+<li>git init 把当前目录变成Git可以管理的仓库</li>
+<li>git add <file> 添加到暂存区<br>  git add . 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  git add -u 更新已经被add的文件，不提交新文件（untracked file）<br>  git add -A 上面两个功能的合集</file></li>
+<li>git commit -m “说明”</li>
+<li>git log 显示从最近的提交日志git log –pretty=oneline<br>  pretty 按指定格式显示日志信息,可选项有：oneline,short,medium,full,fuller,email,raw以及format</li>
+<li>git reset –hard HEAD^ 回退到上一个版本<br>  git  reset –hard HEAD^^ 回退到上上一个版本<br>  git reset –hard HEAD~100 往上100个版本<br>  git reflog 记录每一次命令，包括commit id<br>  git reset –hard <commit id=""></commit></li>
+<li>git status 查看状态</li>
+<li>git diff HEAD – <file> 查看工作区和版本库里面最新版本的区别</file></li>
+<li>git checkout – <file> 让文件回到最近一次git commit或git add时的状态（撤销修改）</file></li>
+<li>rm <file> 删除文件<br>  git rm <file><br>  git commit -m “remove file”<br>  若发现删错了，git checkout – <file><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></file></file></file></li>
+<li>git checkout -b test 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  git branch test 创建分支<br>  git checkout test 切换分支<br>  git branch 查看当前分支</li>
+<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<br>  git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+<li>git branch -d test 删除test分支</li>
+<li>git log –graph 查看分支合并图<br>  当master分支和test分支各自都有新的提交时，Git无法快速合并，只能试图将各自的修改合并起来。</li>
+<li>git branch -a 查看远程分支<h3 id="Bug分支"><a href="#Bug分支" class="headerlink" title="Bug分支"></a>Bug分支</h3></li>
+<li>当你在dev分支上进行的工作还没有提交，而此时有一个代号为101的bug任务，需要另外临时创建一个issue-101来修复它<br>  git stash 把当前工作现场“储藏”起来，等以后恢复现场后继续工作，此时git status工作区是干净的<br>  假设需要在master分支上修复bug，创建临时分支issue-101修改并merge后  </li>
+<li>git stash list 查看刚才的工作现场<br>  git stash apply 恢复<br>  git stash drop 删除stash内容<br>  git stash pop 等同于前两步<h3 id="Feature分支"><a href="#Feature分支" class="headerlink" title="Feature分支"></a>Feature分支</h3></li>
+<li>软件开发中，每添加一个功能时，应该创建一个feature分支，完成后再合并。</li>
+<li>当分支完成并commit后，如果此时功能需要取消，要删除feature分支，此时，使用git branch –d feature-vulcan将会出现error</li>
+<li>git branch –D feature-vulcan 强行删除feature-vulcan分支<h3 id="多人协作"><a href="#多人协作" class="headerlink" title="多人协作"></a>多人协作</h3></li>
+<li>git remote –v 查看远程仓库的信息</li>
+<li>git push origin master 推送分支，git push origin dev推送dev分支</li>
+<li>master是主分支，要时刻与远程同步；dev是开发分支，团队所有成员都需要在上面工作，需要远程同步；bug分支只用于本地修复bug，无需推送到远程；feature分支是否推送到远程，取决于你是否和其他人合作在上面开发</li>
+<li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地<pre><code>此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”
+</code></pre></li>
+<li>git pull 把最新的提交从远程抓下来</li>
+<li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull<pre><code>此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push
+</code></pre><h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
+<li>git tag v1.0 创建标签；默认标签是打在最新提交的commit上的</li>
+<li>git tag 查看所有标签</li>
+<li>git log –pretty=oneline –-abbrev-commit 查找到相应的commit id例如6224937；然后打标签</li>
+<li>git tag v0.9 6224937</li>
+<li>git tag –a v0.1 -m “version 0.1 released” 3628164 创建带有说明的标签，-a指定标签名，-m指定说明文字</li>
+<li>git tag –s v0.2 -m “signed version 0.2 released” 用PGP签名标签</li>
+<li>git tag –d v0.1 删除标签</li>
+<li>git push origin v0.1 推送标签到远程</li>
+<li>git push origin –tags 一次性推送全部尚未推送到远程的本地标签</li>
+<li>git push origin :refs/tags/v0.9 删除远程标签，需先删除本地标签</li>
+</ul>
+<h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
+<li>git check-ignore –v App.class 检查.gitignore的规则错误</li>
+<li>git config –global alias.st status 配置status的别名，此时git st等效于git status</li>
+<li>git config –global alias.unstage ‘reset HEAD’ 此时git unstage test.py相当于git reset HEAD test.py，即把暂存区的修改撤销掉（unstage）</li>
+<li>git config –global alias.last ‘log -1’ 此时，用git last就能显示最近一次的提交</li>
+<li>git config –global alias.lg “log –color –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’  –abbrev-commit”</li>
+</ul>
+<h2 id="二、git-命令"><a href="#二、git-命令" class="headerlink" title="二、git 命令"></a>二、git 命令</h2><ul>
+<li>git add . 同时添加多个已修改的文件到暂存区。</li>
+<li>q 退出</li>
+</ul>
+<p>撤销修改</p>
+<p>查看之前的commit</p>
+<ul>
+<li>git checkout <commit> <file></file></commit></li>
+<li>git checkout <commit></commit></li>
+<li>git checkout <branch></branch></li>
+</ul>
+<p>撤销公共修改</p>
+<ul>
+<li>git revert <commit></commit></li>
+</ul>
+<p>撤销本地修改</p>
+<ul>
+<li>git reset</li>
+<li>git clean</li>
+</ul>
+<p>重写Git历史记录</p>
+<ul>
+<li>git commit –amend</li>
+<li>git rebase</li>
+<li>git reflog</li>
+</ul>
+<p>git bash 出现vim的时候如何退出</p>
+<ul>
+<li>一直按住Esc，再连续按大写的z两次</li>
+</ul>
+<p>cd .. 返回上一级目录<br>cd <file> 进入某一目录</file></p>
+]]></content>
+    
+    <summary type="html">
+    
+      Git教程。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="git" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/git/"/>
+    
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++问题</title>
+    <link href="http://yoursite.com/2017/06/03/C-%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/2017/06/03/C-问题/</id>
+    <published>2017-06-03T10:44:06.000Z</published>
+    <updated>2017-06-03T12:15:46.274Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="宏命令"><a href="#宏命令" class="headerlink" title="宏命令"></a>宏命令</h2><pre><code>• #if _MSC_VER &gt; 1000
+是指如果vc编译器的版本大于1000则这个语句被编译！
+• #ifndef __SOMEFILE_H__
+#define __SOMEFILE_H__
+…
+#endif
+可以保证同一个文件不会被多次包含（基于文件内容），依赖于宏名字不能冲突，适合于跨平台
+• #pragma once
+可以保证同一个文件不会被多次包含（基于文件物理位置），由编译器提供
+</code></pre><h2 id="sstream"><a href="#sstream" class="headerlink" title="sstream"></a>sstream</h2><pre><code>• void clear ( iostate state = goodbit ) 清空该流的错误标记，oss.clear()！
+• void str ( const string &amp; s ) 该方法是重新给ostringstream灌新值的意思，oss.str(&quot;&quot;)。
+</code></pre><h2 id="指针与引用"><a href="#指针与引用" class="headerlink" title="指针与引用"></a>指针与引用</h2><pre><code>• const int* 与 int* const &lt;const T*类&gt;
+    ○ const int* p = &amp;a; 指向常量的指针，不能改变p所指向对象的值
+    ○ int* const p = &amp;a; 常量指针，指针本身的值不可以改变
+    ○ const int* const p = &amp;a; 一个指向常量对象的常量指针，既不可以改变指针本身，也不可以改变指针指向的对象
+• &amp; 引用 C++对C语言的扩充。引用就是某一变量（目标）的一个别名，对引用的操作与对变量直接操作完全一样
+• const T&amp;
+    ○ const int a = 10;
+    ○ const int&amp; r = a;
+• const T*&amp; 指向常量对象的指针的引用
+• T *const&amp; 对常量指针的引用
+参考连接：
+http://blog.csdn.net/luoweifu/article/details/45600415
+</code></pre><h2 id="pragma-region和-pragma-endregion关键字"><a href="#pragma-region和-pragma-endregion关键字" class="headerlink" title="#pragma region和#pragma endregion关键字"></a>#pragma region和#pragma endregion关键字</h2><pre><code>用于定义拓展和收缩的代码区域的开头和结尾。
+</code></pre><p>指定文件目录中正斜杠和反斜杠（“/”和“\”）的区别<br>    • “/“正斜杠，posix标准，linux中用于指定文件目录，“./”中“.”表示当前目录<br>    • “\”反斜杠，第一个“\”为转义字符，windows中用于指定文件目录，此外windows也支持“/”</p>
+<p>C/C++中extern关键字详解 - chao_yu - 博客园<br><a href="http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html" target="_blank" rel="external">http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      C++，那些年我们遇到的坑。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="C++" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+    
+      <category term="问题" scheme="http://yoursite.com/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>江西电力观察</title>
+    <link href="http://yoursite.com/2017/06/01/%E6%B1%9F%E8%A5%BF%E7%94%B5%E5%8A%9B%E8%A7%82%E5%AF%9F/"/>
+    <id>http://yoursite.com/2017/06/01/江西电力观察/</id>
+    <published>2017-06-01T12:19:38.000Z</published>
+    <updated>2017-06-03T12:12:34.690Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li>2017年5月19日，国家发改委批复了江西电网2017-2019年首个监管周期的输配电价。输配电价的核定厘清了电价成本，让市场参与者更好的明晰用电成本的构成，有助于电力市场交易的开展与推进。相关连接：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MTU0MTM0NA==&amp;mid=2247485697&amp;idx=1&amp;sn=0c13a1f4eaa56da17d8d3e62f2936ee7&amp;chksm=907b930ea70c1a1859844290fdc6cb75d900d9e16f9813908d5aeaf2d0f32735b9fb732025bd&amp;mpshare=1&amp;scene=1&amp;srcid=0601Gi2pOXBj17MoEyvLNASy#rd" target="_blank" rel="external">江西电网输配电价核定，降幅区间为4.4分，线损率高达7%！</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      时间轴记录江西省电力发展。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="江西" scheme="http://yoursite.com/tags/%E6%B1%9F%E8%A5%BF/"/>
+    
+      <category term="电力系统" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电力中长期交易</title>
+    <link href="http://yoursite.com/2017/05/31/%E7%94%B5%E5%8A%9B%E4%B8%AD%E9%95%BF%E6%9C%9F%E4%BA%A4%E6%98%93/"/>
+    <id>http://yoursite.com/2017/05/31/电力中长期交易/</id>
+    <published>2017-05-31T02:49:38.000Z</published>
+    <updated>2017-06-03T12:10:10.812Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="一、市场成员"><a href="#一、市场成员" class="headerlink" title="一、市场成员"></a>一、市场成员</h2><p>发电企业、售电企业、电网企业、电力用户、电力交易机构、电力调度机构和独立辅助服务提供者等满足市场准入条件的主体。</p>
+<h2 id="二、市场交易品种、周期和方式"><a href="#二、市场交易品种、周期和方式" class="headerlink" title="二、市场交易品种、周期和方式"></a>二、市场交易品种、周期和方式</h2><p><strong>交易品种：</strong><br>包括电力直接交易、跨省跨区交易、富余电量增量交易、合同电量转让交易、偏差电量调整交易和辅助服务交易。</p>
+<ul>
+<li><p>电力直接交易：现有的常规直接交易、精准扶持和自备电厂停发替代交易等。</p>
+</li>
+<li><p>跨省跨区交易：跨省跨区外送电交易、跨省跨区购电交易和跨省跨区合同转让交易等。</p>
+</li>
+<li><p>富余电量增量交易：在弃水期为鼓励用户积极生产、扩大产能，刺激用电增量，按相关政策确定用户增量和发电企业富余电量，按月度开展的交易。</p>
+</li>
+<li><p>合同电量转让交易：主要包括发电侧合同转让交易和售电侧合同转让交易。目前仅开展发电侧合同转让交易，待条件成熟后开展售电侧合同转让交易。</p>
+</li>
+<li><p>偏差电量调整交易：主要通过预挂牌的交易方式，形成用以处理中长期合同执行偏差的上调机组调用排序和下调机组调用排序。</p>
+</li>
+<li><p>辅助服务交易：主要包括自动发电控制、旋转备用、有偿调峰、有偿无功调节及黑启动等辅助服务交易。其中，旋转备用、有偿无功调节辅助服务交易在电力现货市场中开展。</p>
+</li>
+</ul>
+<p><strong>交易周期：</strong><br>优先发电合同交易主要按年度开展，电力直接交易主要按年度和月度开展，跨省跨区交易主要按年度、月度和周开展，合同电量转让交易主要按月度和周开展，富余电量增量交易主要按月度开展；偏差电量调整交易主要按月度开展；自动发电控制、有偿调峰辅助服务交易主要按月度开展，黑启动辅助服务交易主要按年度开展。</p>
+<p><strong>交易方式：</strong><br>双边协商、集中竞价、挂牌等。</p>
+<h2 id="三、市场准入与退出"><a href="#三、市场准入与退出" class="headerlink" title="三、市场准入与退出"></a>三、市场准入与退出</h2><p>（略）</p>
+<h2 id="四、竞争报价及撮合办法"><a href="#四、竞争报价及撮合办法" class="headerlink" title="四、竞争报价及撮合办法"></a>四、竞争报价及撮合办法</h2><ul>
+<li><p>双边协商</p>
+<p>  双边协商交易价格按照双方合同约定执行。</p>
+</li>
+<li><p>集中竞价</p>
+<p>  <strong>报价差</strong>：竞争交易报价采用价差报价的方式，即电力用户申报与现行目录电价中电量电价的价差，发电企业申报与上网电价的差价。电价下浮为负，电价上浮为正。申报价差最小单位为0.1厘/千瓦时。</p>
+<p>  <strong>分段报价</strong>：用户和发电企业报价最多可分成三段报价，各段电量总和不能超过允许申报上限，电力大用户允许申报最少电量为10万千瓦时，发电企业允许申报最少电量为100万千瓦时。采用三段报价，是降低用户和发电企业不中标风险的一种有效措施。</p>
+<p>  <strong>价差对</strong>：将发电企业与用户报价配对，用发电企业申报价差减去大用户申报价差，计算生成竞争交易价差对。</p>
+<p>  <strong>交易撮合</strong>：价差对为正值时不能成交，为负值或零时价差对小者优先中标交易;价差对相同时，按申报价差相应电量比例确定中标电量。因采用分段报价，因此按量价段撮合交易，而非按厂撮合。</p>
+<p>  <strong>无限次报量报价</strong>：集中竞价中，在总电量不超过上限的条件下，用户和发电企业可以无限次修改报量和报价。</p>
+<p>  <strong>价差电费返还和成交价格</strong>：成交的大用户与发电企业，两家报价可能存在差异，结合成交电量计算将产生价差电费。此部分电费，75%返还给发电企业，25%返还给用户(6月份后改为50%)，并由此计算产生最终成交价格。</p>
+<p>  <strong>不干预原则</strong>：竞争报价一旦启动，整个过程中交易机构不进行任何干预。且报价信息在整个过程中都是屏蔽的，仅在中间进行撮合计算时临时解密，随后再次锁定屏蔽。不管撮合计算结果如何，均不能作为干预交易过程的理由。</p>
+</li>
+<li><p>挂牌交易</p>
+<p>  挂牌交易价格以挂牌价格结算。</p>
+</li>
+</ul>
+<p>相关参考链接：</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDc1NDQ5NQ==&amp;mid=502069853&amp;idx=4&amp;sn=66efe0c7e61d123d980dc3309268e0fc&amp;chksm=0851998d3f26109bde86039c6e21078844f6f28eef6dbbba308db8febad4cb46d875ba5592ad&amp;mpshare=1&amp;scene=1&amp;srcid=0530GEPJOIgoGTM7nmEWeVnQ#rd" target="_blank" rel="external">电力直接交易数据一览 </a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA3NTAzNg==&amp;mid=2652376967&amp;idx=1&amp;sn=2a1761b85a75e88806a85ffac13da707&amp;chksm=bd2da2348a5a2b2226d869b855712fc3364e814c595df9fe335892fd2f00f077601a433b676a&amp;mpshare=1&amp;scene=1&amp;srcid=05313jRHAJjWsqQuDaXKnbsA#rd" target="_blank" rel="external">广东旧竞价规则结束！盘点前7轮竞价交易大数据</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      关于电力中长期交易的一些介绍。,文末附电力直接交易数据一览以及广东竞价交易大数据等相关链接。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="电力中长期交易" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E4%B8%AD%E9%95%BF%E6%9C%9F%E4%BA%A4%E6%98%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>输配电价</title>
+    <link href="http://yoursite.com/2017/05/30/%E8%BE%93%E9%85%8D%E7%94%B5%E4%BB%B7/"/>
+    <id>http://yoursite.com/2017/05/30/输配电价/</id>
+    <published>2017-05-30T07:30:49.000Z</published>
+    <updated>2017-06-03T12:13:12.357Z</updated>
+    
+    <content type="html"><![CDATA[<p>电价体系图</p>
+<p><img src="http://i1.piimg.com/594442/aad10f9fc2873123.png" alt="Markdown"></p>
+<h2 id="一、输配电价概念"><a href="#一、输配电价概念" class="headerlink" title="一、输配电价概念"></a>一、输配电价概念</h2><p>输配电价是指输电网和配电网的拥有者提供相应的输电和配电服务的价格。</p>
+<p>输配电价主要由输配电成本、输配电利润和价内税构成。</p>
+<h2 id="二、输配电服务分类"><a href="#二、输配电服务分类" class="headerlink" title="二、输配电服务分类"></a>二、输配电服务分类</h2><p>通常根据其功能和服务对象的不同，输配电服务划分为公用网络服务、专项服务和辅助服务三类。</p>
+<p>输配电价体系<br><img src="http://i1.piimg.com/594442/9531456180c1ca2c.png" alt="Markdown"></p>
+<h3 id="1-公用网络服务"><a href="#1-公用网络服务" class="headerlink" title="1. 公用网络服务"></a>1. 公用网络服务</h3><p>公用网络服务是指电网企业通过公用网络，把电能输送给用户的服务。公用网络服务是区域电网公司和省级电网公司、独立配电公司提供的主要服务。</p>
+<h3 id="2-专项服务"><a href="#2-专项服务" class="headerlink" title="2. 专项服务"></a>2. 专项服务</h3><p>专项服务是指电网企业利用特定设施为特定服务对象提供的服务。包括：接入系统服务、专用输电工程输电服务、联网服务。</p>
+<ul>
+<li>（1）接入系统服务<br>接入系统服务是指电网企业为发电厂提供专用接入系统设施，将发电厂的电能从厂网产权分界点送至公用网络第一落点的服务。通常电厂与所接入的电网在地理范围上属于同一省级电网。</li>
+<li>（2）专用输电工程输电服务<br>专用输电工程输电服务是指电网企业为其他电网企业提供专用输电工程输送电能的服务。<br>一般情况下，专用输电工程输电服务为跨省区送电，其主要形式为厂对网和网对网两种。</li>
+<li>（3）联网服务<br>联网服务是指电网企业提供专用联网工程，为区域电网之间联网的服务。</li>
+</ul>
+<h3 id="3-辅助服务"><a href="#3-辅助服务" class="headerlink" title="3. 辅助服务"></a>3. 辅助服务</h3><p>辅助服务是指为了保证系统安全运行、电力供应质量等所需除正常电能生产外的服务。辅助服务由电网和电厂提供。</p>
+<p>电网提供的辅助服务主要是系统控制与调度服务、无功和电压控制服务。</p>
+<h2 id="三、输配电电价管理现状（2017年）"><a href="#三、输配电电价管理现状（2017年）" class="headerlink" title="三、输配电电价管理现状（2017年）"></a>三、输配电电价管理现状（2017年）</h2><ul>
+<li>（1）公用网络输配电价<ul>
+<li>已在部分省级电网核定独立的输配电价，没有独立输配电电价的电网公司的输配电及售电成本费用通过销售电价回收。</li>
+<li>跨省输电线路由国务院价格主管部门核定独立的输电价。没有独立输电价的通过内部输电价、费用分摊等方式回收。</li>
+</ul>
+</li>
+<li>（2）专项服务价格<ul>
+<li>对电网公司投资建设的电厂接入系统工程，目前没有独立的经价格主管部门批准的接入价。</li>
+<li>专用输电工程输电服务，目前已实行独立的价格。</li>
+<li>联网服务，目前没有独立的经价格主管部门批准的联网价。</li>
+</ul>
+</li>
+</ul>
+<h2 id="四、输配电价的制定"><a href="#四、输配电价的制定" class="headerlink" title="四、输配电价的制定"></a>四、输配电价的制定</h2>]]></content>
+    
+    <summary type="html">
+    
+      输配电价简介。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="输配电价" scheme="http://yoursite.com/tags/%E8%BE%93%E9%85%8D%E7%94%B5%E4%BB%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Excel技能</title>
+    <link href="http://yoursite.com/2017/05/29/Excel%E6%8A%80%E8%83%BD/"/>
+    <id>http://yoursite.com/2017/05/29/Excel技能/</id>
+    <published>2017-05-29T13:27:37.000Z</published>
+    <updated>2017-06-03T12:16:09.729Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="https://www.zhihu.com/question/21758700/answer/21687597" target="_blank" rel="external">Excel 有哪些可能需要熟练掌握而很多人不会的技能？-罗翔的回答</a></p>
+<h2 id="排版"><a href="#排版" class="headerlink" title="排版"></a>排版</h2><ul>
+<li>给他人发送excel前，请尽量将光标定位在需要他人首先阅览的位置，例如Home位置（A1），例如结论sheet，长表尽量将位置定位到最顶端</li>
+<li>有必要的时候请冻结首行；没必要但可追究的内容，可以隐藏处理</li>
+<li>行标题、列标题加粗，适当处理文字颜色、填充颜色，利人利己，可参见：<a href="http://www.zhihu.com/question/21702667" target="_blank" rel="external">Excel 中的颜色要怎么搭配，视觉上更能接受且区分度高？</a></li>
+</ul>
+<a id="more"></a>
+<ul>
+<li>占用空间比较小的表格，可以放置在左上角，但留空A列和1行，并给表格加上合适的框线</li>
+<li>同类型数据的行高、列宽、字体、字号，求你尽量一致，非要逼死强迫症吗！定义好比较标准的格式，例如百分比预留几位小数，手机号的列宽设置足够，时间显示尽量本土化</li>
+<li>不要设置其他电脑没有的字体，除非这个表格就在这一台电脑使用</li>
+<li>参考一些官方的模板，例如<a href="https://link.zhihu.com/?target=http%3A//www.officeplus.cn/Template/Home.shtml" target="_blank" rel="external">OfficePLUS，微软Office官方在线模板网站！</a>，再例如Mac端excel打开就显示的各种模板，很多清单或者规划类的excel我都直接用这里面的，不需要重新设计</li>
+</ul>
+<h2 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h2><ul>
+<li>Alt+Enter在表格内换行</li>
+<li>Ctrl+Shift+上/下，选择该列所有数据，当然加上左右可选择多列</li>
+<li>Ctrl+上/下，跳至表格最下方</li>
+<li>Ctrl+C/V，不仅仅复制表格内容，也可以复制格式和公式！</li>
+<li>Ctrl+D/R，复制上行数据/左列数据还有个很好用的单元格格式转换</li>
+<li>F4，重复上一步操作</li>
+<li>‘www.baidu.com，防止生成链接</li>
+</ul>
+<h2 id="公式"><a href="#公式" class="headerlink" title="公式"></a>公式</h2><ul>
+<li>if、countif、sumif、countifs、sumifs，这几个一起学，用于条件计数、条件求和</li>
+<li>max、min、large，这几个一起，用于简单的数据分析</li>
+<li>rand、randbetween，这俩一起，用于生成随机数，也可以用于生成随机密码（用rand配合char可生成中英文大小写随机的）</li>
+<li>定位类型的函数：MID、SEARCH、LEN、LEFT、RIGHT一起学吧，简单但异常实用* 四舍五入个人偏好用round函数，举个简单例子，一列数据，2.04、2.03并求和，显示保留1位小数，你会在界面上看到2.0、2.0，求和却是4.1，表格打印出来会比较让人难理解</li>
+<li>subtotal：用于对过滤后的数据进行汇总分析sumproduct：返回一个区域的乘积之和，不用A1*B1之后再下拉再求和</li>
+<li>Vlookup函数，这个不多说了，神器；另外推荐lookup函数：LOOKUP(1,0/(条件),查找数组或区域)</li>
+<li>offset函数，常用于配合其他函数使用，例如想将10*20的表中的每行复制成3行按原顺序变成30行：=OFFSET($A$1,INT((ROW(A1)-1)/3),COLUMN(A1)-1,1,1) 下拉，由于不用到列，所以等同于=OFFSET($A$1,INT((ROW(A1)-1)/3),0)，我当初是这么做笔记的….：=（A1，向下偏移（向下取整（行数-1）/3），向右偏移0）</li>
+<li>text，例如19880110  text（A1，”0-00-00”)，转为1988-01-10，用法很多</li>
+<li>weekday，让你做时间计划表什么的时候，把日期转为“星期X”</li>
+<li>column（目标单元格），返回目标单元格所在列数，有时候真的很好用…还有 @黄老邪推荐的columns</li>
+<li>transpose（目标区域），神奇的转置，把行变成列，把列变成行</li>
+<li>&amp;，可在目标单元格后面增加某些字符，偶尔用</li>
+<li>数组</li>
+</ul>
+<h2 id="图表"><a href="#图表" class="headerlink" title="图表"></a>图表</h2><ul>
+<li>不同场景用不同的图<br><img src="http://i1.piimg.com/594442/e42bbbc588af9456.png" alt="Markdown"></li>
+<li>数据透析表、数据透析图</li>
+<li>选择数据——右键——更改图标类型，灵活在一张表上结合起来柱状图和折线图</li>
+</ul>
+<h2 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h2><ul>
+<li>数据——分列，将列内的数据拆分成多列，比如“XXX省XXX市”，拆成省、市两列，“XX小时XX分钟”拆成时、分两列，可以按照宽度、文本、标点等作为界定进行拆分，非常多的场景会使用到，请优先学会</li>
+<li>如果你不是靠excel吃饭，请不用那么geek，而是学会excel的逻辑——配合简单的公式、排序、替换、if等全局操作能得出的结果，不一定非要用一个长公式然后下拉，举例：<ul>
+<li>如何将无规律的一列上下翻转？<br>创建一列，标上1、2、3……，下拉，以该列为主排序，改升序为降序，扩展目标列，得到结果，之后可以删掉创建的辅助排序列</li>
+<li>如何将目标区域的每一行数据下面插入一条空行？<br>创建一列，标上1、2、3……，下拉，下面空白行标上1.5、2.5、3.5……下拉，同理排序~Tada~条件格式——突出显示单元格规则，里面的“重复值”，在实时录入和检查标记时很实用</li>
+</ul>
+</li>
+</ul>
+<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2><ul>
+<li>Power Map，（2013版，2016版中为3D Map，且位于Excel功能区的“插入”选项卡上）在线地图+在线演示+制作视频</li>
+<li>Power View，带可视化交互效果的图表</li>
+<li>Power Query， 在线Web抓取，连接数据库</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      Excel实用技能，提高生产效率。
+    
+    </summary>
+    
+      <category term="生产力" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/"/>
+    
+      <category term="office" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/office/"/>
+    
+    
+      <category term="实用技能" scheme="http://yoursite.com/tags/%E5%AE%9E%E7%94%A8%E6%8A%80%E8%83%BD/"/>
+    
+      <category term="excel" scheme="http://yoursite.com/tags/excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AMES电力市场仿真</title>
+    <link href="http://yoursite.com/2017/05/19/AMES%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%BB%BF%E7%9C%9F/"/>
+    <id>http://yoursite.com/2017/05/19/AMES电力市场仿真/</id>
+    <published>2017-05-19T01:07:34.000Z</published>
+    <updated>2017-06-03T12:15:02.938Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="AMES电力市场仿真软件"><a href="#AMES电力市场仿真软件" class="headerlink" title="AMES电力市场仿真软件"></a>AMES电力市场仿真软件</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>AMES（<a href="http://www2.econ.iastate.edu/tesfatsi/AMESMarket.V2.06-dist.zip" target="_blank" rel="external">下载</a>）是由Iowa State University用Java开发的基于多代理模型的一款开源电力市场仿真交易软件，全称是Agent-based Modeling of Electricity Systems。使用该软件需要电脑安装有Java，用户可以上<a href="https://www.java.com/zh_CN/" target="_blank" rel="external">Java官网</a>下载。</p>
+<p>双击文件目录下的AMESMarket-2.06.jar，弹出如下界面：</p>
+<a id="more"></a>
+<p><img src="http://i2.muimg.com/594442/0a1356e0c7c7e570.png" alt="Markdown"></p>
+<p>程序自带5节点及30节点测试算例。</p>
+<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>市场假设</p>
+<ul>
+<li>市场遵循ISO（Independent System Operator）或者RTO（Regional Transmission Organization）原则</li>
+<li>结算方式：日前（远期）和实时（现货）市场</li>
+<li>采用LMP（Locational Marginal Price）</li>
+<li>外部监管机构进行市场力及交易监管</li>
+</ul>
+<p>交易者</p>
+<ul>
+<li>GenCos（卖方）</li>
+<li>LSEs（买方）</li>
+<li>Learning capabilities</li>
+</ul>
+<p>ISO</p>
+<ul>
+<li>系统可靠性评估</li>
+<li>基于OPF（optimal power flow）的日前发电计划</li>
+<li>实时调度</li>
+</ul>
+<p>结算方式</p>
+<ul>
+<li>日前市场（双重拍卖，金融合约）</li>
+<li>实时市场（差价）</li>
+</ul>
+<h2 id="5节点测试案例"><a href="#5节点测试案例" class="headerlink" title="5节点测试案例"></a>5节点测试案例</h2><p>定义：激励错位<br>制度设计不符合效率目标电力系统参与者的激励（非资源消耗）或福利目标（社会理想分布的总净剩余个别电力系统参与者）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      AMES电力市场仿真软件介绍。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场仿真" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%BB%BF%E7%9C%9F/"/>
+    
+      <category term="电力市场交易" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%BA%A4%E6%98%93/"/>
+    
+      <category term="仿真软件" scheme="http://yoursite.com/tags/%E4%BB%BF%E7%9C%9F%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国家能源局韩英铎发言启示</title>
+    <link href="http://yoursite.com/2017/05/18/%E5%9B%BD%E5%AE%B6%E8%83%BD%E6%BA%90%E5%B1%80%E9%9F%A9%E8%8B%B1%E9%93%8E%E5%8F%91%E8%A8%80%E5%90%AF%E7%A4%BA/"/>
+    <id>http://yoursite.com/2017/05/18/国家能源局韩英铎发言启示/</id>
+    <published>2017-05-18T14:58:27.000Z</published>
+    <updated>2017-06-03T12:11:35.305Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="国家能源局韩英铎发言启示"><a href="#国家能源局韩英铎发言启示" class="headerlink" title="国家能源局韩英铎发言启示"></a>国家能源局韩英铎发言启示</h1><p>韩英铎   清华大学电机系教授<br>2016年9月5日  </p>
+<h2 id="1．我国电力发展现状"><a href="#1．我国电力发展现状" class="headerlink" title="1．我国电力发展现状"></a>1．我国电力发展现状</h2><p>（1）2015年全国6000kW以上火电机组平均利用小时数降至4000h以下，有的地区达到3000h，这意味着有差不多1/3的火电装机（大约3亿kW,经济日报说2亿kW）在闲置，而2015年全国又净增发电机容量1.4亿kW，”创年度投产规模历史新高”，导致供需之间严重失衡。经济日报观点认为原因是“企业盲目扩张”和“地方政府贪图眼前利益”；不知道我们规划有没有什么问题？我们规划的观念是否不符合变化了的新形势？传统规划是以夏大冬大的尖峰负荷为基准再加检修和热备用来安排所有发输配用设备容量的，而尖峰负荷的10%运行不到500h，盘子大了就造成大量冗余，当然还有其它许多原因。</p>
+<p>（2）全国500kV线路达107993km，每条500kV线路本来可以送120万kW,实际60%左右的线路大部分时间运行在60万kW以下，全国60%的500kV省间联络线平均输送功率也低于经济输送功率的50%。结论是发电设备和电网设备冗余很大，大有潜力可挖。适当改造现有500kV电网应该可以承受西电东输对受端电网的需求！甚至有的网局领导人说即便不架新线路也可以支撑今后5年负荷的增长；</p>
+<p>注1：对现状分析很重要</p>
+<p>到2015年底全国有15亿kW装机，如果其中火电10亿kW（实际是9。9亿）×6000h=6万亿度；水电装机3亿kW×3000h=9000亿度，核电装机0.4万亿kW×6000h=2400亿度；风电装机1亿kW×1000h=1000亿度，总发电量就远大于&lt;十三五计划&gt;的7万亿度。如果再搞到20亿kW装机，每类电站运行小时是多少？是否在制造过剩产能？</p>
+<p>如果说到2015年我们的输电网建设并没有大大滞后于电源建设的话，实际上到处在冗余，即那么现在的输电网应该是可以负担7万亿度电量的输电任务的！《十三五计划》再花1.5万亿元搞输电网建设是否又在扩大冗余水平?</p>
+<h2 id="2-电网规划需要新思维，有一些是惯性思维缺乏新意"><a href="#2-电网规划需要新思维，有一些是惯性思维缺乏新意" class="headerlink" title="2.电网规划需要新思维，有一些是惯性思维缺乏新意"></a>2.电网规划需要新思维，有一些是惯性思维缺乏新意</h2><p>应该改变旧的传统受端电网规划设计理念——用大电网冗余来应对小概率或极小概率事件，肯定造成巨大资金浪费，是不可取的！搞华北、华东的罩在500kV上面的交流特高压电网是“三华交流特高压网”的变种，是不必要，不经济的，是添乱的，是这种错误规划思想的顽强表现！需要经过严格评审，不应该如此简单地纳入《十三五规划》！这方面我看到网络上谭永才、郭象容、王仲鸿有一篇文章有详细论述，我这里不再赘述。</p>
+<p>《规划》中的华北和华东的两个区域特高压环网方案缺乏严肃的科学论证的话，可以将现有区域超高压电网（区域网络可以进行柔性改造）方案同特高压的必要性、安全性和利用率，经济性等方面进行全面科学地评估比较，作为政府主管部门应该有能力、有必要、有义务提供现在真正运行的电网数据，让大家分析比较，不给数据让大家自己想办法，这是无能的做法，也是不负责任的做法。<br>靠创新思维，采用新技术，可以更好地解决花巨资上交流特高压电网所提出问题：</p>
+<p>（1）根据认真分析论证，适当完善现有已经很紧密的500kV骨干网（例如新架个别线路、关键线路加固定串补，因地制宜改变运行规程等等，提升500kV线路输电能力）</p>
+<p>（2）在精选直流落点的同时，受端电网采用直流或柔直分隔,重负荷区域加装动态无功支撑，HVDC受端换流站柔性化改造（±800kV换流站大约60亿元，花70-80亿元换成柔性直流输电的换流站，就没有换相失败问题了！干嘛要花上千亿元罩一个交流特高压电网呢！）等技术，可以用少得多的钱有效解决受端电网安全问题，而且符合国际电力系统新型电网发展走势。<br>南方电网已经有很好的示范，8回直流进入广东，采用适当的措施就驾驭的很有效了，他们还在考虑进一步将广东省网内部柔性分隔，搞混合直流，效果还会更好！希望国网和南网能做好交流经验！“十三五”规划应该推广公认先进的技术！</p>
+<h2 id="3-对于“十二五”期间的电网建设需要进行反思，不要“一错再错”，浪费越来越大！"><a href="#3-对于“十二五”期间的电网建设需要进行反思，不要“一错再错”，浪费越来越大！" class="headerlink" title="3.对于“十二五”期间的电网建设需要进行反思，不要“一错再错”，浪费越来越大！"></a>3.对于“十二五”期间的电网建设需要进行反思，不要“一错再错”，浪费越来越大！</h2><p>“重点实施大气污染防治行动几条输电通道”每一条通道是否没有必要进行方案论证？<br>“大气污染防治”为什么要选择贵一倍的交流特高压输电线路? 晋东南交流特高压试验示范工程并没有达到设计指标，也没有达到中国工程院咨询报告的“满负荷运行考验”的要求，又花46亿元搞扩建工程，（据说按照发改委领导要求），尽管送到500万kW，最大至570万kW，但到半途的南阳就走掉2/3，而且加了串补，并不表明交流特高压的优越，为了减少电磁环网，晋东南1000kV投运，原河北辛安到河南洹安78km的500kV连线停运；哈郑直流上来又发现双极闭锁会引起晋东南联络线震荡，于是提出晋东南联络线要上第二回。</p>
+<p>注1：<br>根据中国电科院的研究报告:<br>“电科院在现有电网基础上，考虑试验示范工程扩建，针对哈郑直流进行安全分析。研究表明，“试验示范扩建工程”北电南送5000MW时，哈郑直流发生双极闭锁，系统失稳，震荡中心在晋东南至南阳线路上，导致晋东南至南阳特高压线路解列，华中电网功率缺额超过10000MW，低频减载装置动作。切除负荷6000MW后，系统频率可以恢复。若限制直流输送功率不超过4000MW或限制“试验示范扩建工程”南送功率不超过2000MW，可以使系统在双极闭锁故障下保持稳定，考虑与哈密至郑州直流同步建设蒙西至长沙（“西纵”）交流特高压工程，计算表明，在华北至华中断面南送9800MW，且哈密直流满送情况下，直流双极闭锁后，受端电网无需采取措施系统可以保持稳定。</p>
+<p>因此，为充分发挥哈密至郑州直流以及试验示范工程输送电力作用，保障系统安全稳定运行，建议“西纵”交流特高压工程与本工程同期建设投产。”</p>
+<p>不知道报告说的是什么震荡？广域控制为什么不能解决？把辛安到洹安的联络线投运为什么不能解决，却需要再加一条线？如此补漏洞有完没完？</p>
+<p>如果我们中国的电网规划似这样走一步看一步，缺乏科学性，而且也没有人问责，甚至为了使某个方案成立，故意拿出明显不可比的方案进行比较，甚至还有其他更恶劣的做法，今后如何向国人交代？</p>
+<p>注2：上述描述情况恰恰反映了特高压同步联网的弊病！如果没有特高压紧密同步电网的话，哈密直流即使N-2，作为1.7亿kW装机的华中电网，损失800万kW，本来没有问题，第一轮低频减载都不会动作！现在自己造成的事故扩大，只好再加一个配套的更大的工程来作为事故备用！这是很不科学的！</p>
+<p>这个案例也提醒我们，如果哈密直流落点离开晋东南特高压交流落点远一些，譬如落到湖北去，岂不没有这么多麻烦了吗？为什么要落点郑州？落点方案方案经过详细比选吗？</p>
+<p>这个报告也再一次提醒我们，电力系统规划本来是个长期动态规划问题，每一个重要线路的规划计算都是要考虑它的后效性！如果我们的规划计算都是象上述报告那样，头痛医头，脚痛医脚，那么所鼓吹的“西纵”如跳掉又要产生什么连锁反应，于是又需要架设什么线路？</p>
+<h2 id="4．对交流特高压输电的工程应用希望有个小结"><a href="#4．对交流特高压输电的工程应用希望有个小结" class="headerlink" title="4．对交流特高压输电的工程应用希望有个小结"></a>4．对交流特高压输电的工程应用希望有个小结</h2><p>个人看法：经过十年的反复研讨和实践现在对交流特高压应该看得很清楚了！交流特高压问题应该有一个小结了！应该给电力消费者一个合理的交代了。</p>
+<p>（1）电工基本原理不能违背造成交流特高压先天性劣势——输电能力只相当于两回500kV线路，相同输电能力比500kV紧凑型，更比±800kV直流贵一倍以上！（示范工程640km，电抗163欧。折算到500kV侧300万kVA变压器的电抗为18%，共120欧姆，相当于把输电线路电抗增加[120欧+163欧]。目前50kA是500kV通用开关的最大切断电流，就是等值电抗的最小可能值和最大静态稳定极限功率值，对应的两项电抗共46欧。相当又把输电线电抗增加28%[46欧]两项使总阻抗增加一倍，所以，输电能力只能相当于两回而不是四回，而造价要比两回500kV贵一倍！）加上每隔300至400km要加一座变电站无功支撑，又增加了造价，又必须造成电磁环网，这是它的天生劣质！</p>
+<p>（2）工程实践检验结果不能违背——示范工程设计送300万kW，实际上250万kW就不稳定了！实际上并没有达到设计指标，也没有达到满负荷运行的要求；扩建工程加串补并没有说明什么问题，又浪费了40多亿元。</p>
+<p>（3）建“三华同步电网”提出了各种站不住脚的理由，现在改变成了华北、华东两个交流特高压同步电网，不知道是否经过了充分论证和评审？怎样论证和评审的！这么大的事情就这样随便地写入规划，是否太轻率了？建议在《电力发展“十三五”规划（2016—2020年）》中，不具体列出新增交流特高压输电工程，以免造成既成事实，为科学论证提供一定的操作空间，为科学决策提供可以回旋的余地，可避免造成一错再错的重大失误。</p>
+<p>（4）交流特高压是俄、日弃用技术，他们研究多年，花了不少钱，好多年前就搞成了，然后弃用或降压运行了，必有其深刻道理。他们 与这个“大金矿”擦肩而过，却被中国人“捡漏”了，这在当今世界传统行业中可能性虽不能说绝对没有，但一定是极其少的！</p>
+<h2 id="5-政策制定是否需要进一步完善？"><a href="#5-政策制定是否需要进一步完善？" class="headerlink" title="5.政策制定是否需要进一步完善？"></a>5.政策制定是否需要进一步完善？</h2><p>根据中共中央、国务院关于进一步深化电力体制改革的若干意见（中发[2015]9号）文件，输配电价逐步过渡到按“准许成本加合理收益”原则。</p>
+<p>根据文件,以后过网电价可能就是“准许成本×106—108%”。这样一来，电网公司投资越高、越贵收益越多！只要项目得到批准，这些公众是不清楚的！</p>
+<p>新常态下过网电价问题已经成为制约经济发展的重要问题，对一些企业甚至是生死存亡的问题（宁夏高耗能企业用自备电厂的电2角多就可以盈利，如向电网买电每度电0.5元多，就得破产。延长石油集团自发电每度0.3元，不能自己用,必须送到网上,但从网上买下来就得花0.6元多,其实出330KV设备外下面各电压水平上的设备都是油田的!这样的案例很多。）</p>
+<p>政府主管部门责任重大，希望政府主管部门严格地把关，需要对电网有效资产进行评估形成节点电价，防止大电网夸大电网资本！政府主管部门要敢于担当，不要让关系国家电力安全的、投资巨大的重大工程被搞成“攻关工程”，更不要让他“改头换面”，“巧立名目”，以什么“重点实施大气污染防治行动”的名义，不经过严格评审就列入规划。英国电力市场改革，不同地区电价差高达十几倍的政策值得借鉴，既减少了远距离输电的压力，也减少了远距离输电的安全问题。</p>
+<h2 id="6-建议不是“充分论证全国同步电网格局问题”而是立项研究我国电网中长期动态规划问题。"><a href="#6-建议不是“充分论证全国同步电网格局问题”而是立项研究我国电网中长期动态规划问题。" class="headerlink" title="6.建议不是“充分论证全国同步电网格局问题”而是立项研究我国电网中长期动态规划问题。"></a>6.建议不是“充分论证全国同步电网格局问题”而是立项研究我国电网中长期动态规划问题。</h2><p>电力系统规划实际上是中长期动态整数规划问题，理论上也并没有完全解决，仅仅拿出一个目标网架实际上很难说明是否合理，不是算几个稳定就行了，因为要考虑如何过渡问题，还要考虑到电网技术的发展，还要创新发展规划理论和理念。</p>
+<p>希望十三五规划立项研究我国电网中长期发展的动态规划的理论、方法和方案问题。<br>还有其他影响电网规划和运行的经典问题，如“负荷黑箱子”问题，也希望下决心解决。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      简述了我国电力发展现状以及电网规划建设的一些思考。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力规划" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E8%A7%84%E5%88%92/"/>
+    
+    
+      <category term="电力发展“十三五”规划" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%8F%91%E5%B1%95%E2%80%9C%E5%8D%81%E4%B8%89%E4%BA%94%E2%80%9D%E8%A7%84%E5%88%92/"/>
+    
+      <category term="韩英铎" scheme="http://yoursite.com/tags/%E9%9F%A9%E8%8B%B1%E9%93%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说粤全传5——天暖价收窄</title>
+    <link href="http://yoursite.com/2017/05/15/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A05%20%E5%A4%A9%E6%9A%96%E4%BB%B7%E6%94%B6%E7%AA%84/"/>
+    <id>http://yoursite.com/2017/05/15/说粤全传5 天暖价收窄/</id>
+    <published>2017-05-15T09:10:04.000Z</published>
+    <updated>2017-06-03T12:14:12.254Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="https://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927681&amp;idx=1&amp;sn=8d23c68cb79b103bb93c3850f9dd1905&amp;chksm=8b9acbf7bced42e1f4298aa1ee6d6a6641cd3c870c3bb06e0d69ea33a77daff368f0853041db&amp;scene=0#rd" target="_blank" rel="external">小李电刀</a></p>
+<p>本月是政府和监管机构干预后的第二次月度竞价。2017年4月20日，广东电力交易中心发布了《广东电力交易中心关于开展5月份集中竞价交易的通知》（以下简称“通知”）。主要内容如下：5月份市场总需求电量为95.79 亿千瓦时，其中双边协商电量70.97亿千瓦时，集中竞争电量需求为24.82 亿千瓦时。本月的月度集中竞争交易供需比1.5（与上月供需比相同），集中竞争电量总上限为37.11 亿千瓦时。结合5月全省购电量需求预测、非市场化用户需求变化以及A类机组月度基数电量计划情况，电力调度机构对B类机组5 月份基数电量计划进行等比例调整，调整系数为0.96。</p>
+<a id="more"></a>
+<p>本次交易部分基础数据如下图所示：</p>
+<p><img src="http://i1.piimg.com/594442/c5b0eae4e120515d.jpg" alt="图1"></p>
+<p>2017年4月24日，广东市场组织本年度第四次月度集中竞价，最后结果如下：</p>
+<p><img src="http://i1.piimg.com/594442/91ac3b537155bd7c.jpg" alt="图2"></p>
+<p>成交概况：<br>总成交电量为246376.2698万千瓦时。 供应方边际成交申报价差-60.0厘/千瓦时, 需求方边际成交申报价差-30.0厘/千瓦时, 统一出清价差为-45.00厘/千瓦时。</p>
+<p>值得注意的是集中竞争电量需求为24.82 亿千瓦时，实际成交的电量为24.63762698亿千瓦时，未成交电量为0.18237亿千瓦时，即1823.7万千瓦时，占比0.7%。</p>
+<p>针对本轮竞价，电刀小组咋看结果也觉得有“茫然四顾心惘然”的想法，从公开资料看交易总体边界条件未出现大的价格降幅收窄因素，到底是什么引发了相对上月仅一半的降幅呢？电刀小组并不相信坊间传言所谓“央企存在价格协调机制”，这个因素不会是决定因素，毕竟广东省最大市场力的企业不是央企。交易公告阐述的场内因素变化不大的情况下，百思不得其解，只好还原最笨的办法，把场外因素一一列出逐个排除：</p>
+<p>1、煤价是否持续上涨引发电价相对上涨？<br> 电刀小组观察了近四个月广州港主力动力煤价格变化情况，发现四月煤价处在回落状态，优混、大混、印尼煤都在下降通道，虽然总体没有达到今年一二月的低点，但相对高点3月有30-40元/吨的降低，降幅在5%，特别是印尼煤（4800、4500、3800大卡）基本回落到2月份水平。综上能够看出，单纯看煤价，发电企业变动成本相对在降低，煤价不是本月成交价上扬的原因。煤价因素排除。</p>
+<p><img src="http://i1.piimg.com/594442/15ee4451c9a54038.jpg" alt="图3"></p>
+<p>2、西电东送是否有所缩减造成发电企业计划电量可能上扬？<br>上回书详细讲过东送的西电月度分解是广东省内交易的边界条件，直接影响省内供需，因为一旦西电欠送，省内火电当月按照标杆结算的电量就会自然上涨，欠送越多上涨越多，直接影响发电企业报价心理。经多方了解，从公开信息尚不能取得5月西电东送具体计划（有初步的年度分解计划），另据了解上月省内报价前也未发布本月的西电东送具体计划，只是了解到西电4月无增送可能。不过公开消息来看，一季度西电增送广东130亿度，按惯例每年不会超过200亿度，那么后三季度西电增量影响很小。那么这个因素又被否决了：西电东送计划未见对本轮降幅收窄的明显影响，西电因素排除。</p>
+<p>3、广东省内供需是否紧张影响成交价格相对上涨？</p>
+<p><img src="http://i1.piimg.com/594442/e7ce4541131c5c1b.jpg" alt="图4"></p>
+<p>由上图可见，统调发电量（即发受电量）与省内发电量同步上扬，但是统调发电量上涨比例（斜率）大于省内发电量上涨比例，西电基本平滑。结论是广东省内未见供需紧张，省内供需因素被排除。</p>
+<p>4、广东省拟开展发电合同转让是否影响成交价格？<br>据了解，广东省最快有可能5月开展发电合同转让，目前相关文件正在征求意见。由于广东自2007年以来一直是“节能发电调度”试点省，所以一直不允许发电合同转让。如果5月允许发电合同转让，那么对发电企业心理影响很大，从北京、山东交易中心开展银东通道送山东交易的经验来看，燃煤机组可以转让电量给电价便宜的省外水电机组（云南5月肯定要开始弃水），即使月度竞价部分电量电价较低（降幅在20分以内），也可以通过未来以发电量合同转让的形式与西南水电代发。然而这是一个降低成交电价的因素，因此，广东省拟开展的发电合同转让不是造成降幅收窄的因素。发电合同转让因素排除。</p>
+<p><img src="http://i1.piimg.com/594442/98dc79e40162eeb0.jpg" alt="图5"></p>
+<p>5、顶峰机组与顶峰电量电价是否影响成交价格？<br>月度交易的运行边界考量主要考虑静态安全分析，受预测精度影响，月度交易前安全校核工作主要从电力电量平衡的角度考虑能否满足系统调峰需要。根据信息披露的情况，2017年5月交易前安全约束的主要边界条件包括预测最高统调负荷电力、预测统调发受电量、降水和西电东送电力四个方面。电源送出受阻主要由网络约束造成，即假设机组全开，在考虑线路传输能力和热稳极限等约束条件下，计算最大发电送出能力与机组最大发电能力之差。在考虑受阻容量的情况下，网络顶峰需求则要求局部地区机组的开机方式能够满足高峰负荷要求，避免因为开机容量不足和网络受限造成负荷电力缺口。上述安全约束影响反映在交易组织过程中，影响部分电厂的电量上下限的变化，一方面影响到电厂本身申报电量的范围，另一方面影响到系统整体的供需比。</p>
+<p>广东4月已经出现降水少1-2成，5月维持了这一趋势，并且5月的广东已经进入夏季，高温天气增加，顶峰电量上升为5月的9.92度，占交易电量比例上升至40.28%。电刀小组研究到这里突然发现一个大的变化，5月份顶峰电量是按照标杆电价结算，而非2-4月按照市场成交价结算。</p>
+<p>那么黑天鹅来了，根据了解到的广东实操做法，如果发电企业通过交易获得的电量超过顶峰的必须开电量，则按照市场成交价结算，如果交易未获得的必须开电量，则按照标杆价结算。加之单个电厂竞价成交有电量上限，那么电厂就有个权衡-多得的粗粮饱腹感比之少量细粮吸引力是否有量级上的差异，从9.92-24这个数据范围来看，显然是没有的。那么就不如完全不中，均依靠“必须开”这三个字获得标杆电价的9.92亿度电。由此，电刀小组发现又回到了电刀老是念叨的供需决定价格，当9.92亿退出供应序列后，供应能力由37.11变为27.19，供需比下降为1.095。如果在规划中考虑15%的容量备用，那么一个平衡地区的供需比应当是1.15，1.095这个供需比已经进入紧平衡状态了，价格收窄至4.5分就毫不奇怪，甚至可以进一步上扬。</p>
+<p>顶峰电量的数量和结算电价是本轮成交电价主因！！！</p>
+<p><img src="http://i1.piimg.com/594442/25e60f07c230338b.jpg" alt="图6"></p>
+<p>电刀小组再次仔细学习广东规则，未见关于必须开电量的单独结算规则，仅将该部分电量按照“地板价”计入供应序列，电刀理解应当按照市场出清价结算。那么总结本轮交易，电刀小组发现继上月干预市场后，本次又以技术流方式缩减供需比，遗憾的是两次调整在规则中以及已经公开的文件中未见相关内容，建议广东有关部门和监管机构在下个月竞价前完善规则。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      聚焦广东电力市场。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说粤全传4——求疵粤新规</title>
+    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%20%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84%20/"/>
+    <id>http://yoursite.com/2017/05/13/说粤全传4 求疵粤新规 /</id>
+    <published>2017-05-13T01:20:32.000Z</published>
+    <updated>2017-06-03T12:17:34.902Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927638&amp;idx=1&amp;sn=5bb4c4c2ef7063f76a39d59317b3f409&amp;chksm=8b9acba0bced42b68921b1e51551d3a03a08267b8698afe0e8b9686401f5dcd53f4c7ff53630&amp;mpshare=1&amp;scene=1&amp;srcid=0516rH4369V3zrro9XmgrXpe#rd" target="_blank" rel="external">小李电刀</a></p>
+<p>上回书说到广东电力市场化交易第二版新规则三次竞价，竞价结果受干预影响，超越电刀小组以往的分析方法较多，广东市场受首次干预的影响较大，主体反应强烈，供需对成交的影响小于行政手段。</p>
+<p>书接上回。电刀小组前一段的精力主要针对江湖中各方关注的竞价进行分析。作为电力市场机制的关注和研究人员，实质上对于广东新规则来说需要关注的“重点”还远远不止于此。作为“大用户直接交易”传承的各省市场化交易或多或少，规则编制者都更重视市场准入、交易方式（双边 or 竞价）和出清（配对 or 边际），从以上内容在各地规则中的篇幅就能看的出来。其实规则当中还有很多东西要关注，尤其是电力市场的学者和研究人员更应该剥开市场化交易“浮华的外衣”，探究其内在的经济学原理。本回书，电刀小组这几个“小妖”在没有“大王”安排的情况下来“巡山”，对广东新规的内容和做法个别“疵”吹起“毛”来看一看，“班门弄斧”以期抛砖引玉，愿引起业界关注，帮助广东走的“更好、更快、更远”。</p>
+<a id="more"></a>
+<p>吹毛求疵之一：基数电量是个什么鬼？</p>
+<p>广东新规第七章整章阐述了年度基数电量和月度基数电量的编制。从电力系统的运行习惯来看，以及《电力中长期交易基本规则（暂行）》（以下简称《基本规则》）和广东新规通篇的描述来看，目前所有签订的合同均为实物合同，广东新规的第四十二条也明确“发电企业、电网企业据此签订厂网间年度购售电合同”，该条规定与《基本规则》第三条第二款“优先发电电量和基数电量现阶段视为厂网双边交易电量，签订厂网间购售电合同，纳入电力中长期交易范畴”紧密切合。从理论上说，“交割方式决定合同性质”，实物合同应当以实际完成交割为基本义务，而由于电力商品要求实时平衡的特殊性，就要求发用电双方在实物合同中约定并执行一个带有时序的发用电力曲线。然并卵，当读到广东新规第一百零七条发现所谓月度基数实际上是由总上网电量扣除参与市场用户实际月用电量和西电送电量得出的。也就是说，广东发电企业基数合同中数据是在合同执行后，通过计算得出，而非事前确定的实物合同。由此引发疑问：其一，事前合同的月度数据有什么作用（执行完还可能改）？其二，事后确认电量数据的合同还算不算实物合同？其三，这样做相对《基本规则》，实质上免除了电网因预测不准可能受到的偏差考核，是否权责对等（抑或是种妥协）？</p>
+<p>吹毛求疵之二：调整系数应当如何变化、为何变化？</p>
+<p>广东新规引入了一个竞争系数k0，并在第七十条（二）中明确“当电量市场份额”不满足集中竞争交易有效开展的要求是，则调增k0，相应增加各发电企业月度竞争竞争申报的电量上限，直至满足防范发电侧市场力的要求”。能够明显看出，k0的设计是针对广东市场主体中，有些发电企业装机占比超过三分之一的现实条件，当扩大市场范围和拆分发电企业等常用措施不易执行的情况下，引入竞争系数是个控制市场力的创新。从第七十条内容可以看出，竞争系数调增的前置条件是发电侧市场力影响发现价格，规则中调减的条件（未提出可以调减），并且未给出初次置k0值的原则。那么疑问来了：其一，二月、三月竞价的k0如何给的初值，给出的1.25是否满足控制发电侧市场力的要求？其二，从竞价结果来看，1.25显然满足了控制市场力的需求，那么依据什么调低了竞争系数（4月份1.08）呢？规则当中没有的内容，是否应当遵从“无规不可为”的原则？虽然这一条广大市场主体并未关注，但是从“程序正义”的角度，此条实际上影响着我们的电力交易能否真的市场化（以规则优先），或者说广东有无管住那只“喜欢乱动的手”，而这一直是“广东模式”被业界推崇的原因之一。</p>
+<p>吹毛求疵之三：双轨制下“计划轨对市场轨”的影响？</p>
+<p>广东4月总需求435亿千瓦时，同比增长6.1%，其中市场交易电量87亿，含长协67亿，月度竞价20亿。广东新规将西南富余水电纳入了交易主体范畴，对于西电作为交易的边界也进行了描述，但是缺乏对于西电东送协议以及增送电量执行的具体描述，也就是市场中出现了严重不确定的边界条件（西电占广东用电量的三分之一强）。据电刀小组对贵州煤价和产量的分析，4月份贵州送出能力将有一个大幅的削减，另据对云南来水的公开数据，云南4月没有额外能力补足贵州造成的西电缺口。那么疑问来了：其一，对于总在变化的边界条件，造成变化的主体未承担相应责任，对于承担偏差考核（或结算）的主体是否公平？其二，对于边界条件的变化，是否对广东省内交易价格产生影响？如果产生影响，对于不同平台的两种模式之间是否产生了主体套利风险，即广东月度市场发电企业抬价，即使不中标，反而多出来的发电能力能够用于填补电少送（标杆价）的空间？</p>
+<p>综上，电刀小组认为，市场设计者不但需要“工匠精神”（精益求精并做好一个“包工头”），还应当具有全局意识（至少往前多看一步的“设计师”）。规则起草不但要满足眼前的闭环，还要考虑基本理论和程序争议。总之一句话：市场设计不能说自己不信的话；利益有博弈妥协，技术总有真实答案。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      聚焦广东电力市场。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说粤全传3——市场首遭干预</title>
+    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%20%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84%20/"/>
+    <id>http://yoursite.com/2017/05/12/说粤全传3 市场首遭干预 /</id>
+    <published>2017-05-12T06:45:52.000Z</published>
+    <updated>2017-06-03T12:17:36.478Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927572&amp;idx=1&amp;sn=ca1e2f5ac38f58be37444683e6916b4e&amp;chksm=8b9ac862bced4174cb1d3a24a02e74d94d3679b28c53b9568208d5245c39323b6639e62f6b5e&amp;mpshare=1&amp;scene=1&amp;srcid=0516nUjqDcx3yD4xsActESns#rd" target="_blank" rel="external">小李电刀</a></p>
+<p>上回书说到广东电力市场化交易第二版新规则二次竞价，延续了电刀小组粗略方法分析得到的路径，成交价在快速向发电企业的燃料成本靠近，甚至部分中标电厂已经略低于燃料成本，探底加速。按照预想，用户会越来越发现最终的成交结果基本上就是“发电企业单边报价”的结果。</p>
+<p>书接上回。虽然，月度竞价占全年市场电量1—2%，但是如此低的电价还是引起了各方的重视，政府和监管机构首次干预。2017年3月24日，广东电力交易中心发布了《广东电力交易中心关于开展4月份集中竞价交易的通知》（以下简称“通知”）。4月广东市场总需求电量为86.95亿千瓦时，其中年度长协分解电量66.68亿千瓦时，占比为76.69%，购买电量的需求为20.27亿千瓦时；根据供需比计算的集中竞争电量供应能力总上限为30.33亿千瓦时。实质上，就是控制长协签订比例较高的电厂参与月度竞争，缩小供需比，希冀通过这种方式稳定月度成交价格。市场首遭干预这只“黑天鹅”，各方都很关注，到底“有形的手”与类似“上帝之手”掰手腕的结果如何？电刀认为以往前两回的供需决定价格理论仍然有效，只是本次要考虑干预，采用“供需决定价格+干预对市场主体心理影响修正系数”方式预计成交价。干预对市场主体心理影响系数的大小取决于市场主体判断政府和监管机构干预电价决心大小，是一个非线性数据。本次交易部分基础数据如下图所示：</p>
+<a id="more"></a>
+<p><img src="http://i1.piimg.com/594442/248c00509652bdbc.jpg" alt="Markdown"></p>
+<p>通知还对2、3月份实行的竞价规则进行了修订，4月份的交易规则主要变化有以下几点：</p>
+<p>（1）直接设定供需比为1.5，较之前2月份约为2.24和3月份约为2的供需比有所下降；</p>
+<p>（2）调高了最低申报价差，由之前的-500厘/千瓦时调高至-450厘/千瓦时，意在提醒发电不要杀到底，本措施除了让报价不是很难看，电刀不知道有啥具体作用；</p>
+<p>（3）调高了用户侧单段申报电量下限值，并对出清规则做了调整。用户侧单段申报电量下限值为400万千瓦时，总申报电量低于下限值的只能按一段申报；用户侧申报电量低于400万千瓦时的，该段电量申报价格不作为统一出清价差计算依据，只是400万千瓦的偏差考核并不能让售电公司大幅降低冒险的热情（利益还是大于风险），只是干预手段首次作用效力最大，增加市场变数。</p>
+<p>2017年3月28日，广东市场再次组织本年度第三次月度集中竞价，“黑天鹅”落地，最后结果如下：</p>
+<p><img src="http://i1.piimg.com/594442/7163a315466e9c88.jpg" alt="Markdown"></p>
+<p>成交概况：</p>
+<p>总成交电量初步为 202656,9 万千瓦时。 供应方边际成交申报价差 -120.0厘/千瓦时， 需求方边际成交申报价差-83.0厘/千瓦时， 统一出清价差为-101.50厘/千瓦时</p>
+<p>针对本轮竞价，电刀小组预计成交价为13分左右，相对10.1的成交价偏离价比例较高，主要是没有预料发电企业步调如此一致，售电胆怯程度如此之大。分析过程如下：</p>
+<p>（1） 广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比1.25（1.25:1，下同）。长协共签订837亿，长协中采购电厂价下降7分占比很大。</p>
+<p>（2） 广东4月份供需比为1.5，但是仍大于现货的可能供需比1.4（推算过程详见《说粤全传》第一回新规首竞价）。</p>
+<p>（3） 分析发电企业报价心态，延续上月以价换量的稳妥策略。据传部分集团公司对报价的底线有一定要求，同时发电企业最近受煤价影响“同仇敌忾”可能产生“抱团效应”，这也是变数之一。</p>
+<p><img src="http://i1.piimg.com/594442/85953811be70999d.jpg" alt="Markdown"></p>
+<p>依据上表数据，并考虑广东火电入炉燃煤热值普遍在4200-4500之间，按照发电厂平均煤耗为290g/kWh估计发电厂的燃料成本为0.26元，再根据广东火电厂0.45元的标杆电价计算得出发电厂的降价空间为0.19元即19分左右。虽然供需比变为1.5，但仍然大于现货的可能供需比（1.4），长协签约比例少的发电企业仍然倾向于按发电燃料成本报价，实行以价换量的策略，但是考虑前述变数有可能倾向于共同维持发电侧利益，修正价格恐怕在3分左右。</p>
+<p>(4) 分析售电公司（用户）报价心态:2月成交为-14.55分，3月成交为-18.9分，这意味着这两个价位均在发电厂的接受范围内，本月供需比有所下降，发电企业报价有可能有小幅上升。另一方面，考虑到前文所述的“用户侧单段申报电量下限值为400万千瓦时，总申报电量低于下限值的只能按一段申报；用户侧申报电量低于400万千瓦时的，该段电量申报价格不作为统一出清价差计算依据”，售电公司因为偏差考核的顾虑，特别是首次受到干预没有经验（无参照物），很可能采用保守策略退回长协降价的7分。</p>
+<p>(5)（售电报价+发电报价）/2=13分（降低）</p>
+<p>综上可以看出本轮竞价结果受干预影响，超越电刀小组以往的分析方法较多，应该讲广东市场受首次干预的影响较大，主体反应强烈，本轮供需对成交的影响小于行政手段，是大家心里共识，从售电报价仍然达到8.30就看出售电企业判断市场仍然是过剩的，实际价格应当更低。预计后市供需比继续不低于本月，本轮干预的作用会产生递减效应，成交价仍将继续接近发电企业的燃料成本，即市场化如果是真的市场化方向，供需仍然会决定价格，干预之手远不是上帝之手的对手，当然如果上帝之手打不过干预之手，那么市场化恐怕只能“洗洗睡了”。</p>
+<p>此外，对于市场交易应当通盘考虑，年度长协与月度竞价属于同一周期一体化的交易，对于月度供需比的预判断实际上也影响了年度长协的价格，临时干预（交易周期内调整边界条件）这种黑天鹅实在是市场主体不能接受的“不可抗力”。电刀认为，对于同一周期内相互影响、不能解耦的交易，不应改变边界条件</p>
+]]></content>
+    
+    <summary type="html">
+    
+      聚焦广东电力市场。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说粤全传2——市场规矩在途</title>
+    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%20%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94%20/"/>
+    <id>http://yoursite.com/2017/05/11/说粤全传2 市场规矩在途 /</id>
+    <published>2017-05-11T02:31:05.000Z</published>
+    <updated>2017-06-03T12:13:58.641Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927496&amp;idx=1&amp;sn=b3c76acb62646c51c4c0c7cad529e8bc&amp;chksm=8b9ac83ebced41281f868ba0040eb363a06c455f6f0b2b50024af8f0d75c85a153f3f6752fbb&amp;mpshare=1&amp;scene=1&amp;srcid=0516x16RrBeUywvVkXXDRiRy#rd" target="_blank" rel="external">小李电刀</a></p>
+<p>上回书说到广东电力市场化交易第二版新规则首次竞价，引无数英雄豪杰竞折腰。电刀小组按照“成交长协数据基础上，只看供需决定价格，不考虑其他”的办法，分析了上月成交价的合理性，并且预测“3月售电公司很可能以14分为合理降价起点，则3月竞价结果可能达到降低18-20分”（见《说粤全传》第一回 新规首竞价）。</p>
+<p>书接上回，2017年2月22日这个清一色都是双数的日子里，广东电力直接交易进行了本年度3月电量的集中竞价交易。3月广东市场总需求电量为82.39亿千瓦时，其中年度长协分解电量60.73亿千瓦时，购买电量的需求为21.66亿千瓦时；发电企业扣除长协分解电量，集中竞争电量供应能力总上限为43.22亿千瓦时，最终成交价-189.45厘/千瓦时，电刀小组也惊讶于市场的毫不客气，尽管这个结果总体在意料之中。</p>
+<a id="more"></a>
+<p><img src="http://i1.piimg.com/594442/bc901fe3030edc82.jpg" alt="Markdown"></p>
+<p>重现电刀小组上月的分析过程：</p>
+<p>1、广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比1.25（1.25:1，下同）。长协共签订837亿，长协中采购电厂价下降7分占比很大。</p>
+<p>2、广东扣除长协电量后，3月剩余电量供需比2左右。大于年度供需比1.25，小于2月供需比2.24，但是仍大于现货的可能供需比1.4（推算过程详见《说粤全传》第一回 新规首竞价）</p>
+<p>3、分析售电公司（用户）报价心态，上月成交价-14分多，也就意味着这个价位是可以成交的，倾向以此为“心理价格”[1] 。不能报的过低：本月供需比有所下降，发电企业心态有可能企稳，发电报价有可能有小幅上升。客观条件是供需比仍然大于现货的可能供需比（1.4），概念里现货似乎发电企业更倾向成本报价，因此用户稳妥起见会考虑以降14分左右入场。</p>
+<p>4、分析发电企业报价心态，必须报的更低。上个月，的价格已经证明发电兄弟们普遍认为过剩的很厉害必须砸盘子-以价换量，考虑到可以通过得到一部分电量提高机组整体负荷率，从而降低长协电量的生产成本，以求得总体盈亏平衡，发电企业甚至可能以低于燃料单价的方式报价。因此，发电企业会以“标杆电价-变动成本（燃料）”=23分（降低）的方式报价。煤价按照近期公开数据，并考虑广东外来煤比例修正进行测算。</p>
+<p><img src="http://i1.piimg.com/594442/a6b883c0002224fe.png" alt="Markdown"></p>
+<p>5、（售电报价+发电报价）/2=18.5分（降低）<br>综上可以看出本轮竞价延续了电刀小组粗略方法分析得到的路径，成交价在快速向发电企业的燃料成本靠近，甚至部分中标电厂已经略低于燃料成本，探底加速，用户会越来越发现最终的成交结果基本上就是“发电企业单边报价”的结果。</p>
+<p>展望后市，电刀小组认为只要月度供需比仍然大于现货市场可能供需比的前提下，发电企业很难摆脱在燃料成本附近报价的处境，随着燃料价格缓慢降低、西部来水增加，可能报价会进一步降低，只是降低幅度不会如此“大步流星”。总体来讲，电刀小组认为广东目前的规则在国内总体上不错，不存在大的技术错误，执行相对公平，仍是其他交易可模仿的榜样。对于发电兄弟的满心委屈，电刀小组认为短期交易就是看供需形势，市场的规矩就在哪里，爱与不爱您都得忍着。对于发电兄弟的老板，电刀小组建议发电项目的盈利与否应当看整个寿命周期，而非供需宽松的一小段日子，当然这样的日子挺难熬，看着很揪心。</p>
+<p>近期，电刀小组烧脑分析的过程中，南方的一位道兄用更精细化的分析方式得出了比电刀小组更为准确的结果，趋势比电刀小组预测的更为理直气壮，可谓“南法如瓷器，北法似粗坯，烧制过后，效果雷同”。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      聚焦广东电力市场。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说粤全传1——新规首竞价</title>
+    <link href="http://yoursite.com/2017/05/10/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A01%20%E6%96%B0%E8%A7%84%E9%A6%96%E7%AB%9E%E4%BB%B7/"/>
+    <id>http://yoursite.com/2017/05/10/说粤全传1 新规首竞价/</id>
+    <published>2017-05-10T10:18:10.000Z</published>
+    <updated>2017-06-03T12:17:38.757Z</updated>
+    
+    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927484&amp;idx=1&amp;sn=5ad79ca6fd038f46853d2bba32ce03d5&amp;chksm=8b9ac8cabced41dc45ab64f333179a77942aec3a9c5af2694e6f3ddf5d9f3c3125aaaae137a6&amp;mpshare=1&amp;scene=1&amp;srcid=0516J9RI2JM1ov3sOw36JMnk#rd" target="_blank" rel="external">小李电刀</a></p>
+<p>话说广东电力市场化交易第二版新规则首次竞价，引无数英雄豪杰竞折腰。一时间，各路神仙大咖指点江山，激扬文字。电刀作为吃瓜群众也有来自基层旁观的声音要发，以《说粤全传》为名，讲讲吃瓜群众对广东电力市场化交易的理解，以飧列位看官。</p>
+<p>广东省2017年2月份集中交易总成交电量为12.99亿千瓦时。统一出清价差为-145.5厘/千瓦时，其中：供应方边际成交申报价差-216厘/千瓦时,需求方边际成交申报价差-75厘/千瓦时。竞价结果出来之前，很多专家并未想到电价会下降如此之多，结果出来以后各种声音都有，有甚者认为边际出清的规则设计不合理。电刀吃瓜之余窃喜，以某事前掌握的各种粗浅公开数据，预测成交价在降低15分左右，竟然距离成交价仅偏离4厘5，准确率97%，电刀所用的笨办法就是在“成交长协数据基础上，只看供需决定价格，不考虑其他”，看来笨办法分析至少本次还挺准。</p>
+<p>电刀分析过程：</p>
+<p>1、广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比为1.25（1.25:1）。长协共签订837亿，长协中采购电厂价下降7分占比很大。扣除长协电量后，剩余电量供需比2.5左右，应该讲月度的供需比注定要大于年度的供需比-月度的价格很难与年度长协价格接近（煤价不要暴涨62%）。</p>
+<p>2、广东2月份集中竞价电量交易供需比2.24，大于年度供需比1.25，小于剩余月度电量总供需比2.5.</p>
+<p>3、分析售电公司（用户）报价心态，不能报的过低，否则容易买不到电（几率很小），在全电量模式下月度这个最短交易周期买不到电，就意味着这部分没买到的电转化为偏差考核；也不会报低于7分，因为供需比1.25的情况下，发电尚且要让7分，供需比上升至2.24，发电只会让的更多，因此用户稳妥起见会考虑以降7分为基准入场。</p>
+<p>4、分析发电企业报价心态，必须报的很低。2月份以往年经验看，本次竞价12.99亿千瓦时，占通常广东本地上网电量比例不足5%，是个“不太劲道的丸子”，配合供需比，以成本价拿到电量，拉高本月的负荷率，获得降低计划合同和长协分月电量的单位成本是个好选择。因此，发电企业会以“标杆电价-变动成本”=23分（降低）的方式报价。</p>
+<p>5、（售电报价+发电报价）/2=15分（降低）<br>综上可以看出本次成交15分是比较合理的结果。按照如上的分析方式，边界条件不变或大致相同情况下，如果3月份的供需比不低于本次供需比，煤价相较2月没有大幅增长，那么3月售电公司很可能以14分为合理降价起点，则3月竞价结果可能达到降低18-20分，以后各月类推，直至达到广东火电机组的燃煤成本。据估计，今年某些月份供需比可能超过3，当月应该是年内竞争最激烈的月份。</p>
+<p>从用户角度来说，如果所有月度竞价购方“只报量不报价”，事实上的“单边市场报价”对用户来说在保证电量全中前提下，是最好的选择，因为发电企业基本一步就能报到“变动成本电价”。电刀小组突然发现，被很多市场主体感觉“闻风色变”的“剧烈波动的现货交易”，反而供需比是1.33。毕竟调度机构受经济开机的要求，火电机组基本可以维持负荷率70%，那么日内供需比基本维持在1.33（1/0.7），这是因为“只有启动的机组才能进入供应的队列”。</p>
+<p>另外电刀小组分析，广东目前在交易过程中的数据公布个别做法欠妥，未报价的市场主体竟然能看到已报价报量的市场主体数据，对后报价的市场主体心理影响很大。</p>
+<p><img src="http://i1.piimg.com/594442/e5236fe63fbf31d1.jpg" alt="Markdown"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      聚焦广东电力市场。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
+  
+</feed>
