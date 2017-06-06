@@ -195,7 +195,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-06-03T12:17:29.090Z</updated>
+    <updated>2017-06-05T13:38:39.580Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
 <li>git config –global user.name “Your name”</li>
@@ -281,6 +281,18 @@
 <li>一直按住Esc，再连续按大写的z两次</li>
 </ul>
 <p>cd .. 返回上一级目录<br>cd <file> 进入某一目录</file></p>
+<h2 id="三、git-submodule子模块"><a href="#三、git-submodule子模块" class="headerlink" title="三、git submodule子模块"></a>三、git submodule子模块</h2><p>添加</p>
+<ul>
+<li>git submodule add 仓库地址 路径<br>  注意：路径不能以 / 结尾（会造成修改不生效）、不能是现有工程已有的目录。</li>
+</ul>
+<p>删除</p>
+<ul>
+<li>首先，要在“.gitmodules”文件中删除相应配置信息。然后，执行“git rm –cached ”命令将子模块所在的文件从git中删除。</li>
+</ul>
+<p>下载的工程带有submodule</p>
+<ul>
+<li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br>git submodule update –init –recursive<br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
+</ul>
 ]]></content>
     
     <summary type="html">
@@ -696,8 +708,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传5——天暖价收窄</title>
-    <link href="http://yoursite.com/2017/05/15/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A05%20%E5%A4%A9%E6%9A%96%E4%BB%B7%E6%94%B6%E7%AA%84/"/>
-    <id>http://yoursite.com/2017/05/15/说粤全传5 天暖价收窄/</id>
+    <link href="http://yoursite.com/2017/05/15/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A05%E5%A4%A9%E6%9A%96%E4%BB%B7%E6%94%B6%E7%AA%84/"/>
+    <id>http://yoursite.com/2017/05/15/说粤全传5天暖价收窄/</id>
     <published>2017-05-15T09:10:04.000Z</published>
     <updated>2017-06-03T12:14:12.254Z</updated>
     
@@ -746,8 +758,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传4——求疵粤新规</title>
-    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%20%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84%20/"/>
-    <id>http://yoursite.com/2017/05/13/说粤全传4 求疵粤新规 /</id>
+    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84%20/"/>
+    <id>http://yoursite.com/2017/05/13/说粤全传4求疵粤新规 /</id>
     <published>2017-05-13T01:20:32.000Z</published>
     <updated>2017-06-03T12:17:34.902Z</updated>
     
@@ -783,8 +795,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传3——市场首遭干预</title>
-    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%20%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84%20/"/>
-    <id>http://yoursite.com/2017/05/12/说粤全传3 市场首遭干预 /</id>
+    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84%20/"/>
+    <id>http://yoursite.com/2017/05/12/说粤全传3市场首遭干预 /</id>
     <published>2017-05-12T06:45:52.000Z</published>
     <updated>2017-06-03T12:17:36.478Z</updated>
     
@@ -832,8 +844,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传2——市场规矩在途</title>
-    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%20%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94%20/"/>
-    <id>http://yoursite.com/2017/05/11/说粤全传2 市场规矩在途 /</id>
+    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94%20/"/>
+    <id>http://yoursite.com/2017/05/11/说粤全传2市场规矩在途 /</id>
     <published>2017-05-11T02:31:05.000Z</published>
     <updated>2017-06-03T12:13:58.641Z</updated>
     
@@ -872,8 +884,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传1——新规首竞价</title>
-    <link href="http://yoursite.com/2017/05/10/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A01%20%E6%96%B0%E8%A7%84%E9%A6%96%E7%AB%9E%E4%BB%B7/"/>
-    <id>http://yoursite.com/2017/05/10/说粤全传1 新规首竞价/</id>
+    <link href="http://yoursite.com/2017/05/10/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A01%E6%96%B0%E8%A7%84%E9%A6%96%E7%AB%9E%E4%BB%B7/"/>
+    <id>http://yoursite.com/2017/05/10/说粤全传1新规首竞价/</id>
     <published>2017-05-10T10:18:10.000Z</published>
     <updated>2017-06-03T12:17:38.757Z</updated>
     

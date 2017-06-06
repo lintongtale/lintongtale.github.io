@@ -100,7 +100,7 @@
 <meta property="og:site_name" content="Lin&#39;s Blog">
 <meta property="og:description" content="Git教程。">
 <meta property="og:image" content="http://yoursite.com/2017/06/03/Git教程/Git使用/git-status.png">
-<meta property="og:updated_time" content="2017-06-03T12:17:29.090Z">
+<meta property="og:updated_time" content="2017-06-05T13:38:39.580Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Git教程">
 <meta name="twitter:description" content="Git教程。">
@@ -463,6 +463,18 @@
 <li>一直按住Esc，再连续按大写的z两次</li>
 </ul>
 <p>cd .. 返回上一级目录<br>cd <file> 进入某一目录</file></p>
+<h2 id="三、git-submodule子模块"><a href="#三、git-submodule子模块" class="headerlink" title="三、git submodule子模块"></a>三、git submodule子模块</h2><p>添加</p>
+<ul>
+<li>git submodule add 仓库地址 路径<br>  注意：路径不能以 / 结尾（会造成修改不生效）、不能是现有工程已有的目录。</li>
+</ul>
+<p>删除</p>
+<ul>
+<li>首先，要在“.gitmodules”文件中删除相应配置信息。然后，执行“git rm –cached ”命令将子模块所在的文件从git中删除。</li>
+</ul>
+<p>下载的工程带有submodule</p>
+<ul>
+<li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br>git submodule update –init –recursive<br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
+</ul>
 
       
     </div>
@@ -655,7 +667,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、Git安装"><span class="nav-number">1.</span> <span class="nav-text">1、Git安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、远程仓库"><span class="nav-number">2.</span> <span class="nav-text">2、远程仓库</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3、版本控制"><span class="nav-number">3.</span> <span class="nav-text">3、版本控制</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#"><span class="nav-number">4.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4、分支管理"><span class="nav-number">5.</span> <span class="nav-text">4、分支管理</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Bug分支"><span class="nav-number">5.1.</span> <span class="nav-text">Bug分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Feature分支"><span class="nav-number">5.2.</span> <span class="nav-text">Feature分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#多人协作"><span class="nav-number">5.3.</span> <span class="nav-text">多人协作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5、标签管理"><span class="nav-number">6.</span> <span class="nav-text">5、标签管理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6、自定义Git"><span class="nav-number">7.</span> <span class="nav-text">6、自定义Git</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、git-命令"><span class="nav-number">8.</span> <span class="nav-text">二、git 命令</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、Git安装"><span class="nav-number">1.</span> <span class="nav-text">1、Git安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、远程仓库"><span class="nav-number">2.</span> <span class="nav-text">2、远程仓库</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3、版本控制"><span class="nav-number">3.</span> <span class="nav-text">3、版本控制</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#"><span class="nav-number">4.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4、分支管理"><span class="nav-number">5.</span> <span class="nav-text">4、分支管理</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Bug分支"><span class="nav-number">5.1.</span> <span class="nav-text">Bug分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Feature分支"><span class="nav-number">5.2.</span> <span class="nav-text">Feature分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#多人协作"><span class="nav-number">5.3.</span> <span class="nav-text">多人协作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5、标签管理"><span class="nav-number">6.</span> <span class="nav-text">5、标签管理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6、自定义Git"><span class="nav-number">7.</span> <span class="nav-text">6、自定义Git</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、git-命令"><span class="nav-number">8.</span> <span class="nav-text">二、git 命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、git-submodule子模块"><span class="nav-number">9.</span> <span class="nav-text">三、git submodule子模块</span></a></li></ol></div>
             
 
           </div>
