@@ -283,7 +283,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-06-08T08:22:42.411Z</updated>
+    <updated>2017-06-08T08:33:32.229Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
 <li>git config –global user.name “Your name”</li>
@@ -291,7 +291,7 @@
 <li>ssh-keygen -t rsa -C “youremail@example.com”<br>  在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥</li>
 <li>git remote add origin git@github.com:lintongtale/test.git 将本地仓库与远程仓库关联</li>
 <li>git push -u origin master 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  git push origin master</li>
-<li>git clone git@github.com:lintongtale/test.git 从远程克隆一个本地库<br>  ls 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="./Git使用/git-status.png" alt="git状态转移"></h2></li>
+<li>git clone git@github.com:lintongtale/test.git 从远程克隆一个本地库<br>  ls 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2></li>
 <li>mkdir <file> 创建一个空目录<br>  cd <file><br>  pwd </file></file></li>
 <li>git init 把当前目录变成Git可以管理的仓库</li>
 <li>git add <file> 添加到暂存区<br>  git add . 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  git add -u 更新已经被add的文件，不提交新文件（untracked file）<br>  git add -A 上面两个功能的合集</file></li>
