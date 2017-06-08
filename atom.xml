@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-03T12:17:24.203Z</updated>
+  <updated>2017-06-08T07:22:54.615Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,94 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown教程</title>
+    <link href="http://yoursite.com/2017/06/08/Markdown%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/08/Markdown教程/</id>
+    <published>2017-06-08T07:22:54.000Z</published>
+    <updated>2017-06-08T07:22:54.615Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo教程</title>
+    <link href="http://yoursite.com/2017/06/08/Hexo%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/08/Hexo教程/</id>
+    <published>2017-06-08T06:52:14.000Z</published>
+    <updated>2017-06-08T07:04:49.980Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h2><ul>
+<li><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="external">GitHub+Hexo 搭建个人网站详细教程</a></li>
+<li></li>
+</ul>
+<h2 id="Hexo使用"><a href="#Hexo使用" class="headerlink" title="Hexo使用"></a>Hexo使用</h2><ul>
+<li><a href="https://hexo.io/zh-cn/" target="_blank" rel="external">Hexo官网</a></li>
+<li></li>
+</ul>
+<h3 id="博客只显示摘要信息"><a href="#博客只显示摘要信息" class="headerlink" title="博客只显示摘要信息"></a>博客只显示摘要信息</h3><pre><code>简介
+
+&lt;!-- more --&gt;
+
+更多的内容
+</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      Hexo教程。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/hexo/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>售电公司盈利模式</title>
+    <link href="http://yoursite.com/2017/06/07/%E5%94%AE%E7%94%B5%E5%85%AC%E5%8F%B8%E7%9B%88%E5%88%A9%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://yoursite.com/2017/06/07/售电公司盈利模式/</id>
+    <published>2017-06-07T12:00:41.000Z</published>
+    <updated>2017-06-08T00:52:20.528Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="盈利模式"><a href="#盈利模式" class="headerlink" title="盈利模式"></a>盈利模式</h2><h3 id="售电"><a href="#售电" class="headerlink" title="售电"></a><strong>售电</strong></h3><p>售电业务有广东的案例在那放着，相信大家都已经多少明白了点，但是我还想说的是，大家把售电想简单了!有别于其他产品电力是产、输、配、用同时完成，这其中就会有协调、安全等问题，当然，实际情况比我们想象的复杂的多，在这里不多附言。现在的售电业务是在大用户直购电的基础上开展的，售电公司代理大用户或售电公司作为一个大用户去参与大用户直购电交易，目前在输配电价尚未执行阶段交易是以降幅进行报价然后等额传导，结算方式是电力公司跟各方进行结算(包括售电公司)。</p>
+<p>在这种机制下，售电公司只有通过利润分成、低买高卖来盈利。国外的经验至少告诉我们售电公司是为中、小、微型客户服务的，所以私营的售电公司应该专注于做相对小一点的客户，大客户有众多电厂盯着呢。相比大用户，小用户的特点有三个：一是小用户一般生产稳定，对电价变化也不敏感;二是小用户一般由电工或其他人员兼职做电力交易，他没有足够的时间、精力去关注此事，由此会产生信息的不对称性;三是小用户用电量小，即使自己对市场很懂也很难拿到高的价格。通过对数量众多的小用户进行参与市场，会有很大的利润空间。</p>
+<p>值得一提的是大家注意到在这种交易机制下，电力公司的利益没有一点损失，相反，通过降价鼓励了用户用电，电力公司反而挣得更多，所以电力公司是有动力推动直购电的。</p>
+<h3 id="配电网"><a href="#配电网" class="headerlink" title="配电网"></a><strong>配电网</strong></h3><p>目前国家放开了新增配电网业务，很多企业跃跃欲试，想说理想很丰满、现实很残酷!首先目前这种经济大环境下全国能有多少新增配电网?就算收购非电网的配网资产，你没问电网公司他开心吗?还有后面的运行维护问题，并不是所有企业都有这个能力。</p>
+<p>当然国企的售电公司可以将配网作为一个核心业务，配电网的投资回收期一般都比较长，国企的融资成本相对比较低，通过大量的资金投入，到后期应该也能获得稳定的收入，不过配网业务是挖垄断企业墙角的事情，就算是国企售电公司有政策、资金优势，难度也不言而喻!</p>
+<h3 id="分布式能源"><a href="#分布式能源" class="headerlink" title="分布式能源"></a><strong>分布式能源</strong></h3><p>首先我个人非常看好分布式能源的发展，尤其是户用小型分布式光伏发电项目。目前集中式新能源电站的发展已经遇到了瓶颈，三北地区严重的弃风弃光已经从国家层面改变了新能源发展的方向。</p>
+<p>分布式光伏有效利用土地资源、就近消纳等优点加上光伏组件成本连年下降、国家级、省级、市级甚至区级都出台有补贴政策，还有目前商业电价一般在0.8-1.2元/千瓦时，已经让分布式光伏发电项目有了足够的商业价值，大概5-7年即可回收成本;并且分布式光伏多少是有一些技术的，这也正是为什么分布式光伏没有像太阳能热水器那样迅速普及的一个重要原因。</p>
+<p>然而这恰恰给了售电公司一个难得的机会，如果一家售电公司你没背景、没关系、没资源，强烈建议你去做分布式能源吧。</p>
+<h3 id="厂用代维"><a href="#厂用代维" class="headerlink" title="厂用代维"></a><strong>厂用代维</strong></h3><p>厂用代维对售电公司的技术要求就比较高了，你必须有专业的技术团队。建议有电建、电力设备制造背景的售电公司可以在这个方向深耕，通过厂用代维可以打通电力设备制造、销售、安装、运行、检修等一整条产业链，并且各个环节有相辅相成的作用，可以最大限度提高公司产品竞争力，并且后期逐渐会延伸到负荷预测、需求侧管理，合同能源管理，前途不可限量。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;盈利模式&quot;&gt;&lt;a href=&quot;#盈利模式&quot; class=&quot;headerlink&quot; title=&quot;盈利模式&quot;&gt;&lt;/a&gt;盈利模式&lt;/h2&gt;&lt;h3 id=&quot;售电&quot;&gt;&lt;a href=&quot;#售电&quot; class=&quot;headerlink&quot; title=&quot;售电&quot;&gt;&lt;/a&gt;&lt;stro
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>Win10教程</title>
@@ -63,7 +151,7 @@
     <link href="http://yoursite.com/2017/06/03/VS%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/VS教程/</id>
     <published>2017-06-03T10:56:54.000Z</published>
-    <updated>2017-06-03T12:16:58.537Z</updated>
+    <updated>2017-06-08T07:42:28.982Z</updated>
     
     <content type="html"><![CDATA[<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink" title="常用快捷键"></a>常用快捷键</h2><p>F10：逐过程调试<br>F11：逐语句调试（一句一句执行）<br>F12：转到定义，到变量或函数定义的地方，与Ctrl+-配合使用非常方便<br>Ctrl+]：匹配选中的括号（大括号、小括号都行），在多层循环+判断语句时非常方便Ctrl+Space：代码补全<br>Ctrl+tab：在VS中切换打开的窗口，即切换各个文件<br>Ctrl+I：递增搜索，与Ctrl+F不同的是搜索期间不显示搜索对话框，且Ctrl+F搜索下一个直接按Enter即  可，而Ctrl+I搜索下一个按Ctrl+I或F3，Escape退出，连续按两次Ctrl+I重复上次搜索<br>Ctrl+Shift+F：旧式的文件搜索对话框（与记事本中的搜索替换框差不多，可以替换）Ctrl+F3：为当前选中的部分进行搜索（不需要再输入要搜索的内容）<br>Shift+Alt+Enter：最大化代码编写区域（代码全屏模式），即去掉所有其它辅助窗口只留下代码编写窗口，再按一次返回到原来界面<br>Ctrl+K+C：注释一段代码块（好用）<br>Ctrl+K+U：取消注释一段代码块（好用）<br>Ctrl+K+D：代码整理（好用）<br>Ctrl+K+F：只整理你选中的部分<br>Ctrl+L：删除当前行<br>Ctrl+M,：展开或折叠当前的代码（展开或收缩方法，类等）  </p>
 <pre><code>1. 编译的时候出现error:1038，无法打开预编译头
@@ -90,12 +178,12 @@
     
       <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="VS" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/VS/"/>
+      <category term="vs" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/vs/"/>
     
-    
-      <category term="visual studio" scheme="http://yoursite.com/tags/visual-studio/"/>
     
       <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="visual studio" scheme="http://yoursite.com/tags/visual-studio/"/>
     
   </entry>
   
@@ -306,9 +394,9 @@
       <category term="git" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/git/"/>
     
     
-      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -317,7 +405,7 @@
     <link href="http://yoursite.com/2017/06/03/C-%E9%97%AE%E9%A2%98/"/>
     <id>http://yoursite.com/2017/06/03/C-问题/</id>
     <published>2017-06-03T10:44:06.000Z</published>
-    <updated>2017-06-03T12:15:46.274Z</updated>
+    <updated>2017-06-08T07:42:25.752Z</updated>
     
     <content type="html"><![CDATA[<h2 id="宏命令"><a href="#宏命令" class="headerlink" title="宏命令"></a>宏命令</h2><pre><code>• #if _MSC_VER &gt; 1000
 是指如果vc编译器的版本大于1000则这个语句被编译！
@@ -355,10 +443,10 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     
       <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="C++" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+      <category term="c++" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/c/"/>
     
     
-      <category term="C++" scheme="http://yoursite.com/tags/C/"/>
+      <category term="c++" scheme="http://yoursite.com/tags/c/"/>
     
       <category term="问题" scheme="http://yoursite.com/tags/%E9%97%AE%E9%A2%98/"/>
     
@@ -388,11 +476,11 @@ http://blog.csdn.net/luoweifu/article/details/45600415
       <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
     
     
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
       <category term="江西" scheme="http://yoursite.com/tags/%E6%B1%9F%E8%A5%BF/"/>
     
       <category term="电力系统" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
     
   </entry>
   
@@ -401,7 +489,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     <link href="http://yoursite.com/2017/05/31/%E7%94%B5%E5%8A%9B%E4%B8%AD%E9%95%BF%E6%9C%9F%E4%BA%A4%E6%98%93/"/>
     <id>http://yoursite.com/2017/05/31/电力中长期交易/</id>
     <published>2017-05-31T02:49:38.000Z</published>
-    <updated>2017-06-03T12:10:10.812Z</updated>
+    <updated>2017-06-07T11:59:05.782Z</updated>
     
     <content type="html"><![CDATA[<h2 id="一、市场成员"><a href="#一、市场成员" class="headerlink" title="一、市场成员"></a>一、市场成员</h2><p>发电企业、售电企业、电网企业、电力用户、电力交易机构、电力调度机构和独立辅助服务提供者等满足市场准入条件的主体。</p>
 <h2 id="二、市场交易品种、周期和方式"><a href="#二、市场交易品种、周期和方式" class="headerlink" title="二、市场交易品种、周期和方式"></a>二、市场交易品种、周期和方式</h2><p><strong>交易品种：</strong><br>包括电力直接交易、跨省跨区交易、富余电量增量交易、合同电量转让交易、偏差电量调整交易和辅助服务交易。</p>
@@ -439,6 +527,9 @@ http://blog.csdn.net/luoweifu/article/details/45600415
 <p>  挂牌交易价格以挂牌价格结算。</p>
 </li>
 </ul>
+<p>集中竞价交易价格的结算方式有：统一出清、非统一出清。</p>
+<p>非统一出清的价格形成，在某一次的电力集中竞价交易中，会同时形成数量巨大的子交易，而每一个子交易的成交价格不尽相同。<br>弊端：竞价交易的信息公开难度大，交易参与方之间的无效博弈显著增大，交易平台的公平公正性收到质疑。</p>
+<p>统一出清的价格形成，以沪深证券交易所为例，交易处理系统对全部申报价格按照价格优先、时间优先的原则排序，并在次基础上找到一个基准价格，使其满足：<br>1、成交量最大；<br>2、高于基准价格的买入申报和低于基准价格卖出申报全部成交；<br>3、与基准价格相同的买卖双方中有一方申报全部成交。<br>该基准价格即被确定为成交价格。</p>
 <p>相关参考链接：</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MzA5NDc1NDQ5NQ==&amp;mid=502069853&amp;idx=4&amp;sn=66efe0c7e61d123d980dc3309268e0fc&amp;chksm=0851998d3f26109bde86039c6e21078844f6f28eef6dbbba308db8febad4cb46d875ba5592ad&amp;mpshare=1&amp;scene=1&amp;srcid=0530GEPJOIgoGTM7nmEWeVnQ#rd" target="_blank" rel="external">电力直接交易数据一览 </a></p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MjM5OTA3NTAzNg==&amp;mid=2652376967&amp;idx=1&amp;sn=2a1761b85a75e88806a85ffac13da707&amp;chksm=bd2da2348a5a2b2226d869b855712fc3364e814c595df9fe335892fd2f00f077601a433b676a&amp;mpshare=1&amp;scene=1&amp;srcid=05313jRHAJjWsqQuDaXKnbsA#rd" target="_blank" rel="external">广东旧竞价规则结束！盘点前7轮竞价交易大数据</a></p>
@@ -758,8 +849,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传4——求疵粤新规</title>
-    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84%20/"/>
-    <id>http://yoursite.com/2017/05/13/说粤全传4求疵粤新规 /</id>
+    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84/"/>
+    <id>http://yoursite.com/2017/05/13/说粤全传4求疵粤新规/</id>
     <published>2017-05-13T01:20:32.000Z</published>
     <updated>2017-06-03T12:17:34.902Z</updated>
     
@@ -795,8 +886,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传3——市场首遭干预</title>
-    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84%20/"/>
-    <id>http://yoursite.com/2017/05/12/说粤全传3市场首遭干预 /</id>
+    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84/"/>
+    <id>http://yoursite.com/2017/05/12/说粤全传3市场首遭干预/</id>
     <published>2017-05-12T06:45:52.000Z</published>
     <updated>2017-06-03T12:17:36.478Z</updated>
     
@@ -844,8 +935,8 @@ http://blog.csdn.net/luoweifu/article/details/45600415
   
   <entry>
     <title>说粤全传2——市场规矩在途</title>
-    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94%20/"/>
-    <id>http://yoursite.com/2017/05/11/说粤全传2市场规矩在途 /</id>
+    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94/"/>
+    <id>http://yoursite.com/2017/05/11/说粤全传2市场规矩在途/</id>
     <published>2017-05-11T02:31:05.000Z</published>
     <updated>2017-06-03T12:13:58.641Z</updated>
     
