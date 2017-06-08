@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-08T07:22:54.615Z</updated>
+  <updated>2017-06-08T12:11:47.943Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,16 +16,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Markdown教程</title>
-    <link href="http://yoursite.com/2017/06/08/Markdown%E6%95%99%E7%A8%8B/"/>
-    <id>http://yoursite.com/2017/06/08/Markdown教程/</id>
-    <published>2017-06-08T07:22:54.000Z</published>
-    <updated>2017-06-08T07:22:54.615Z</updated>
+    <title>电力市场运营系统</title>
+    <link href="http://yoursite.com/2017/06/08/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F/"/>
+    <id>http://yoursite.com/2017/06/08/电力市场运营系统/</id>
+    <published>2017-06-08T12:11:47.000Z</published>
+    <updated>2017-06-08T12:11:47.943Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown教程</title>
+    <link href="http://yoursite.com/2017/06/08/Markdown%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/08/Markdown教程/</id>
+    <published>2017-06-08T07:22:54.000Z</published>
+    <updated>2017-06-08T11:47:01.679Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><ul>
+<li><a href="https://segmentfault.com/markdown" target="_blank" rel="external">Markdown 编辑器语法指南</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      Markdown教程。
+    
+    </summary>
+    
+      <category term="生产力" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/"/>
+    
+      <category term="markdown" scheme="http://yoursite.com/categories/%E7%94%9F%E4%BA%A7%E5%8A%9B/markdown/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
     
   </entry>
   
@@ -283,7 +312,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-06-08T08:33:32.229Z</updated>
+    <updated>2017-06-08T08:36:38.955Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
 <li>git config –global user.name “Your name”</li>
@@ -315,11 +344,9 @@
 <li>git remote –v 查看远程仓库的信息</li>
 <li>git push origin master 推送分支，git push origin dev推送dev分支</li>
 <li>master是主分支，要时刻与远程同步；dev是开发分支，团队所有成员都需要在上面工作，需要远程同步；bug分支只用于本地修复bug，无需推送到远程；feature分支是否推送到远程，取决于你是否和其他人合作在上面开发</li>
-<li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地<pre><code>此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”
-</code></pre></li>
+<li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地。此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”</li>
 <li>git pull 把最新的提交从远程抓下来</li>
-<li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull<pre><code>此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push
-</code></pre><h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
+<li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
 <li>git tag v1.0 创建标签；默认标签是打在最新提交的commit上的</li>
 <li>git tag 查看所有标签</li>
 <li>git log –pretty=oneline –-abbrev-commit 查找到相应的commit id例如6224937；然后打标签</li>
