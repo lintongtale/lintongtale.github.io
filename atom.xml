@@ -499,7 +499,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-07-26T11:38:11.659Z</updated>
+    <updated>2017-07-26T11:55:40.806Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
 <li>git config –global user.name “Your name”</li>
@@ -556,12 +556,12 @@
 <li>git push origin :refs/tags/v0.9 删除远程标签，需先删除本地标签</li>
 </ul>
 <h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
-<li>touch .gitignore 添加.gitignore文件</li>
-<li>git check-ignore –v App.class 检查.gitignore的规则错误</li>
-<li>git config –global alias.st status 配置status的别名，此时git st等效于git status</li>
-<li>git config –global alias.unstage ‘reset HEAD’ 此时git unstage test.py相当于git reset HEAD test.py，即把暂存区的修改撤销掉（unstage）</li>
-<li>git config –global alias.last ‘log -1’ 此时，用git last就能显示最近一次的提交</li>
-<li>git config –global alias.lg “log –color –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’  –abbrev-commit”</li>
+<li><code> touch .gitignore </code> 添加.gitignore文件</li>
+<li><code> git check-ignore –v App.class </code> 检查.gitignore的规则错误</li>
+<li><code> git config –global alias.st status </code> 配置status的别名，此时git st等效于git status</li>
+<li><code> git config –global alias.unstage ‘reset HEAD’ </code> 此时git unstage test.py相当于git reset HEAD test.py，即把暂存区的修改撤销掉（unstage）</li>
+<li><code> git config –global alias.last ‘log -1’ </code> 此时，用git last就能显示最近一次的提交</li>
+<li><code> git config –global alias.lg “log –color –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’  –abbrev-commit” </code></li>
 </ul>
 <h2 id="二、git-命令"><a href="#二、git-命令" class="headerlink" title="二、git 命令"></a>二、git 命令</h2><ul>
 <li>git add . 同时添加多个已修改的文件到暂存区。</li>
@@ -570,24 +570,24 @@
 <p>撤销修改</p>
 <p>查看之前的commit</p>
 <ul>
-<li>git checkout &amp;lt commit &amp;gt &amp;lt file &amp;gt</li>
-<li>git checkout &amp;lt commit &amp;gt </li>
-<li>git checkout &amp;lt branch &amp;gt</li>
+<li><code> git checkout <commit> <file> </file></commit></code></li>
+<li><code> git checkout &amp;lt commit &amp;gt </code></li>
+<li><code> git checkout <branch> </branch></code></li>
 </ul>
 <p>撤销公共修改</p>
 <ul>
-<li>git revert &amp;lt commit &amp;gt</li>
+<li><code> git revert <commit> </commit></code></li>
 </ul>
 <p>撤销本地修改</p>
 <ul>
-<li>git reset</li>
-<li>git clean</li>
+<li><code> git reset </code></li>
+<li><code> git clean </code></li>
 </ul>
 <p>重写Git历史记录</p>
 <ul>
-<li>git commit –amend</li>
-<li>git rebase</li>
-<li>git reflog</li>
+<li><code> git commit –amend </code></li>
+<li><code> git rebase </code></li>
+<li><code> git reflog </code></li>
 </ul>
 <p>git bash 出现vim的时候如何退出</p>
 <ul>
@@ -596,7 +596,7 @@
 <p>cd .. 返回上一级目录<br>cd <file> 进入某一目录</file></p>
 <h2 id="三、git-submodule子模块"><a href="#三、git-submodule子模块" class="headerlink" title="三、git submodule子模块"></a>三、git submodule子模块</h2><p>添加</p>
 <ul>
-<li>git submodule add 仓库地址 路径<br>  注意：路径不能以 / 结尾（会造成修改不生效）、不能是现有工程已有的目录。</li>
+<li><code> git submodule add </code> 仓库地址 路径<br>  注意：路径不能以 / 结尾（会造成修改不生效）、不能是现有工程已有的目录。</li>
 </ul>
 <p>删除</p>
 <ul>
@@ -614,9 +614,15 @@
 <li>Press esc to go back to command mode.</li>
 <li>Then type :w followed by enter to save.</li>
 <li>Finally :q followed by enter to quit.</li>
+<li>另：一直按住Esc，再连续按大写的z两次</li>
 </ul>
 </li>
-<li><p>2 本地克隆远端非Master分支<br>  cd RepoPath<br>  git branch<br>  git checkout -b branchName origin/branchName</p>
+<li><p>2 本地克隆远端非Master分支</p>
+<ul>
+<li><code> cd RepoPath </code></li>
+<li><code> git branch </code></li>
+<li><code> git checkout -b branchName origin/branchName </code></li>
+</ul>
 </li>
 </ul>
 ]]></content>
