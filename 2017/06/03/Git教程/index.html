@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next mist use-motion" lang="zh-Hans">
+<html class="theme-next pisces use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -100,7 +100,7 @@
 <meta property="og:site_name" content="Lin&#39;s Blog">
 <meta property="og:description" content="Git教程。">
 <meta property="og:image" content="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg">
-<meta property="og:updated_time" content="2017-06-08T08:36:38.955Z">
+<meta property="og:updated_time" content="2017-07-26T10:56:45.604Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Git教程">
 <meta name="twitter:description" content="Git教程。">
@@ -112,8 +112,8 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Mist',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"always","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -165,7 +165,6 @@
 
   <div class="container sidebar-position-left page-post-detail ">
     <div class="headband"></div>
-    <a href="https://github.com/lintongtale"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
@@ -283,7 +282,7 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Lin Tong">
       <meta itemprop="description" content="">
-      <meta itemprop="image" content="http://i1.piimg.com/594442/dfc11cd582fe47d1.jpg">
+      <meta itemprop="image" content="/uploads/avatar.png">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -394,10 +393,17 @@
 <li>git reset –hard HEAD^ 回退到上一个版本<br>  git  reset –hard HEAD^^ 回退到上上一个版本<br>  git reset –hard HEAD~100 往上100个版本<br>  git reflog 记录每一次命令，包括commit id<br>  git reset –hard <commit id=""></commit></li>
 <li>git status 查看状态</li>
 <li>git diff HEAD – <file> 查看工作区和版本库里面最新版本的区别</file></li>
-<li>git checkout – <file> 让文件回到最近一次git commit或git add时的状态（撤销修改）</file></li>
+<li>git checkout – <file> 让文件回到最近一次git commit或git add时的状态（撤销修改）<ul>
+<li>git checkout – <file> 取消某个文件修改</file></li>
+<li>git checkout . 取消所有文件修改</li>
+</ul>
+</file></li>
 <li>rm <file> 删除文件<br>  git rm <file><br>  git commit -m “remove file”<br>  若发现删错了，git checkout – <file><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></file></file></file></li>
 <li>git checkout -b test 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  git branch test 创建分支<br>  git checkout test 切换分支<br>  git branch 查看当前分支</li>
-<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<br>  git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<ul>
+<li>git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+</ul>
+</li>
 <li>git branch -d test 删除test分支</li>
 <li>git log –graph 查看分支合并图<br>  当master分支和test分支各自都有新的提交时，Git无法快速合并，只能试图将各自的修改合并起来。</li>
 <li>git branch -a 查看远程分支<h3 id="Bug分支"><a href="#Bug分支" class="headerlink" title="Bug分支"></a>Bug分支</h3></li>
@@ -410,7 +416,10 @@
 <li>git push origin master 推送分支，git push origin dev推送dev分支</li>
 <li>master是主分支，要时刻与远程同步；dev是开发分支，团队所有成员都需要在上面工作，需要远程同步；bug分支只用于本地修复bug，无需推送到远程；feature分支是否推送到远程，取决于你是否和其他人合作在上面开发</li>
 <li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地。此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”</li>
-<li>git pull 把最新的提交从远程抓下来</li>
+<li>git pull 把最新的提交从远程抓下来  <ul>
+<li>相当于从远程获取最新版本，并merge到本地，更安全的做法是：<br>git fetch origin master<br>git log -p master..origin/master<br>git merge origin/master</li>
+</ul>
+</li>
 <li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
 <li>git tag v1.0 创建标签；默认标签是打在最新提交的commit上的</li>
 <li>git tag 查看所有标签</li>
@@ -424,6 +433,7 @@
 <li>git push origin :refs/tags/v0.9 删除远程标签，需先删除本地标签</li>
 </ul>
 <h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
+<li>touch .gitignore 添加.gitignore文件</li>
 <li>git check-ignore –v App.class 检查.gitignore的规则错误</li>
 <li>git config –global alias.st status 配置status的别名，此时git st等效于git status</li>
 <li>git config –global alias.unstage ‘reset HEAD’ 此时git unstage test.py相当于git reset HEAD test.py，即把暂存区的修改撤销掉（unstage）</li>
@@ -472,6 +482,19 @@
 <p>下载的工程带有submodule</p>
 <ul>
 <li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br>git submodule update –init –recursive<br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
+</ul>
+<h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><ul>
+<li><p>1 merge 冲突，git界面显示“# Please enter a commit message to explain why this merge is necessary”，按照下列步骤解决：</p>
+<ul>
+<li>Press i to enter insert mode.</li>
+<li>Now you can type your message, as if you were in a normal (non-modal) text editor.</li>
+<li>Press esc to go back to command mode.</li>
+<li>Then type :w followed by enter to save.</li>
+<li>Finally :q followed by enter to quit.</li>
+</ul>
+</li>
+<li><p>2 本地克隆远端非Master分支<br>  cd RepoPath<br>  git branch<br>  git checkout -b branchName origin/branchName</p>
+</li>
 </ul>
 
       
@@ -589,7 +612,7 @@
       <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="http://i1.piimg.com/594442/dfc11cd582fe47d1.jpg"
+               src="/uploads/avatar.png"
                alt="Lin Tong" />
           <p class="site-author-name" itemprop="name">Lin Tong</p>
            
@@ -601,7 +624,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">20</span>
+                <span class="site-state-item-count">24</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -612,7 +635,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">13</span>
+                <span class="site-state-item-count">14</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -623,7 +646,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">23</span>
+                <span class="site-state-item-count">24</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -641,6 +664,26 @@
         
 
         <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/lintongtale" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/lintong520" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
           
         </div>
 
@@ -665,7 +708,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、Git安装"><span class="nav-number">1.</span> <span class="nav-text">1、Git安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、远程仓库"><span class="nav-number">2.</span> <span class="nav-text">2、远程仓库</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3、版本控制"><span class="nav-number">3.</span> <span class="nav-text">3、版本控制</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#"><span class="nav-number">4.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4、分支管理"><span class="nav-number">5.</span> <span class="nav-text">4、分支管理</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Bug分支"><span class="nav-number">5.1.</span> <span class="nav-text">Bug分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Feature分支"><span class="nav-number">5.2.</span> <span class="nav-text">Feature分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#多人协作"><span class="nav-number">5.3.</span> <span class="nav-text">多人协作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5、标签管理"><span class="nav-number">6.</span> <span class="nav-text">5、标签管理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6、自定义Git"><span class="nav-number">7.</span> <span class="nav-text">6、自定义Git</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、git-命令"><span class="nav-number">8.</span> <span class="nav-text">二、git 命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、git-submodule子模块"><span class="nav-number">9.</span> <span class="nav-text">三、git submodule子模块</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、Git安装"><span class="nav-number">1.</span> <span class="nav-text">1、Git安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2、远程仓库"><span class="nav-number">2.</span> <span class="nav-text">2、远程仓库</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3、版本控制"><span class="nav-number">3.</span> <span class="nav-text">3、版本控制</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#"><span class="nav-number">4.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4、分支管理"><span class="nav-number">5.</span> <span class="nav-text">4、分支管理</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Bug分支"><span class="nav-number">5.1.</span> <span class="nav-text">Bug分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Feature分支"><span class="nav-number">5.2.</span> <span class="nav-text">Feature分支</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#多人协作"><span class="nav-number">5.3.</span> <span class="nav-text">多人协作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5、标签管理"><span class="nav-number">6.</span> <span class="nav-text">5、标签管理</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#6、自定义Git"><span class="nav-number">7.</span> <span class="nav-text">6、自定义Git</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二、git-命令"><span class="nav-number">8.</span> <span class="nav-text">二、git 命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三、git-submodule子模块"><span class="nav-number">9.</span> <span class="nav-text">三、git submodule子模块</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#四、常见问题"><span class="nav-number">10.</span> <span class="nav-text">四、常见问题</span></a></li></ol></div>
             
 
           </div>
@@ -784,6 +827,13 @@
 
   
   
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.1"></script>
+
+
 
   
   <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.1"></script>

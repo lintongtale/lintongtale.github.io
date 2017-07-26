@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next mist use-motion" lang="zh-Hans">
+<html class="theme-next pisces use-motion" lang="zh-Hans">
 <head>
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -99,7 +99,7 @@
 <meta property="og:url" content="http://yoursite.com/2017/06/03/C-问题/index.html">
 <meta property="og:site_name" content="Lin&#39;s Blog">
 <meta property="og:description" content="C++，那些年我们遇到的坑。">
-<meta property="og:updated_time" content="2017-06-08T07:42:25.752Z">
+<meta property="og:updated_time" content="2017-07-22T14:10:04.261Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="C++问题">
 <meta name="twitter:description" content="C++，那些年我们遇到的坑。">
@@ -110,8 +110,8 @@
   var NexT = window.NexT || {};
   var CONFIG = {
     root: '/',
-    scheme: 'Mist',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"always","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
     fancybox: true,
     motion: true,
     duoshuo: {
@@ -163,7 +163,6 @@
 
   <div class="container sidebar-position-left page-post-detail ">
     <div class="headband"></div>
-    <a href="https://github.com/lintongtale"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/567c3a48d796e2fc06ea80409cc9dd82bf714434/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png"></a>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
@@ -281,7 +280,7 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Lin Tong">
       <meta itemprop="description" content="">
-      <meta itemprop="image" content="http://i1.piimg.com/594442/dfc11cd582fe47d1.jpg">
+      <meta itemprop="image" content="/uploads/avatar.png">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -401,8 +400,15 @@
 参考连接：
 http://blog.csdn.net/luoweifu/article/details/45600415
 </code></pre><h2 id="pragma-region和-pragma-endregion关键字"><a href="#pragma-region和-pragma-endregion关键字" class="headerlink" title="#pragma region和#pragma endregion关键字"></a>#pragma region和#pragma endregion关键字</h2><pre><code>用于定义拓展和收缩的代码区域的开头和结尾。
-</code></pre><p>指定文件目录中正斜杠和反斜杠（“/”和“\”）的区别<br>    • “/“正斜杠，posix标准，linux中用于指定文件目录，“./”中“.”表示当前目录<br>    • “\”反斜杠，第一个“\”为转义字符，windows中用于指定文件目录，此外windows也支持“/”</p>
-<p>C/C++中extern关键字详解 - chao_yu - 博客园<br><a href="http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html" target="_blank" rel="external">http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html</a></p>
+</code></pre><p>指定文件目录中正斜杠和反斜杠（“/”和“\”）的区别<br>    • “/“正斜杠，posix标准，linux中用于指定文件目录，“./”中“.”表示当前目录<br>    • “\”反斜杠，第一个“\”为转义字符，windows中用于指定文件目录，此外 windows 也支持“/”</p>
+<p>C/C++ 中 extern 关键字详解 - chao_yu - 博客园<br><a href="http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html" target="_blank" rel="external">http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html</a></p>
+<h1 id="C-Primer：C-基础"><a href="#C-Primer：C-基础" class="headerlink" title="C++ Primer：C++ 基础"></a>C++ Primer：C++ 基础</h1><p><a href="http://jennica.space/2017/01/13/cpp-primer-basic/" target="_blank" rel="external">http://jennica.space/2017/01/13/cpp-primer-basic/</a></p>
+<h2 id="1、开始学习-C"><a href="#1、开始学习-C" class="headerlink" title="1、开始学习 C++"></a>1、开始学习 C++</h2><ul>
+<li>文件重定向：将标准输入输出与文件关联，运行命令 prog1 &lt; infile &gt; outfile，prog1 是编译后所产生的可执行文件，上述命令会从一个名为 infile 的文件中读取输入数据，并将输出结果写入到一个名为 outfile 的文件中。</li>
+</ul>
+<h1 id="C-的一些规范"><a href="#C-的一些规范" class="headerlink" title="C++ 的一些规范"></a>C++ 的一些规范</h1><ul>
+<li>1、包含来自标准库的头文件时，用尖括号（&lt;&gt;）包含头文件名，对于不属于标准库的头文件，则用双引号（””）包围。</li>
+</ul>
 
       
     </div>
@@ -519,7 +525,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
       <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
-               src="http://i1.piimg.com/594442/dfc11cd582fe47d1.jpg"
+               src="/uploads/avatar.png"
                alt="Lin Tong" />
           <p class="site-author-name" itemprop="name">Lin Tong</p>
            
@@ -531,7 +537,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">20</span>
+                <span class="site-state-item-count">24</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -542,7 +548,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">13</span>
+                <span class="site-state-item-count">14</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -553,7 +559,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">23</span>
+                <span class="site-state-item-count">24</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -571,6 +577,26 @@ http://blog.csdn.net/luoweifu/article/details/45600415
         
 
         <div class="links-of-author motion-element">
+          
+            
+              <span class="links-of-author-item">
+                <a href="https://github.com/lintongtale" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              <span class="links-of-author-item">
+                <a href="http://weibo.com/lintong520" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
           
         </div>
 
@@ -595,7 +621,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#宏命令"><span class="nav-number">1.</span> <span class="nav-text">宏命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#sstream"><span class="nav-number">2.</span> <span class="nav-text">sstream</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#指针与引用"><span class="nav-number">3.</span> <span class="nav-text">指针与引用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#pragma-region和-pragma-endregion关键字"><span class="nav-number">4.</span> <span class="nav-text">#pragma region和#pragma endregion关键字</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#宏命令"><span class="nav-number">1.</span> <span class="nav-text">宏命令</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#sstream"><span class="nav-number">2.</span> <span class="nav-text">sstream</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#指针与引用"><span class="nav-number">3.</span> <span class="nav-text">指针与引用</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#pragma-region和-pragma-endregion关键字"><span class="nav-number">4.</span> <span class="nav-text">#pragma region和#pragma endregion关键字</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#C-Primer：C-基础"><span class="nav-number"></span> <span class="nav-text">C++ Primer：C++ 基础</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1、开始学习-C"><span class="nav-number">1.</span> <span class="nav-text">1、开始学习 C++</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#C-的一些规范"><span class="nav-number"></span> <span class="nav-text">C++ 的一些规范</span></a></div>
             
 
           </div>
@@ -714,6 +740,13 @@ http://blog.csdn.net/luoweifu/article/details/45600415
 
   
   
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.1"></script>
+
+
 
   
   <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.1"></script>

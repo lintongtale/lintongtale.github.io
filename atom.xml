@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-08T12:49:17.827Z</updated>
+  <updated>2017-07-14T15:13:25.005Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,15 +16,188 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>VS Code教程</title>
+    <link href="http://yoursite.com/2017/07/14/VS-Code%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/07/14/VS-Code教程/</id>
+    <published>2017-07-14T15:06:21.000Z</published>
+    <updated>2017-07-14T15:13:25.005Z</updated>
+    
+    <content type="html"><![CDATA[<p>快捷键<br>Ctrl + Shift + P：打开命令行(&gt;)<br>Shift + Alt +鼠标左键：多列编辑<br>Ctrl + Shift + V：快速预览当前文档<br>Ctrl + P  打开扩展管理器<br>Ctrl + Shift + K 删除当前行<br>Ctrl + B  显示/隐藏侧边栏</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;快捷键&lt;br&gt;Ctrl + Shift + P：打开命令行(&amp;gt;)&lt;br&gt;Shift + Alt +鼠标左键：多列编辑&lt;br&gt;Ctrl + Shift + V：快速预览当前文档&lt;br&gt;Ctrl + P  打开扩展管理器&lt;br&gt;Ctrl + Shift + K 删除当前行
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>浙江电力观察</title>
+    <link href="http://yoursite.com/2017/07/11/%E6%B5%99%E6%B1%9F%E7%94%B5%E5%8A%9B%E8%A7%82%E5%AF%9F/"/>
+    <id>http://yoursite.com/2017/07/11/浙江电力观察/</id>
+    <published>2017-07-11T13:24:29.000Z</published>
+    <updated>2017-07-11T13:28:36.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年6月30日，浙江就浙江电力市场设计与规则编制咨询服务开始公开招标，这份标书价值4000万人民币的咨询服务表明了浙江在初期希望建立以电力现货市场为主体，电力金融市场为补充的省级电力市场体系，发挥市场对电力资源配置的决定性作用，降低电力成本，<strong>初期市场拟采用全电力库模式</strong>，计划于2019年上半年基本建成并投入试运行。</p>
+<p>电力库模式的典型是英国POOL模式，可以被描述为一个强制的、单边的、非确定的电力市场，电价是提前由发电商竞价确定的，发电为了可以发电上网会趋向于边际成本报价，这么一来也就可以释放更多的优惠。</p>
+<p>英国电力库模式更趋向于发电侧单边竞争，与需求侧竞争并无太多关系，考虑到浙江今年放开的直购电量规模为1350亿千瓦时，达到了全社会用电量的30%以上。<strong>在这过程中并没有引入售电公司这一角色，直接将所有电价优惠释放给电力用户</strong>。</p>
+<p>从可以充分调动发电侧竞争、将降价优惠悉数给予电力用户这个角度看，浙江这一举动是符合电力改革的精神的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      时间轴记录浙江省电力发展。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="电力系统" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电力云平台</title>
+    <link href="http://yoursite.com/2017/07/08/%E7%94%B5%E5%8A%9B%E4%BA%91%E5%B9%B3%E5%8F%B0/"/>
+    <id>http://yoursite.com/2017/07/08/电力云平台/</id>
+    <published>2017-07-08T02:09:06.000Z</published>
+    <updated>2017-07-08T02:14:49.570Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://yd.yonyou.com" target="_blank" rel="external">用友能源售电云</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      介绍各种电力云平台工具。
+    
+    </summary>
+    
+      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+    
+      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
+    
+      <category term="云平台" scheme="http://yoursite.com/tags/%E4%BA%91%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#教程</title>
+    <link href="http://yoursite.com/2017/06/21/C-%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2017/06/21/C-教程/</id>
+    <published>2017-06-21T02:09:37.000Z</published>
+    <updated>2017-06-21T02:15:33.420Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="学习C-的网站："><a href="#学习C-的网站：" class="headerlink" title="学习C#的网站："></a>学习C#的网站：</h2><ul>
+<li><a href="http://msdn.microsoft.com" target="_blank" rel="external">http://msdn.microsoft.com</a></li>
+<li><a href="http://www.cnblogs.com" target="_blank" rel="external">http://www.cnblogs.com</a>(中文，强烈推荐)</li>
+<li><a href="http://www.codeplex.com" target="_blank" rel="external">http://www.codeplex.com</a>(源码，强烈推荐)</li>
+<li><a href="http://www.codeproject.com" target="_blank" rel="external">http://www.codeproject.com</a>(英文，强烈推荐)</li>
+<li><a href="http://code.msdn.microsoft.com" target="_blank" rel="external">http://code.msdn.microsoft.com</a>(推荐)</li>
+<li><a href="http://www.asp.net" target="_blank" rel="external">http://www.asp.net</a></li>
+<li><a href="http://www.gotdotnet.com" target="_blank" rel="external">http://www.gotdotnet.com</a></li>
+<li><a href="http://www.windowsforms.com" target="_blank" rel="external">http://www.windowsforms.com</a></li>
+<li><a href="http://www.c-sharpcorner.com" target="_blank" rel="external">http://www.c-sharpcorner.com</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      C#教程。
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://yoursite.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>电力市场运营系统</title>
     <link href="http://yoursite.com/2017/06/08/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F/"/>
     <id>http://yoursite.com/2017/06/08/电力市场运营系统/</id>
     <published>2017-06-08T12:11:47.000Z</published>
-    <updated>2017-06-08T12:49:17.827Z</updated>
+    <updated>2017-06-12T12:24:58.500Z</updated>
     
     <content type="html"><![CDATA[<h2 id="一、电力市场运营总体结构"><a href="#一、电力市场运营总体结构" class="headerlink" title="一、电力市场运营总体结构"></a>一、电力市场运营总体结构</h2><p>电力市场运营系统基本功能结构</p>
 <p><img src="http://wx1.sinaimg.cn/mw690/c2781ec1ly1fge2ztk067j20h90b3aav.jpg" alt="电力市场运营系统基本功能结构"></p>
-]]></content>
+<p>电力市场运营系统主要由9个子系统构成：</p>
+<ul>
+<li>(1) 电能量计量系统(Tele-Meter Reading, TMR)</li>
+<li>(2) 交易管理系统(Transaction Management System, TMS)</li>
+<li>(3) 能量管理系统(Energy Management System, EMS)</li>
+<li>(4) 结算系统(Settlement and Billing System, SBS)</li>
+<li>(5) 合同管理系统(Contract Management System, CMS)</li>
+<li>(6) 即时信息系统(Same-Time Information System, SIS)</li>
+<li>(7) 数据网络系统(State Power Data Network, SPDnet)</li>
+<li>(8) 报价处理系统(Bidding Processing System, BPS)</li>
+<li>(9) 发电报价系统(Generation Bidding System, GBS)</li>
+</ul>
+<h2 id="二、电能量计量系统"><a href="#二、电能量计量系统" class="headerlink" title="二、电能量计量系统"></a>二、电能量计量系统</h2><p>电能量计量系统是电力市场运营的基础。</p>
+<p>电能量计量系统的建设是随着电力商业化运营的开展、电厂出现多元化投资主体而开始的。电能量计量系统主要实现电厂上网及联络线关口点电能量的计量、分时段存储、采集和处理，为结算和分析提供基本数据。对计量与结算合一的系统（计费系统）还包括对各种费率模型的支持和结算软件。部分系统还包括了一些运行考核功能，如越线电量考核、频率考核以及网损计算等。</p>
+<h3 id="1-基本功能"><a href="#1-基本功能" class="headerlink" title="1 基本功能"></a>1 基本功能</h3><h4 id="分时电能计量"><a href="#分时电能计量" class="headerlink" title="分时电能计量"></a>分时电能计量</h4><p>电表具有电能测量、分时段累积、存储的功能。积分周期最短可以设为1min，一般设置为5~30min，与调度计划下发的周期或交易时段相对应。</p>
+<h4 id="数据采集"><a href="#数据采集" class="headerlink" title="数据采集"></a>数据采集</h4><p>数据采集周期根据需要可以设置为1h或者更短的时间（与实时电力市场运行中超短期负荷预测的计算周期相对应），采集的时间一般为2~5min。</p>
+<h4 id="数据处理"><a href="#数据处理" class="headerlink" title="数据处理"></a>数据处理</h4><p>原始数据管理。原始数据经采集后，存入数据库，不允许对其做直接修改，只进行派生。<br>原始数据管理包括原始数据的显示、报表值的匹配计算、原始数据的删除、替代值的产生、联机记录。</p>
+<h4 id="数据管理和信息服务"><a href="#数据管理和信息服务" class="headerlink" title="数据管理和信息服务"></a>数据管理和信息服务</h4><p>提供高效率、大数据量的数据存储和管理机制。<br>提供基于Web技术的电能信息管理应用服务。</p>
+<h4 id="电能量统计处理"><a href="#电能量统计处理" class="headerlink" title="电能量统计处理"></a>电能量统计处理</h4><ul>
+<li>各种辅助服务的电能量统计处理</li>
+<li>系统出力过剩时段提供负备用的机组提供的负备用电能量统计处理</li>
+<li>系统出力过剩时段发电的机组的电能量统计处理</li>
+<li>发生拥塞时参与拥塞调度的机组提供的拥塞电能量的统计处理</li>
+<li>系统提供网络服务时过网电量的统计处理</li>
+<li>电网事故、频率变化时段电能量处理</li>
+<li>违约超欠计划发、用电电能量统计处理</li>
+<li>发生旁路代路时的电能量统计出力</li>
+<li>电能量总加、网损计算</li>
+</ul>
+<h2 id="三、能量管理系统"><a href="#三、能量管理系统" class="headerlink" title="三、能量管理系统"></a>三、能量管理系统</h2><p>EMS应用软件功能是建立在数据采集和监控（SCADA）基础之上的功能集成，主要分为一下四部分：发电控制类、发电计划类、网络分析类和调度员培训模拟（DTS）。</p>
+<h3 id="1-基本功能-1"><a href="#1-基本功能-1" class="headerlink" title="1 基本功能"></a>1 基本功能</h3><p>发电控制类</p>
+<ul>
+<li>自动发电控制</li>
+<li>生产成本分析</li>
+<li>交换计划评估</li>
+<li>机组计划</li>
+</ul>
+<p>发电计划类</p>
+<ul>
+<li>负荷预测</li>
+<li>机组组合</li>
+<li>水电计划</li>
+<li>交换计划</li>
+<li>火电计划</li>
+</ul>
+<p>网络分析类</p>
+<ul>
+<li>状态估计</li>
+<li>调度员潮流</li>
+<li>静态安全分析</li>
+<li>安全约束调度</li>
+<li>最优潮流</li>
+<li>无功优化</li>
+<li>短路电流计算</li>
+<li>电压稳定性分析</li>
+<li>暂态安全分析</li>
+</ul>
+<p>调度员培训模拟</p>
+<h2 id="四、报价处理系统"><a href="#四、报价处理系统" class="headerlink" title="四、报价处理系统"></a>四、报价处理系统</h2><p>报价处理系统的主要任务是接收各发电商的报价，校核并确认其报价，形成相应的数据库存档，同时确认各发电公司的报价信息，并接收各发电公司的报价重申。</p>
+<p>报价处理系统的设计原则是提供发电公司一个强有力、可靠的交易环境；灵活的人机交互手段、可靠的数据备份；交易人员对交易过程全程监视，交易流程按时间表顺序自动进行；尽可能地减少用户键盘输入，避免误操作。</p>
+<h3 id="1-基本功能-2"><a href="#1-基本功能-2" class="headerlink" title="1 基本功能"></a>1 基本功能</h3><p>用户管理模块</p>
+<p>电厂报价模块</p>
+<h2 id="五、交易管理系统"><a href="#五、交易管理系统" class="headerlink" title="五、交易管理系统"></a>五、交易管理系统</h2><h2 id="六、合同管理系统"><a href="#六、合同管理系统" class="headerlink" title="六、合同管理系统"></a>六、合同管理系统</h2><h2 id="七、结算管理系统"><a href="#七、结算管理系统" class="headerlink" title="七、结算管理系统"></a>七、结算管理系统</h2><h2 id="八、即时信息发布系统"><a href="#八、即时信息发布系统" class="headerlink" title="八、即时信息发布系统"></a>八、即时信息发布系统</h2><h2 id="九、电力市场中的数据网络系统"><a href="#九、电力市场中的数据网络系统" class="headerlink" title="九、电力市场中的数据网络系统"></a>九、电力市场中的数据网络系统</h2><h2 id="十、发电报价及发电管理系统"><a href="#十、发电报价及发电管理系统" class="headerlink" title="十、发电报价及发电管理系统"></a>十、发电报价及发电管理系统</h2><h2 id="十一、模拟决策与分析系统"><a href="#十一、模拟决策与分析系统" class="headerlink" title="十一、模拟决策与分析系统"></a>十一、模拟决策与分析系统</h2><h2 id="十二、计算机硬件平台"><a href="#十二、计算机硬件平台" class="headerlink" title="十二、计算机硬件平台"></a>十二、计算机硬件平台</h2><h2 id="十三、通信协议和技术标准"><a href="#十三、通信协议和技术标准" class="headerlink" title="十三、通信协议和技术标准"></a>十三、通信协议和技术标准</h2>]]></content>
     
     <summary type="html">
     
@@ -48,7 +221,7 @@
     <link href="http://yoursite.com/2017/06/08/Markdown%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/08/Markdown教程/</id>
     <published>2017-06-08T07:22:54.000Z</published>
-    <updated>2017-06-08T11:47:01.679Z</updated>
+    <updated>2017-06-08T11:47:01.680Z</updated>
     
     <content type="html"><![CDATA[<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><ul>
 <li><a href="https://segmentfault.com/markdown" target="_blank" rel="external">Markdown 编辑器语法指南</a></li>
@@ -326,7 +499,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-06-08T08:36:38.955Z</updated>
+    <updated>2017-07-26T10:56:45.604Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
 <li>git config –global user.name “Your name”</li>
@@ -343,10 +516,17 @@
 <li>git reset –hard HEAD^ 回退到上一个版本<br>  git  reset –hard HEAD^^ 回退到上上一个版本<br>  git reset –hard HEAD~100 往上100个版本<br>  git reflog 记录每一次命令，包括commit id<br>  git reset –hard <commit id=""></commit></li>
 <li>git status 查看状态</li>
 <li>git diff HEAD – <file> 查看工作区和版本库里面最新版本的区别</file></li>
-<li>git checkout – <file> 让文件回到最近一次git commit或git add时的状态（撤销修改）</file></li>
+<li>git checkout – <file> 让文件回到最近一次git commit或git add时的状态（撤销修改）<ul>
+<li>git checkout – <file> 取消某个文件修改</file></li>
+<li>git checkout . 取消所有文件修改</li>
+</ul>
+</file></li>
 <li>rm <file> 删除文件<br>  git rm <file><br>  git commit -m “remove file”<br>  若发现删错了，git checkout – <file><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></file></file></file></li>
 <li>git checkout -b test 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  git branch test 创建分支<br>  git checkout test 切换分支<br>  git branch 查看当前分支</li>
-<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<br>  git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<ul>
+<li>git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+</ul>
+</li>
 <li>git branch -d test 删除test分支</li>
 <li>git log –graph 查看分支合并图<br>  当master分支和test分支各自都有新的提交时，Git无法快速合并，只能试图将各自的修改合并起来。</li>
 <li>git branch -a 查看远程分支<h3 id="Bug分支"><a href="#Bug分支" class="headerlink" title="Bug分支"></a>Bug分支</h3></li>
@@ -359,7 +539,10 @@
 <li>git push origin master 推送分支，git push origin dev推送dev分支</li>
 <li>master是主分支，要时刻与远程同步；dev是开发分支，团队所有成员都需要在上面工作，需要远程同步；bug分支只用于本地修复bug，无需推送到远程；feature分支是否推送到远程，取决于你是否和其他人合作在上面开发</li>
 <li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地。此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”</li>
-<li>git pull 把最新的提交从远程抓下来</li>
+<li>git pull 把最新的提交从远程抓下来  <ul>
+<li>相当于从远程获取最新版本，并merge到本地，更安全的做法是：<br>git fetch origin master<br>git log -p master..origin/master<br>git merge origin/master</li>
+</ul>
+</li>
 <li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
 <li>git tag v1.0 创建标签；默认标签是打在最新提交的commit上的</li>
 <li>git tag 查看所有标签</li>
@@ -373,6 +556,7 @@
 <li>git push origin :refs/tags/v0.9 删除远程标签，需先删除本地标签</li>
 </ul>
 <h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
+<li>touch .gitignore 添加.gitignore文件</li>
 <li>git check-ignore –v App.class 检查.gitignore的规则错误</li>
 <li>git config –global alias.st status 配置status的别名，此时git st等效于git status</li>
 <li>git config –global alias.unstage ‘reset HEAD’ 此时git unstage test.py相当于git reset HEAD test.py，即把暂存区的修改撤销掉（unstage）</li>
@@ -422,6 +606,19 @@
 <ul>
 <li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br>git submodule update –init –recursive<br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
 </ul>
+<h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><ul>
+<li><p>1 merge 冲突，git界面显示“# Please enter a commit message to explain why this merge is necessary”，按照下列步骤解决：</p>
+<ul>
+<li>Press i to enter insert mode.</li>
+<li>Now you can type your message, as if you were in a normal (non-modal) text editor.</li>
+<li>Press esc to go back to command mode.</li>
+<li>Then type :w followed by enter to save.</li>
+<li>Finally :q followed by enter to quit.</li>
+</ul>
+</li>
+<li><p>2 本地克隆远端非Master分支<br>  cd RepoPath<br>  git branch<br>  git checkout -b branchName origin/branchName</p>
+</li>
+</ul>
 ]]></content>
     
     <summary type="html">
@@ -446,7 +643,7 @@
     <link href="http://yoursite.com/2017/06/03/C-%E9%97%AE%E9%A2%98/"/>
     <id>http://yoursite.com/2017/06/03/C-问题/</id>
     <published>2017-06-03T10:44:06.000Z</published>
-    <updated>2017-06-08T07:42:25.752Z</updated>
+    <updated>2017-07-22T14:10:04.261Z</updated>
     
     <content type="html"><![CDATA[<h2 id="宏命令"><a href="#宏命令" class="headerlink" title="宏命令"></a>宏命令</h2><pre><code>• #if _MSC_VER &gt; 1000
 是指如果vc编译器的版本大于1000则这个语句被编译！
@@ -472,8 +669,15 @@
 参考连接：
 http://blog.csdn.net/luoweifu/article/details/45600415
 </code></pre><h2 id="pragma-region和-pragma-endregion关键字"><a href="#pragma-region和-pragma-endregion关键字" class="headerlink" title="#pragma region和#pragma endregion关键字"></a>#pragma region和#pragma endregion关键字</h2><pre><code>用于定义拓展和收缩的代码区域的开头和结尾。
-</code></pre><p>指定文件目录中正斜杠和反斜杠（“/”和“\”）的区别<br>    • “/“正斜杠，posix标准，linux中用于指定文件目录，“./”中“.”表示当前目录<br>    • “\”反斜杠，第一个“\”为转义字符，windows中用于指定文件目录，此外windows也支持“/”</p>
-<p>C/C++中extern关键字详解 - chao_yu - 博客园<br><a href="http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html" target="_blank" rel="external">http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html</a></p>
+</code></pre><p>指定文件目录中正斜杠和反斜杠（“/”和“\”）的区别<br>    • “/“正斜杠，posix标准，linux中用于指定文件目录，“./”中“.”表示当前目录<br>    • “\”反斜杠，第一个“\”为转义字符，windows中用于指定文件目录，此外 windows 也支持“/”</p>
+<p>C/C++ 中 extern 关键字详解 - chao_yu - 博客园<br><a href="http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html" target="_blank" rel="external">http://www.cnblogs.com/yc_sunniwell/archive/2010/07/14/1777431.html</a></p>
+<h1 id="C-Primer：C-基础"><a href="#C-Primer：C-基础" class="headerlink" title="C++ Primer：C++ 基础"></a>C++ Primer：C++ 基础</h1><p><a href="http://jennica.space/2017/01/13/cpp-primer-basic/" target="_blank" rel="external">http://jennica.space/2017/01/13/cpp-primer-basic/</a></p>
+<h2 id="1、开始学习-C"><a href="#1、开始学习-C" class="headerlink" title="1、开始学习 C++"></a>1、开始学习 C++</h2><ul>
+<li>文件重定向：将标准输入输出与文件关联，运行命令 prog1 &lt; infile &gt; outfile，prog1 是编译后所产生的可执行文件，上述命令会从一个名为 infile 的文件中读取输入数据，并将输出结果写入到一个名为 outfile 的文件中。</li>
+</ul>
+<h1 id="C-的一些规范"><a href="#C-的一些规范" class="headerlink" title="C++ 的一些规范"></a>C++ 的一些规范</h1><ul>
+<li>1、包含来自标准库的头文件时，用尖括号（&lt;&gt;）包含头文件名，对于不属于标准库的头文件，则用双引号（””）包围。</li>
+</ul>
 ]]></content>
     
     <summary type="html">
@@ -498,7 +702,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     <link href="http://yoursite.com/2017/06/01/%E6%B1%9F%E8%A5%BF%E7%94%B5%E5%8A%9B%E8%A7%82%E5%AF%9F/"/>
     <id>http://yoursite.com/2017/06/01/江西电力观察/</id>
     <published>2017-06-01T12:19:38.000Z</published>
-    <updated>2017-06-04T11:16:08.157Z</updated>
+    <updated>2017-07-11T13:25:51.570Z</updated>
     
     <content type="html"><![CDATA[<ul>
 <li><p>2017年5月19日，国家发改委批复了江西电网2017-2019年首个监管周期的输配电价。输配电价的核定厘清了电价成本，让市场参与者更好的明晰用电成本的构成，有助于电力市场交易的开展与推进。相关连接：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MTU0MTM0NA==&amp;mid=2247485697&amp;idx=1&amp;sn=0c13a1f4eaa56da17d8d3e62f2936ee7&amp;chksm=907b930ea70c1a1859844290fdc6cb75d900d9e16f9813908d5aeaf2d0f32735b9fb732025bd&amp;mpshare=1&amp;scene=1&amp;srcid=0601Gi2pOXBj17MoEyvLNASy#rd" target="_blank" rel="external">江西电网输配电价核定，降幅区间为4.4分，线损率高达7%！</a></p>
@@ -518,8 +722,6 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     
     
       <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="江西" scheme="http://yoursite.com/tags/%E6%B1%9F%E8%A5%BF/"/>
     
       <category term="电力系统" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
     
@@ -598,7 +800,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     <link href="http://yoursite.com/2017/05/30/%E8%BE%93%E9%85%8D%E7%94%B5%E4%BB%B7/"/>
     <id>http://yoursite.com/2017/05/30/输配电价/</id>
     <published>2017-05-30T07:30:49.000Z</published>
-    <updated>2017-06-03T12:13:12.357Z</updated>
+    <updated>2017-07-08T01:48:58.708Z</updated>
     
     <content type="html"><![CDATA[<p>电价体系图</p>
 <p><img src="http://i1.piimg.com/594442/aad10f9fc2873123.png" alt="Markdown"></p>
@@ -628,7 +830,16 @@ http://blog.csdn.net/luoweifu/article/details/45600415
 </ul>
 </li>
 </ul>
-<h2 id="四、输配电价的制定"><a href="#四、输配电价的制定" class="headerlink" title="四、输配电价的制定"></a>四、输配电价的制定</h2>]]></content>
+<h2 id="四、输配电价组成和核定方法"><a href="#四、输配电价组成和核定方法" class="headerlink" title="四、输配电价组成和核定方法"></a>四、输配电价组成和核定方法</h2><p>根据《省级电网输配电价定价办法（试行）》（发改价格〔2016〕2711号），我国目前的省级输配电价组成如下：</p>
+<p><img src="http://wx1.sinaimg.cn/mw690/c2781ec1ly1fhc8cgpvv2j20j407wmxo.jpg" alt="输配电价组成"></p>
+<p>在向输配电网使用者分摊输配电成本时，可采用邮票法、合同路径法、MW-距离法等多种方法。目前我国普遍采用的是邮票法，该方法来源于邮电系统的计费方式，其特点为：各项输配电业务，不管输配电距离的远近，不论输配电功率注入节点和流出的位置，只按输配电电能的多少计费。一般来说，在一个电压等级或一个配电网/供电区域，采取一种面值的邮票，即一个输配电价格。</p>
+<p>各省输配电价的基本特点为：</p>
+<ul>
+<li>各省的输配电价中都包含增值税，而包含交叉补贴、线损、政府性基金及附加的情况均不一致。</li>
+<li>核定输配电价的用户分类为“一般工商业及其他用电”“大工业用电”两类，根据不同的电压等级核算。总体来说，大工业用电的输配电价更低，而且电压等级越高，输配电价越低（因为线路损耗更小）。</li>
+<li>一般来说，我国对大工业用户实行两部制电价，即电度电价+基本电价。电度电价是实际耗电度数计算的电价，而基本电价是即使不用电也要缴纳的电费，按最大需量或者变压器容量每月收取。对于客户而言，可根据自己的用电情况确定付费方式，以达到节省电费的效果。比较特殊的是，河北省一般工商业及其他用电有单一制和两部制两种收费方式。</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
@@ -843,7 +1054,7 @@ http://blog.csdn.net/luoweifu/article/details/45600415
     <link href="http://yoursite.com/2017/05/15/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A05%E5%A4%A9%E6%9A%96%E4%BB%B7%E6%94%B6%E7%AA%84/"/>
     <id>http://yoursite.com/2017/05/15/说粤全传5天暖价收窄/</id>
     <published>2017-05-15T09:10:04.000Z</published>
-    <updated>2017-06-03T12:14:12.254Z</updated>
+    <updated>2017-06-03T12:14:12.255Z</updated>
     
     <content type="html"><![CDATA[<p>转自：<a href="https://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927681&amp;idx=1&amp;sn=8d23c68cb79b103bb93c3850f9dd1905&amp;chksm=8b9acbf7bced42e1f4298aa1ee6d6a6641cd3c870c3bb06e0d69ea33a77daff368f0853041db&amp;scene=0#rd" target="_blank" rel="external">小李电刀</a></p>
 <p>本月是政府和监管机构干预后的第二次月度竞价。2017年4月20日，广东电力交易中心发布了《广东电力交易中心关于开展5月份集中竞价交易的通知》（以下简称“通知”）。主要内容如下：5月份市场总需求电量为95.79 亿千瓦时，其中双边协商电量70.97亿千瓦时，集中竞争电量需求为24.82 亿千瓦时。本月的月度集中竞争交易供需比1.5（与上月供需比相同），集中竞争电量总上限为37.11 亿千瓦时。结合5月全省购电量需求预测、非市场化用户需求变化以及A类机组月度基数电量计划情况，电力调度机构对B类机组5 月份基数电量计划进行等比例调整，调整系数为0.96。</p>
@@ -869,170 +1080,6 @@ http://blog.csdn.net/luoweifu/article/details/45600415
 <p>顶峰电量的数量和结算电价是本轮成交电价主因！！！</p>
 <p><img src="http://i1.piimg.com/594442/25e60f07c230338b.jpg" alt="图6"></p>
 <p>电刀小组再次仔细学习广东规则，未见关于必须开电量的单独结算规则，仅将该部分电量按照“地板价”计入供应序列，电刀理解应当按照市场出清价结算。那么总结本轮交易，电刀小组发现继上月干预市场后，本次又以技术流方式缩减供需比，遗憾的是两次调整在规则中以及已经公开的文件中未见相关内容，建议广东有关部门和监管机构在下个月竞价前完善规则。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      聚焦广东电力市场。
-    
-    </summary>
-    
-      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-    
-      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>说粤全传4——求疵粤新规</title>
-    <link href="http://yoursite.com/2017/05/13/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A04%E6%B1%82%E7%96%B5%E7%B2%A4%E6%96%B0%E8%A7%84/"/>
-    <id>http://yoursite.com/2017/05/13/说粤全传4求疵粤新规/</id>
-    <published>2017-05-13T01:20:32.000Z</published>
-    <updated>2017-06-03T12:17:34.902Z</updated>
-    
-    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927638&amp;idx=1&amp;sn=5bb4c4c2ef7063f76a39d59317b3f409&amp;chksm=8b9acba0bced42b68921b1e51551d3a03a08267b8698afe0e8b9686401f5dcd53f4c7ff53630&amp;mpshare=1&amp;scene=1&amp;srcid=0516rH4369V3zrro9XmgrXpe#rd" target="_blank" rel="external">小李电刀</a></p>
-<p>上回书说到广东电力市场化交易第二版新规则三次竞价，竞价结果受干预影响，超越电刀小组以往的分析方法较多，广东市场受首次干预的影响较大，主体反应强烈，供需对成交的影响小于行政手段。</p>
-<p>书接上回。电刀小组前一段的精力主要针对江湖中各方关注的竞价进行分析。作为电力市场机制的关注和研究人员，实质上对于广东新规则来说需要关注的“重点”还远远不止于此。作为“大用户直接交易”传承的各省市场化交易或多或少，规则编制者都更重视市场准入、交易方式（双边 or 竞价）和出清（配对 or 边际），从以上内容在各地规则中的篇幅就能看的出来。其实规则当中还有很多东西要关注，尤其是电力市场的学者和研究人员更应该剥开市场化交易“浮华的外衣”，探究其内在的经济学原理。本回书，电刀小组这几个“小妖”在没有“大王”安排的情况下来“巡山”，对广东新规的内容和做法个别“疵”吹起“毛”来看一看，“班门弄斧”以期抛砖引玉，愿引起业界关注，帮助广东走的“更好、更快、更远”。</p>
-<a id="more"></a>
-<p>吹毛求疵之一：基数电量是个什么鬼？</p>
-<p>广东新规第七章整章阐述了年度基数电量和月度基数电量的编制。从电力系统的运行习惯来看，以及《电力中长期交易基本规则（暂行）》（以下简称《基本规则》）和广东新规通篇的描述来看，目前所有签订的合同均为实物合同，广东新规的第四十二条也明确“发电企业、电网企业据此签订厂网间年度购售电合同”，该条规定与《基本规则》第三条第二款“优先发电电量和基数电量现阶段视为厂网双边交易电量，签订厂网间购售电合同，纳入电力中长期交易范畴”紧密切合。从理论上说，“交割方式决定合同性质”，实物合同应当以实际完成交割为基本义务，而由于电力商品要求实时平衡的特殊性，就要求发用电双方在实物合同中约定并执行一个带有时序的发用电力曲线。然并卵，当读到广东新规第一百零七条发现所谓月度基数实际上是由总上网电量扣除参与市场用户实际月用电量和西电送电量得出的。也就是说，广东发电企业基数合同中数据是在合同执行后，通过计算得出，而非事前确定的实物合同。由此引发疑问：其一，事前合同的月度数据有什么作用（执行完还可能改）？其二，事后确认电量数据的合同还算不算实物合同？其三，这样做相对《基本规则》，实质上免除了电网因预测不准可能受到的偏差考核，是否权责对等（抑或是种妥协）？</p>
-<p>吹毛求疵之二：调整系数应当如何变化、为何变化？</p>
-<p>广东新规引入了一个竞争系数k0，并在第七十条（二）中明确“当电量市场份额”不满足集中竞争交易有效开展的要求是，则调增k0，相应增加各发电企业月度竞争竞争申报的电量上限，直至满足防范发电侧市场力的要求”。能够明显看出，k0的设计是针对广东市场主体中，有些发电企业装机占比超过三分之一的现实条件，当扩大市场范围和拆分发电企业等常用措施不易执行的情况下，引入竞争系数是个控制市场力的创新。从第七十条内容可以看出，竞争系数调增的前置条件是发电侧市场力影响发现价格，规则中调减的条件（未提出可以调减），并且未给出初次置k0值的原则。那么疑问来了：其一，二月、三月竞价的k0如何给的初值，给出的1.25是否满足控制发电侧市场力的要求？其二，从竞价结果来看，1.25显然满足了控制市场力的需求，那么依据什么调低了竞争系数（4月份1.08）呢？规则当中没有的内容，是否应当遵从“无规不可为”的原则？虽然这一条广大市场主体并未关注，但是从“程序正义”的角度，此条实际上影响着我们的电力交易能否真的市场化（以规则优先），或者说广东有无管住那只“喜欢乱动的手”，而这一直是“广东模式”被业界推崇的原因之一。</p>
-<p>吹毛求疵之三：双轨制下“计划轨对市场轨”的影响？</p>
-<p>广东4月总需求435亿千瓦时，同比增长6.1%，其中市场交易电量87亿，含长协67亿，月度竞价20亿。广东新规将西南富余水电纳入了交易主体范畴，对于西电作为交易的边界也进行了描述，但是缺乏对于西电东送协议以及增送电量执行的具体描述，也就是市场中出现了严重不确定的边界条件（西电占广东用电量的三分之一强）。据电刀小组对贵州煤价和产量的分析，4月份贵州送出能力将有一个大幅的削减，另据对云南来水的公开数据，云南4月没有额外能力补足贵州造成的西电缺口。那么疑问来了：其一，对于总在变化的边界条件，造成变化的主体未承担相应责任，对于承担偏差考核（或结算）的主体是否公平？其二，对于边界条件的变化，是否对广东省内交易价格产生影响？如果产生影响，对于不同平台的两种模式之间是否产生了主体套利风险，即广东月度市场发电企业抬价，即使不中标，反而多出来的发电能力能够用于填补电少送（标杆价）的空间？</p>
-<p>综上，电刀小组认为，市场设计者不但需要“工匠精神”（精益求精并做好一个“包工头”），还应当具有全局意识（至少往前多看一步的“设计师”）。规则起草不但要满足眼前的闭环，还要考虑基本理论和程序争议。总之一句话：市场设计不能说自己不信的话；利益有博弈妥协，技术总有真实答案。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      聚焦广东电力市场。
-    
-    </summary>
-    
-      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-    
-      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>说粤全传3——市场首遭干预</title>
-    <link href="http://yoursite.com/2017/05/12/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A03%E5%B8%82%E5%9C%BA%E9%A6%96%E9%81%AD%E5%B9%B2%E9%A2%84/"/>
-    <id>http://yoursite.com/2017/05/12/说粤全传3市场首遭干预/</id>
-    <published>2017-05-12T06:45:52.000Z</published>
-    <updated>2017-06-03T12:17:36.478Z</updated>
-    
-    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927572&amp;idx=1&amp;sn=ca1e2f5ac38f58be37444683e6916b4e&amp;chksm=8b9ac862bced4174cb1d3a24a02e74d94d3679b28c53b9568208d5245c39323b6639e62f6b5e&amp;mpshare=1&amp;scene=1&amp;srcid=0516nUjqDcx3yD4xsActESns#rd" target="_blank" rel="external">小李电刀</a></p>
-<p>上回书说到广东电力市场化交易第二版新规则二次竞价，延续了电刀小组粗略方法分析得到的路径，成交价在快速向发电企业的燃料成本靠近，甚至部分中标电厂已经略低于燃料成本，探底加速。按照预想，用户会越来越发现最终的成交结果基本上就是“发电企业单边报价”的结果。</p>
-<p>书接上回。虽然，月度竞价占全年市场电量1—2%，但是如此低的电价还是引起了各方的重视，政府和监管机构首次干预。2017年3月24日，广东电力交易中心发布了《广东电力交易中心关于开展4月份集中竞价交易的通知》（以下简称“通知”）。4月广东市场总需求电量为86.95亿千瓦时，其中年度长协分解电量66.68亿千瓦时，占比为76.69%，购买电量的需求为20.27亿千瓦时；根据供需比计算的集中竞争电量供应能力总上限为30.33亿千瓦时。实质上，就是控制长协签订比例较高的电厂参与月度竞争，缩小供需比，希冀通过这种方式稳定月度成交价格。市场首遭干预这只“黑天鹅”，各方都很关注，到底“有形的手”与类似“上帝之手”掰手腕的结果如何？电刀认为以往前两回的供需决定价格理论仍然有效，只是本次要考虑干预，采用“供需决定价格+干预对市场主体心理影响修正系数”方式预计成交价。干预对市场主体心理影响系数的大小取决于市场主体判断政府和监管机构干预电价决心大小，是一个非线性数据。本次交易部分基础数据如下图所示：</p>
-<a id="more"></a>
-<p><img src="http://i1.piimg.com/594442/248c00509652bdbc.jpg" alt="Markdown"></p>
-<p>通知还对2、3月份实行的竞价规则进行了修订，4月份的交易规则主要变化有以下几点：</p>
-<p>（1）直接设定供需比为1.5，较之前2月份约为2.24和3月份约为2的供需比有所下降；</p>
-<p>（2）调高了最低申报价差，由之前的-500厘/千瓦时调高至-450厘/千瓦时，意在提醒发电不要杀到底，本措施除了让报价不是很难看，电刀不知道有啥具体作用；</p>
-<p>（3）调高了用户侧单段申报电量下限值，并对出清规则做了调整。用户侧单段申报电量下限值为400万千瓦时，总申报电量低于下限值的只能按一段申报；用户侧申报电量低于400万千瓦时的，该段电量申报价格不作为统一出清价差计算依据，只是400万千瓦的偏差考核并不能让售电公司大幅降低冒险的热情（利益还是大于风险），只是干预手段首次作用效力最大，增加市场变数。</p>
-<p>2017年3月28日，广东市场再次组织本年度第三次月度集中竞价，“黑天鹅”落地，最后结果如下：</p>
-<p><img src="http://i1.piimg.com/594442/7163a315466e9c88.jpg" alt="Markdown"></p>
-<p>成交概况：</p>
-<p>总成交电量初步为 202656,9 万千瓦时。 供应方边际成交申报价差 -120.0厘/千瓦时， 需求方边际成交申报价差-83.0厘/千瓦时， 统一出清价差为-101.50厘/千瓦时</p>
-<p>针对本轮竞价，电刀小组预计成交价为13分左右，相对10.1的成交价偏离价比例较高，主要是没有预料发电企业步调如此一致，售电胆怯程度如此之大。分析过程如下：</p>
-<p>（1） 广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比1.25（1.25:1，下同）。长协共签订837亿，长协中采购电厂价下降7分占比很大。</p>
-<p>（2） 广东4月份供需比为1.5，但是仍大于现货的可能供需比1.4（推算过程详见《说粤全传》第一回新规首竞价）。</p>
-<p>（3） 分析发电企业报价心态，延续上月以价换量的稳妥策略。据传部分集团公司对报价的底线有一定要求，同时发电企业最近受煤价影响“同仇敌忾”可能产生“抱团效应”，这也是变数之一。</p>
-<p><img src="http://i1.piimg.com/594442/85953811be70999d.jpg" alt="Markdown"></p>
-<p>依据上表数据，并考虑广东火电入炉燃煤热值普遍在4200-4500之间，按照发电厂平均煤耗为290g/kWh估计发电厂的燃料成本为0.26元，再根据广东火电厂0.45元的标杆电价计算得出发电厂的降价空间为0.19元即19分左右。虽然供需比变为1.5，但仍然大于现货的可能供需比（1.4），长协签约比例少的发电企业仍然倾向于按发电燃料成本报价，实行以价换量的策略，但是考虑前述变数有可能倾向于共同维持发电侧利益，修正价格恐怕在3分左右。</p>
-<p>(4) 分析售电公司（用户）报价心态:2月成交为-14.55分，3月成交为-18.9分，这意味着这两个价位均在发电厂的接受范围内，本月供需比有所下降，发电企业报价有可能有小幅上升。另一方面，考虑到前文所述的“用户侧单段申报电量下限值为400万千瓦时，总申报电量低于下限值的只能按一段申报；用户侧申报电量低于400万千瓦时的，该段电量申报价格不作为统一出清价差计算依据”，售电公司因为偏差考核的顾虑，特别是首次受到干预没有经验（无参照物），很可能采用保守策略退回长协降价的7分。</p>
-<p>(5)（售电报价+发电报价）/2=13分（降低）</p>
-<p>综上可以看出本轮竞价结果受干预影响，超越电刀小组以往的分析方法较多，应该讲广东市场受首次干预的影响较大，主体反应强烈，本轮供需对成交的影响小于行政手段，是大家心里共识，从售电报价仍然达到8.30就看出售电企业判断市场仍然是过剩的，实际价格应当更低。预计后市供需比继续不低于本月，本轮干预的作用会产生递减效应，成交价仍将继续接近发电企业的燃料成本，即市场化如果是真的市场化方向，供需仍然会决定价格，干预之手远不是上帝之手的对手，当然如果上帝之手打不过干预之手，那么市场化恐怕只能“洗洗睡了”。</p>
-<p>此外，对于市场交易应当通盘考虑，年度长协与月度竞价属于同一周期一体化的交易，对于月度供需比的预判断实际上也影响了年度长协的价格，临时干预（交易周期内调整边界条件）这种黑天鹅实在是市场主体不能接受的“不可抗力”。电刀认为，对于同一周期内相互影响、不能解耦的交易，不应改变边界条件</p>
-]]></content>
-    
-    <summary type="html">
-    
-      聚焦广东电力市场。
-    
-    </summary>
-    
-      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-    
-      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>说粤全传2——市场规矩在途</title>
-    <link href="http://yoursite.com/2017/05/11/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A02%E5%B8%82%E5%9C%BA%E8%A7%84%E7%9F%A9%E5%9C%A8%E9%80%94/"/>
-    <id>http://yoursite.com/2017/05/11/说粤全传2市场规矩在途/</id>
-    <published>2017-05-11T02:31:05.000Z</published>
-    <updated>2017-06-03T12:13:58.641Z</updated>
-    
-    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927496&amp;idx=1&amp;sn=b3c76acb62646c51c4c0c7cad529e8bc&amp;chksm=8b9ac83ebced41281f868ba0040eb363a06c455f6f0b2b50024af8f0d75c85a153f3f6752fbb&amp;mpshare=1&amp;scene=1&amp;srcid=0516x16RrBeUywvVkXXDRiRy#rd" target="_blank" rel="external">小李电刀</a></p>
-<p>上回书说到广东电力市场化交易第二版新规则首次竞价，引无数英雄豪杰竞折腰。电刀小组按照“成交长协数据基础上，只看供需决定价格，不考虑其他”的办法，分析了上月成交价的合理性，并且预测“3月售电公司很可能以14分为合理降价起点，则3月竞价结果可能达到降低18-20分”（见《说粤全传》第一回 新规首竞价）。</p>
-<p>书接上回，2017年2月22日这个清一色都是双数的日子里，广东电力直接交易进行了本年度3月电量的集中竞价交易。3月广东市场总需求电量为82.39亿千瓦时，其中年度长协分解电量60.73亿千瓦时，购买电量的需求为21.66亿千瓦时；发电企业扣除长协分解电量，集中竞争电量供应能力总上限为43.22亿千瓦时，最终成交价-189.45厘/千瓦时，电刀小组也惊讶于市场的毫不客气，尽管这个结果总体在意料之中。</p>
-<a id="more"></a>
-<p><img src="http://i1.piimg.com/594442/bc901fe3030edc82.jpg" alt="Markdown"></p>
-<p>重现电刀小组上月的分析过程：</p>
-<p>1、广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比1.25（1.25:1，下同）。长协共签订837亿，长协中采购电厂价下降7分占比很大。</p>
-<p>2、广东扣除长协电量后，3月剩余电量供需比2左右。大于年度供需比1.25，小于2月供需比2.24，但是仍大于现货的可能供需比1.4（推算过程详见《说粤全传》第一回 新规首竞价）</p>
-<p>3、分析售电公司（用户）报价心态，上月成交价-14分多，也就意味着这个价位是可以成交的，倾向以此为“心理价格”[1] 。不能报的过低：本月供需比有所下降，发电企业心态有可能企稳，发电报价有可能有小幅上升。客观条件是供需比仍然大于现货的可能供需比（1.4），概念里现货似乎发电企业更倾向成本报价，因此用户稳妥起见会考虑以降14分左右入场。</p>
-<p>4、分析发电企业报价心态，必须报的更低。上个月，的价格已经证明发电兄弟们普遍认为过剩的很厉害必须砸盘子-以价换量，考虑到可以通过得到一部分电量提高机组整体负荷率，从而降低长协电量的生产成本，以求得总体盈亏平衡，发电企业甚至可能以低于燃料单价的方式报价。因此，发电企业会以“标杆电价-变动成本（燃料）”=23分（降低）的方式报价。煤价按照近期公开数据，并考虑广东外来煤比例修正进行测算。</p>
-<p><img src="http://i1.piimg.com/594442/a6b883c0002224fe.png" alt="Markdown"></p>
-<p>5、（售电报价+发电报价）/2=18.5分（降低）<br>综上可以看出本轮竞价延续了电刀小组粗略方法分析得到的路径，成交价在快速向发电企业的燃料成本靠近，甚至部分中标电厂已经略低于燃料成本，探底加速，用户会越来越发现最终的成交结果基本上就是“发电企业单边报价”的结果。</p>
-<p>展望后市，电刀小组认为只要月度供需比仍然大于现货市场可能供需比的前提下，发电企业很难摆脱在燃料成本附近报价的处境，随着燃料价格缓慢降低、西部来水增加，可能报价会进一步降低，只是降低幅度不会如此“大步流星”。总体来讲，电刀小组认为广东目前的规则在国内总体上不错，不存在大的技术错误，执行相对公平，仍是其他交易可模仿的榜样。对于发电兄弟的满心委屈，电刀小组认为短期交易就是看供需形势，市场的规矩就在哪里，爱与不爱您都得忍着。对于发电兄弟的老板，电刀小组建议发电项目的盈利与否应当看整个寿命周期，而非供需宽松的一小段日子，当然这样的日子挺难熬，看着很揪心。</p>
-<p>近期，电刀小组烧脑分析的过程中，南方的一位道兄用更精细化的分析方式得出了比电刀小组更为准确的结果，趋势比电刀小组预测的更为理直气壮，可谓“南法如瓷器，北法似粗坯，烧制过后，效果雷同”。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      聚焦广东电力市场。
-    
-    </summary>
-    
-      <category term="电力系统" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/"/>
-    
-      <category term="电力市场" scheme="http://yoursite.com/categories/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-    
-      <category term="电力市场" scheme="http://yoursite.com/tags/%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA/"/>
-    
-      <category term="售电" scheme="http://yoursite.com/tags/%E5%94%AE%E7%94%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>说粤全传1——新规首竞价</title>
-    <link href="http://yoursite.com/2017/05/10/%E8%AF%B4%E7%B2%A4%E5%85%A8%E4%BC%A01%E6%96%B0%E8%A7%84%E9%A6%96%E7%AB%9E%E4%BB%B7/"/>
-    <id>http://yoursite.com/2017/05/10/说粤全传1新规首竞价/</id>
-    <published>2017-05-10T10:18:10.000Z</published>
-    <updated>2017-06-03T12:17:38.757Z</updated>
-    
-    <content type="html"><![CDATA[<p>转自：<a href="http://mp.weixin.qq.com/s?__biz=MzA5MjI3OTAwMQ==&amp;mid=2650927484&amp;idx=1&amp;sn=5ad79ca6fd038f46853d2bba32ce03d5&amp;chksm=8b9ac8cabced41dc45ab64f333179a77942aec3a9c5af2694e6f3ddf5d9f3c3125aaaae137a6&amp;mpshare=1&amp;scene=1&amp;srcid=0516J9RI2JM1ov3sOw36JMnk#rd" target="_blank" rel="external">小李电刀</a></p>
-<p>话说广东电力市场化交易第二版新规则首次竞价，引无数英雄豪杰竞折腰。一时间，各路神仙大咖指点江山，激扬文字。电刀作为吃瓜群众也有来自基层旁观的声音要发，以《说粤全传》为名，讲讲吃瓜群众对广东电力市场化交易的理解，以飧列位看官。</p>
-<p>广东省2017年2月份集中交易总成交电量为12.99亿千瓦时。统一出清价差为-145.5厘/千瓦时，其中：供应方边际成交申报价差-216厘/千瓦时,需求方边际成交申报价差-75厘/千瓦时。竞价结果出来之前，很多专家并未想到电价会下降如此之多，结果出来以后各种声音都有，有甚者认为边际出清的规则设计不合理。电刀吃瓜之余窃喜，以某事前掌握的各种粗浅公开数据，预测成交价在降低15分左右，竟然距离成交价仅偏离4厘5，准确率97%，电刀所用的笨办法就是在“成交长协数据基础上，只看供需决定价格，不考虑其他”，看来笨办法分析至少本次还挺准。</p>
-<p>电刀分析过程：</p>
-<p>1、广东市场化交易2017年总体需方能够成交1000亿千瓦时左右，供方允许提供的能力是1250亿千瓦时，年度供需比为1.25（1.25:1）。长协共签订837亿，长协中采购电厂价下降7分占比很大。扣除长协电量后，剩余电量供需比2.5左右，应该讲月度的供需比注定要大于年度的供需比-月度的价格很难与年度长协价格接近（煤价不要暴涨62%）。</p>
-<p>2、广东2月份集中竞价电量交易供需比2.24，大于年度供需比1.25，小于剩余月度电量总供需比2.5.</p>
-<p>3、分析售电公司（用户）报价心态，不能报的过低，否则容易买不到电（几率很小），在全电量模式下月度这个最短交易周期买不到电，就意味着这部分没买到的电转化为偏差考核；也不会报低于7分，因为供需比1.25的情况下，发电尚且要让7分，供需比上升至2.24，发电只会让的更多，因此用户稳妥起见会考虑以降7分为基准入场。</p>
-<p>4、分析发电企业报价心态，必须报的很低。2月份以往年经验看，本次竞价12.99亿千瓦时，占通常广东本地上网电量比例不足5%，是个“不太劲道的丸子”，配合供需比，以成本价拿到电量，拉高本月的负荷率，获得降低计划合同和长协分月电量的单位成本是个好选择。因此，发电企业会以“标杆电价-变动成本”=23分（降低）的方式报价。</p>
-<p>5、（售电报价+发电报价）/2=15分（降低）<br>综上可以看出本次成交15分是比较合理的结果。按照如上的分析方式，边界条件不变或大致相同情况下，如果3月份的供需比不低于本次供需比，煤价相较2月没有大幅增长，那么3月售电公司很可能以14分为合理降价起点，则3月竞价结果可能达到降低18-20分，以后各月类推，直至达到广东火电机组的燃煤成本。据估计，今年某些月份供需比可能超过3，当月应该是年内竞争最激烈的月份。</p>
-<p>从用户角度来说，如果所有月度竞价购方“只报量不报价”，事实上的“单边市场报价”对用户来说在保证电量全中前提下，是最好的选择，因为发电企业基本一步就能报到“变动成本电价”。电刀小组突然发现，被很多市场主体感觉“闻风色变”的“剧烈波动的现货交易”，反而供需比是1.33。毕竟调度机构受经济开机的要求，火电机组基本可以维持负荷率70%，那么日内供需比基本维持在1.33（1/0.7），这是因为“只有启动的机组才能进入供应的队列”。</p>
-<p>另外电刀小组分析，广东目前在交易过程中的数据公布个别做法欠妥，未报价的市场主体竟然能看到已报价报量的市场主体数据，对后报价的市场主体心理影响很大。</p>
-<p><img src="http://i1.piimg.com/594442/e5236fe63fbf31d1.jpg" alt="Markdown"></p>
 ]]></content>
     
     <summary type="html">
