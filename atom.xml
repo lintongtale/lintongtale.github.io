@@ -499,7 +499,7 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-07-27T03:06:17.877Z</updated>
+    <updated>2017-07-27T03:12:54.445Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Git安装"><a href="#Git安装" class="headerlink" title="Git安装"></a>Git安装</h2><ul>
 <li><code> git config –global user.name “Your name” </code></li>
@@ -511,7 +511,8 @@
 <li><code> git push -u origin master </code> 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  <code> git push origin master </code></li>
 <li><code> git clone git@github.com:lintongtale/test.git </code> 从远程克隆一个本地库<br>  <code> ls </code> 列出所有文件</li>
 </ul>
-<h2 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2><ul>
+<h2 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h2><p><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></p>
+<ul>
 <li><code> mkdir \file.txt </code> 创建一个空目录<br>  <code> cd \file.txt </code><br>  <code> pwd </code></li>
 <li><code> git init </code> 把当前目录变成Git可以管理的仓库</li>
 <li><code> git add file.txt </code> 添加到暂存区<br>  <code> git add . </code> 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  <code> git add -u </code> 更新已经被add的文件，不提交新文件（untracked file）<br>  <code> git add -A </code> 上面两个功能的合集</li>
