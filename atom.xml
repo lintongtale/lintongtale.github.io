@@ -278,9 +278,9 @@
       <category term="hexo" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/hexo/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
       <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
@@ -499,61 +499,61 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-07-26T11:55:40.806Z</updated>
+    <updated>2017-07-27T02:51:45.279Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
-<li>git config –global user.name “Your name”</li>
-<li>git config –global user.email “Your email”<br>  注意git config命令的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址<h2 id="2、远程仓库"><a href="#2、远程仓库" class="headerlink" title="2、远程仓库"></a>2、远程仓库</h2></li>
-<li>ssh-keygen -t rsa -C “youremail@example.com”<br>  在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥</li>
-<li>git remote add origin git@github.com:lintongtale/test.git 将本地仓库与远程仓库关联</li>
-<li>git push -u origin master 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  git push origin master</li>
-<li>git clone git@github.com:lintongtale/test.git 从远程克隆一个本地库<br>  ls 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2></li>
-<li>mkdir \<file> 创建一个空目录<br>  cd \<file><br>  pwd </file></file></li>
-<li>git init 把当前目录变成Git可以管理的仓库</li>
-<li>git add \<file> 添加到暂存区<br>  git add . 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  git add -u 更新已经被add的文件，不提交新文件（untracked file）<br>  git add -A 上面两个功能的合集</file></li>
-<li>git commit -m “说明”</li>
-<li>git log 显示从最近的提交日志git log –pretty=oneline<br>  pretty 按指定格式显示日志信息,可选项有：oneline,short,medium,full,fuller,email,raw以及format</li>
-<li>git reset –hard HEAD^ 回退到上一个版本<br>  git  reset –hard HEAD^^ 回退到上上一个版本<br>  git reset –hard HEAD~100 往上100个版本<br>  git reflog 记录每一次命令，包括commit id<br>  git reset –hard \<commit id=""></commit></li>
-<li>git status 查看状态</li>
-<li>git diff HEAD – \<file> 查看工作区和版本库里面最新版本的区别</file></li>
-<li>git checkout – \<file> 让文件回到最近一次git commit或git add时的状态（撤销修改）<ul>
-<li>git checkout – <file> 取消某个文件修改</file></li>
-<li>git checkout . 取消所有文件修改</li>
-</ul>
-</file></li>
-<li>rm \<file> 删除文件<br>  git rm \<file><br>  git commit -m “remove file”<br>  若发现删错了，git checkout – \<file><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></file></file></file></li>
-<li>git checkout -b test 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  git branch test 创建分支<br>  git checkout test 切换分支<br>  git branch 查看当前分支</li>
-<li>git merge test 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<ul>
-<li>git merge –no-ff -m “merge with no-ff” 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+<li><code> git config –global user.name “Your name” </code></li>
+<li><code> git config –global user.email “Your email” </code><br>  注意git config命令的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址<h2 id="2、远程仓库"><a href="#2、远程仓库" class="headerlink" title="2、远程仓库"></a>2、远程仓库</h2></li>
+<li><code> ssh-keygen -t rsa -C “youremail@example.com” </code><br>  在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥</li>
+<li><code> git remote add origin git@github.com:lintongtale/test.git </code> 将本地仓库与远程仓库关联</li>
+<li><code> git push -u origin master </code> 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  <code> git push origin master </code></li>
+<li><code> git clone git@github.com:lintongtale/test.git </code> 从远程克隆一个本地库<br>  <code> ls </code> 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2></li>
+<li><code> mkdir \file.txt </code> 创建一个空目录<br>  <code> cd \file.txt </code><br>  <code> pwd </code></li>
+<li><code> git init </code> 把当前目录变成Git可以管理的仓库</li>
+<li><code> git add file.txt </code> 添加到暂存区<br>  <code> git add . </code> 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  <code> git add -u </code> 更新已经被add的文件，不提交新文件（untracked file）<br>  <code> git add -A </code> 上面两个功能的合集</li>
+<li><code> git commit -m </code> “说明”</li>
+<li><code> git log </code> 显示从最近的提交日志<code>git log –pretty=oneline<br>  pretty </code> 按指定格式显示日志信息,可选项有：oneline,short,medium,full,fuller,email,raw以及format</li>
+<li><code> git reset –hard HEAD^ </code> 回退到上一个版本<br>  <code> git  reset –hard HEAD^^ </code> 回退到上上一个版本<br>  <code> git reset –hard HEAD~100 </code> 往上100个版本<br>  <code> git reflog </code> 记录每一次命令，包括commit id<br>  <code> git reset –hard <commit id=""> </commit></code></li>
+<li><code> git status </code> 查看状态</li>
+<li><code> git diff HEAD – file.txt </code> 查看工作区和版本库里面最新版本的区别</li>
+<li><code> git checkout – file.txt </code> 让文件回到最近一次git commit或git add时的状态（撤销修改）<ul>
+<li><code> git checkout – file.txt </code> 取消某个文件修改</li>
+<li><code> git checkout . </code> 取消所有文件修改</li>
 </ul>
 </li>
-<li>git branch -d test 删除test分支</li>
-<li>git log –graph 查看分支合并图<br>  当master分支和test分支各自都有新的提交时，Git无法快速合并，只能试图将各自的修改合并起来。</li>
-<li>git branch -a 查看远程分支<h3 id="Bug分支"><a href="#Bug分支" class="headerlink" title="Bug分支"></a>Bug分支</h3></li>
+<li><code> rm file.txt </code> 删除文件<br>  <code> git rm file.txt </code><br>  <code> git commit -m “remove file” </code><br>  若发现删错了，<code> git checkout – file.txt </code><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></li>
+<li><code> git checkout -b test </code> 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  <code> git branch test </code> 创建分支<br>  <code> git checkout test </code> 切换分支<br>  <code> git branch </code> 查看当前分支</li>
+<li><code> git merge test </code> 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<ul>
+<li><code> git merge –no-ff -m “merge with no-ff” </code> 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
+</ul>
+</li>
+<li><code> git branch -d test </code> 删除test分支</li>
+<li><code> git log –graph </code> 查看分支合并图<br>  当master分支和test分支各自都有新的提交时，Git无法快速合并，只能试图将各自的修改合并起来。</li>
+<li><code> git branch -a </code> 查看远程分支<h3 id="Bug分支"><a href="#Bug分支" class="headerlink" title="Bug分支"></a>Bug分支</h3></li>
 <li>当你在dev分支上进行的工作还没有提交，而此时有一个代号为101的bug任务，需要另外临时创建一个issue-101来修复它<br>  git stash 把当前工作现场“储藏”起来，等以后恢复现场后继续工作，此时git status工作区是干净的<br>  假设需要在master分支上修复bug，创建临时分支issue-101修改并merge后  </li>
-<li>git stash list 查看刚才的工作现场<br>  git stash apply 恢复<br>  git stash drop 删除stash内容<br>  git stash pop 等同于前两步<h3 id="Feature分支"><a href="#Feature分支" class="headerlink" title="Feature分支"></a>Feature分支</h3></li>
+<li><code> git stash list </code> 查看刚才的工作现场<br>  <code> git stash apply </code> 恢复<br>  <code> git stash drop </code> 删除stash内容<br>  <code> git stash pop </code> 等同于前两步<h3 id="Feature分支"><a href="#Feature分支" class="headerlink" title="Feature分支"></a>Feature分支</h3></li>
 <li>软件开发中，每添加一个功能时，应该创建一个feature分支，完成后再合并。</li>
-<li>当分支完成并commit后，如果此时功能需要取消，要删除feature分支，此时，使用git branch –d feature-vulcan将会出现error</li>
-<li>git branch –D feature-vulcan 强行删除feature-vulcan分支<h3 id="多人协作"><a href="#多人协作" class="headerlink" title="多人协作"></a>多人协作</h3></li>
-<li>git remote –v 查看远程仓库的信息</li>
-<li>git push origin master 推送分支，git push origin dev推送dev分支</li>
+<li>当分支完成并commit后，如果此时功能需要取消，要删除feature分支，此时，使用<code> git branch –d feature-vulcan </code>将会出现error</li>
+<li><code> git branch –D feature-vulcan </code> 强行删除feature-vulcan分支<h3 id="多人协作"><a href="#多人协作" class="headerlink" title="多人协作"></a>多人协作</h3></li>
+<li><code> git remote –v </code> 查看远程仓库的信息</li>
+<li><code> git push origin master </code> 推送分支，<code> git push origin dev </code>推送dev分支</li>
 <li>master是主分支，要时刻与远程同步；dev是开发分支，团队所有成员都需要在上面工作，需要远程同步；bug分支只用于本地修复bug，无需推送到远程；feature分支是否推送到远程，取决于你是否和其他人合作在上面开发</li>
-<li>git checkout –b dev origin/dev 创建远程origin的dev分支到本地。此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”</li>
-<li>git pull 把最新的提交从远程抓下来  <ul>
-<li>相当于从远程获取最新版本，并merge到本地，更安全的做法是：<br>git fetch origin master<br>git log -p master..origin/master<br>git merge origin/master</li>
+<li><code> git checkout –b dev origin/dev </code> 创建远程origin的dev分支到本地。此时，可以在dev分支上修改，并push到远程；若此时，另一个人同样在对dev分支的文件作了修改，并试图推送，出现erro并提示“current branch is behind”</li>
+<li><code> git pull </code> 把最新的提交从远程抓下来  <ul>
+<li>相当于从远程获取最新版本，并merge到本地，更安全的做法是：<br><code> git fetch origin master </code><br><code> git log -p master..origin/master </code><br><code> git merge origin/master </code></li>
 </ul>
 </li>
-<li>git branch –set-upstream dev origin/dev 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
-<li>git tag v1.0 创建标签；默认标签是打在最新提交的commit上的</li>
-<li>git tag 查看所有标签</li>
-<li>git log –pretty=oneline –-abbrev-commit 查找到相应的commit id例如6224937；然后打标签</li>
-<li>git tag v0.9 6224937</li>
-<li>git tag –a v0.1 -m “version 0.1 released” 3628164 创建带有说明的标签，-a指定标签名，-m指定说明文字</li>
-<li>git tag –s v0.2 -m “signed version 0.2 released” 用PGP签名标签</li>
-<li>git tag –d v0.1 删除标签</li>
-<li>git push origin v0.1 推送标签到远程</li>
-<li>git push origin –tags 一次性推送全部尚未推送到远程的本地标签</li>
-<li>git push origin :refs/tags/v0.9 删除远程标签，需先删除本地标签</li>
+<li><code> git branch –set-upstream dev origin/dev </code> 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
+<li><code> git tag v1.0 </code> 创建标签；默认标签是打在最新提交的commit上的</li>
+<li><code> git tag </code> 查看所有标签</li>
+<li><code> git log –pretty=oneline –-abbrev-commit </code> 查找到相应的commit id例如6224937；然后打标签</li>
+<li><code> git tag v0.9 6224937 </code></li>
+<li><code> git tag –a v0.1 -m “version 0.1 released” 3628164 </code> 创建带有说明的标签，-a指定标签名，-m指定说明文字</li>
+<li><code> git tag –s v0.2 -m “signed version 0.2 released” </code> 用PGP签名标签</li>
+<li><code> git tag –d v0.1 </code> 删除标签</li>
+<li><code> git push origin v0.1 </code> 推送标签到远程</li>
+<li><code> git push origin –tags </code> 一次性推送全部尚未推送到远程的本地标签</li>
+<li><code> git push origin :refs/tags/v0.9 </code> 删除远程标签，需先删除本地标签</li>
 </ul>
 <h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
 <li><code> touch .gitignore </code> 添加.gitignore文件</li>
@@ -564,13 +564,13 @@
 <li><code> git config –global alias.lg “log –color –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’  –abbrev-commit” </code></li>
 </ul>
 <h2 id="二、git-命令"><a href="#二、git-命令" class="headerlink" title="二、git 命令"></a>二、git 命令</h2><ul>
-<li>git add . 同时添加多个已修改的文件到暂存区。</li>
-<li>q 退出</li>
+<li><code> git add . </code> 同时添加多个已修改的文件到暂存区。</li>
+<li><code> q </code> 退出</li>
 </ul>
 <p>撤销修改</p>
 <p>查看之前的commit</p>
 <ul>
-<li><code> git checkout <commit> <file> </file></commit></code></li>
+<li><code> git checkout <commit> file.txt </commit></code></li>
 <li><code> git checkout &amp;lt commit &amp;gt </code></li>
 <li><code> git checkout <branch> </branch></code></li>
 </ul>
@@ -593,18 +593,18 @@
 <ul>
 <li>一直按住Esc，再连续按大写的z两次</li>
 </ul>
-<p>cd .. 返回上一级目录<br>cd <file> 进入某一目录</file></p>
+<p><code> cd .. </code> 返回上一级目录<br><code> cd file.txt </code> 进入某一目录</p>
 <h2 id="三、git-submodule子模块"><a href="#三、git-submodule子模块" class="headerlink" title="三、git submodule子模块"></a>三、git submodule子模块</h2><p>添加</p>
 <ul>
 <li><code> git submodule add </code> 仓库地址 路径<br>  注意：路径不能以 / 结尾（会造成修改不生效）、不能是现有工程已有的目录。</li>
 </ul>
 <p>删除</p>
 <ul>
-<li>首先，要在“.gitmodules”文件中删除相应配置信息。然后，执行“git rm –cached ”命令将子模块所在的文件从git中删除。</li>
+<li>首先，要在“.gitmodules”文件中删除相应配置信息。然后，执行<code> git rm –cached </code>命令将子模块所在的文件从git中删除。</li>
 </ul>
 <p>下载的工程带有submodule</p>
 <ul>
-<li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br>git submodule update –init –recursive<br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
+<li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br><code> git submodule update –init –recursive </code><br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
 </ul>
 <h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><ul>
 <li><p>1 merge 冲突，git界面显示“# Please enter a commit message to explain why this merge is necessary”，按照下列步骤解决：</p>
@@ -638,9 +638,9 @@
       <category term="git" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/git/"/>
     
     
-      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
