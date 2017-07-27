@@ -499,15 +499,15 @@
     <link href="http://yoursite.com/2017/06/03/Git%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2017/06/03/Git教程/</id>
     <published>2017-06-03T10:48:04.000Z</published>
-    <updated>2017-07-27T02:51:45.279Z</updated>
+    <updated>2017-07-27T02:58:19.565Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1、Git安装"><a href="#1、Git安装" class="headerlink" title="1、Git安装"></a>1、Git安装</h2><ul>
+    <content type="html"><![CDATA[<h2 id="Git安装"><a href="#Git安装" class="headerlink" title="Git安装"></a>Git安装</h2><ul>
 <li><code> git config –global user.name “Your name” </code></li>
-<li><code> git config –global user.email “Your email” </code><br>  注意git config命令的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址<h2 id="2、远程仓库"><a href="#2、远程仓库" class="headerlink" title="2、远程仓库"></a>2、远程仓库</h2></li>
+<li><code> git config –global user.email “Your email” </code><br>  注意git config命令的–global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址<h2 id="远程仓库"><a href="#远程仓库" class="headerlink" title="远程仓库"></a>远程仓库</h2></li>
 <li><code> ssh-keygen -t rsa -C “youremail@example.com” </code><br>  在用户主目录里找到.ssh目录，里面有id_rsa和id_rsa.pub两个文件，这两个就是SSH Key的秘钥对，id_rsa是私钥，不能泄露出去，id_rsa.pub是公钥</li>
 <li><code> git remote add origin git@github.com:lintongtale/test.git </code> 将本地仓库与远程仓库关联</li>
 <li><code> git push -u origin master </code> 把当前分支推送到远程，-u把本地分支和远程分支关联起来，在以后的推送或拉取时可以简化命令<br>  <code> git push origin master </code></li>
-<li><code> git clone git@github.com:lintongtale/test.git </code> 从远程克隆一个本地库<br>  <code> ls </code> 列出所有文件<h2 id="3、版本控制"><a href="#3、版本控制" class="headerlink" title="3、版本控制"></a>3、版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2></li>
+<li><code> git clone git@github.com:lintongtale/test.git </code> 从远程克隆一个本地库<br>  <code> ls </code> 列出所有文件<h2 id="版本控制"><a href="#版本控制" class="headerlink" title="版本控制"></a>版本控制</h2><h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://wx2.sinaimg.cn/mw690/c2781ec1ly1fgdvkucbtkj20do07pdgr.jpg" alt="git状态转移"></h2></li>
 <li><code> mkdir \file.txt </code> 创建一个空目录<br>  <code> cd \file.txt </code><br>  <code> pwd </code></li>
 <li><code> git init </code> 把当前目录变成Git可以管理的仓库</li>
 <li><code> git add file.txt </code> 添加到暂存区<br>  <code> git add . </code> 将内容修改和新文件添加到暂存区，不包括删除的文件<br>  <code> git add -u </code> 更新已经被add的文件，不提交新文件（untracked file）<br>  <code> git add -A </code> 上面两个功能的合集</li>
@@ -521,7 +521,7 @@
 <li><code> git checkout . </code> 取消所有文件修改</li>
 </ul>
 </li>
-<li><code> rm file.txt </code> 删除文件<br>  <code> git rm file.txt </code><br>  <code> git commit -m “remove file” </code><br>  若发现删错了，<code> git checkout – file.txt </code><h2 id="4、分支管理"><a href="#4、分支管理" class="headerlink" title="4、分支管理"></a>4、分支管理</h2></li>
+<li><code> rm file.txt </code> 删除文件<br>  <code> git rm file.txt </code><br>  <code> git commit -m “remove file” </code><br>  若发现删错了，<code> git checkout – file.txt </code><h2 id="分支管理"><a href="#分支管理" class="headerlink" title="分支管理"></a>分支管理</h2></li>
 <li><code> git checkout -b test </code> 创建test分支，并切换到test分支，-b表示创建并切换，相当于以下两条命令<br>  <code> git branch test </code> 创建分支<br>  <code> git checkout test </code> 切换分支<br>  <code> git branch </code> 查看当前分支</li>
 <li><code> git merge test </code> 将test分支合并到master分支上，Fast forward模式，&lt;删除分支时会丢失分支信息&gt;<ul>
 <li><code> git merge –no-ff -m “merge with no-ff” </code> 合并分支，no-ff表示禁用Fast forward，&lt;删除分支时不会丢失分支信息&gt;</li>
@@ -543,7 +543,7 @@
 <li>相当于从远程获取最新版本，并merge到本地，更安全的做法是：<br><code> git fetch origin master </code><br><code> git log -p master..origin/master </code><br><code> git merge origin/master </code></li>
 </ul>
 </li>
-<li><code> git branch –set-upstream dev origin/dev </code> 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="5、标签管理"><a href="#5、标签管理" class="headerlink" title="5、标签管理"></a>5、标签管理</h2></li>
+<li><code> git branch –set-upstream dev origin/dev </code> 指定本地分支dev与远程origin/dev分支链接，之后才能git pull。此时，将本地修改与远程merge，但是会有冲突，需要手动解决，解决后commit再push<h2 id="标签管理"><a href="#标签管理" class="headerlink" title="标签管理"></a>标签管理</h2></li>
 <li><code> git tag v1.0 </code> 创建标签；默认标签是打在最新提交的commit上的</li>
 <li><code> git tag </code> 查看所有标签</li>
 <li><code> git log –pretty=oneline –-abbrev-commit </code> 查找到相应的commit id例如6224937；然后打标签</li>
@@ -555,7 +555,7 @@
 <li><code> git push origin –tags </code> 一次性推送全部尚未推送到远程的本地标签</li>
 <li><code> git push origin :refs/tags/v0.9 </code> 删除远程标签，需先删除本地标签</li>
 </ul>
-<h2 id="6、自定义Git"><a href="#6、自定义Git" class="headerlink" title="6、自定义Git"></a>6、自定义Git</h2><ul>
+<h2 id="自定义Git"><a href="#自定义Git" class="headerlink" title="自定义Git"></a>自定义Git</h2><ul>
 <li><code> touch .gitignore </code> 添加.gitignore文件</li>
 <li><code> git check-ignore –v App.class </code> 检查.gitignore的规则错误</li>
 <li><code> git config –global alias.st status </code> 配置status的别名，此时git st等效于git status</li>
@@ -563,7 +563,7 @@
 <li><code> git config –global alias.last ‘log -1’ </code> 此时，用git last就能显示最近一次的提交</li>
 <li><code> git config –global alias.lg “log –color –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’  –abbrev-commit” </code></li>
 </ul>
-<h2 id="二、git-命令"><a href="#二、git-命令" class="headerlink" title="二、git 命令"></a>二、git 命令</h2><ul>
+<h2 id="git-命令"><a href="#git-命令" class="headerlink" title="git 命令"></a>git 命令</h2><ul>
 <li><code> git add . </code> 同时添加多个已修改的文件到暂存区。</li>
 <li><code> q </code> 退出</li>
 </ul>
@@ -606,8 +606,8 @@
 <ul>
 <li>当使用git clone下来的工程中带有submodule时，初始的时候，submodule的内容并不会自动下载下来的，此时，只需执行如下命令：<br><code> git submodule update –init –recursive </code><br>即可将子模块内容下载下来后工程才不会缺少相应的文件。</li>
 </ul>
-<h2 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h2><ul>
-<li><p>1 merge 冲突，git界面显示“# Please enter a commit message to explain why this merge is necessary”，按照下列步骤解决：</p>
+<h2 id="常见问题"><a href="#常见问题" class="headerlink" title="常见问题"></a>常见问题</h2><ul>
+<li><p>merge 冲突，git界面显示“# Please enter a commit message to explain why this merge is necessary”，按照下列步骤解决：</p>
 <ul>
 <li>Press i to enter insert mode.</li>
 <li>Now you can type your message, as if you were in a normal (non-modal) text editor.</li>
@@ -617,7 +617,7 @@
 <li>另：一直按住Esc，再连续按大写的z两次</li>
 </ul>
 </li>
-<li><p>2 本地克隆远端非Master分支</p>
+<li><p>本地克隆远端非Master分支</p>
 <ul>
 <li><code> cd RepoPath </code></li>
 <li><code> git branch </code></li>
