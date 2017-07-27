@@ -120,9 +120,9 @@
       <category term="C#" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/C/"/>
     
     
-      <category term="C#" scheme="http://yoursite.com/tags/C/"/>
-    
       <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="C#" scheme="http://yoursite.com/tags/C/"/>
     
   </entry>
   
@@ -278,9 +278,9 @@
       <category term="hexo" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/hexo/"/>
     
     
-      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
